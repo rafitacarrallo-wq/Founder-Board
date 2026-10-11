@@ -1,0 +1,13 @@
+{
+  "id": "P045",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ya probé planificadores y recetarios y los dejé a las pocas semanas, no por el precio sino porque dejo de abrirlos. No me fío de que esta vez sea distinta.",
+  "objection": "Tener que meterle mis gustos y lo que tengo en la despensa a mano cada semana me da una pereza enorme, y si no lo hago bien la app no sirve.",
+  "would_change_my_mind": "Que de verdad funcione casi sin que yo meta datos: que aprenda sola de lo que compro en Mercadona y que importar un reel y tener la receta lista funcione a la primera.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

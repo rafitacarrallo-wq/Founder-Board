@@ -1,0 +1,13 @@
+{
+  "id": "P050",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Vivo pidiendo Glovo porque no sé qué cocinar, y lo de convertir los reels que guardo y no vuelvo a abrir en recetas usables me ha tocado de lleno. Por 4,99 al mes lo pruebo sin pensármelo mucho.",
+  "objection": "Que no acierte con lo que de verdad me gusta y acabe siendo otra app de recetas genéricas que abro dos veces y olvido.",
+  "would_change_my_mind": "Una prueba gratis de la versión completa unos días para ver si de verdad clava mi menú y el importar reels funciona bien.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 9,
+  "price_too_expensive": 15
+}

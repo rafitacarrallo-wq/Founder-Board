@@ -1,0 +1,11 @@
+name,type,url,location_or_channel,price_of_comparable_item,what_it_sells,positioning_line,rating,review_count,source_date
+ReciMe,Direct,https://apps.apple.com/es/app/id1593779280,App iOS (Android en camino),"$39.99/año (US), prueba 7 días","Importa recetas de TikTok/Instagram/YouTube/Pinterest con IA, planificador y lista de compra","The world's most popular recipe organizer",4.6-4.8,no verificado,2026-03
+Wecipe,Direct,https://www.producthunt.com/p/wecipe-import-de-recettes/wecipe,App,no publicado,"Importa vídeos de TikTok/Reels/Shorts y extrae ingredientes, cantidades y pasos","Import recipes from videos",n/d,n/d,2025
+Samsung Food (ex-Whisk),Indirect,https://apps.apple.com/app/id1133637674,App iOS/Android (global),"Gratis; Food+ ~$6.99/mes o $59.99/año","Guardar recetas, planes semanales con IA, lista de compra, nutrición","The most powerful free meal planning app",n/d,n/d,2026
+Mealime,Indirect,https://apps.apple.com/es/app/id1079999103,App iOS/Android,"Gratis; Pro ~$3-6/mes","Planes de comida para gente ocupada, lista de compra, nutrición en Pro","Healthy eating made simple",n/d,n/d,2026-05
+Yazio,Indirect,https://apps.apple.com/es/app/id946099227,App iOS/Android,"Pro ~€4-7/mes o ~€30-45/año","Dieta/nutrición, conteo calorías, planes de comida","Lose weight and eat healthy",n/d,n/d,2026
+Jow,Indirect,https://apps.apple.com/app/id1301257625,App (origen Francia; España sin confirmar),"Gratis + compras in-app","Menú semanal según gustos + carrito con cantidades exactas, integración súper (US: Kroger/H-E-B)","Easy recipes & groceries",n/d,n/d,2026
+Nooddle,Indirect,https://nooddle.es,App (startup española, Zaragoza),"Nooddle Nutricional por suscripción (precio no publicado); 7 días gratis","Recetas según lo que tienes en casa, menú semanal saludable, lista de compra","Come sano sin complicarte",n/d,n/d,2021
+ChatGPT / Gemini,Substitute,https://chat.openai.com,Web/App (gratis),"Gratis (tier básico)","Preguntar qué cocinar con lo que tienes, generar menú y lista","-",n/d,n/d,2026
+TikTok/Instagram guardados,Substitute,https://www.tiktok.com,App (gratis),Gratis,"Guardar reels de recetas (el status quo que la app quiere sustituir)","-",n/d,n/d,2026
+Reparto a domicilio (Glovo/Uber Eats),Substitute,https://glovoapp.com,App (España),"Variable; ~8-15€ por comida + envío","Comida lista sin cocinar ni planificar","-",n/d,n/d,2026

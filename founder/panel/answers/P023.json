@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Lo de '¿qué como hoy?' es exactamente lo que me quema cada noche a las 20:30, y por 4,99 € al mes el riesgo es ridículo. Pruebo lo gratis y si me quita la carga mental de decidir, pago sin pensarlo.",
+  "objection": "Que al final la planificación esté muy bien pero yo siga teniendo que ir al súper y cocinar igual; si no me ahorra el trabajo de verdad, en una semana liada vuelvo al Glovo.",
+  "would_change_my_mind": "Que de verdad acierte con mi poco tiempo y me deje la lista de la compra lista para pedir online, no solo recetas bonitas que no voy a hacer.",
+  "price_too_cheap": 1,
+  "price_cheap": 2.99,
+  "price_expensive": 7.99,
+  "price_too_expensive": 14.99
+}

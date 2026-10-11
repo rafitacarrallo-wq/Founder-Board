@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Lo de pegarle los reels suena bien, pero no me creo que lea bien la receta sin inventarse la mitad de los pasos o las cantidades. Y ya me ha pasado: bajo la app con ilusión y a las dos semanas vuelvo a improvisar como siempre.",
+  "objection": "Que importe un reel y me monte una receta mal, con pasos o ingredientes que no están en el vídeo, y acabe cocinando algo raro fiándome de ella.",
+  "would_change_my_mind": "Poder probar gratis la importación con tres o cuatro de mis propios reels y ver que clava ingredientes y pasos tal cual el vídeo, sin inventarse nada.",
+  "price_too_cheap": 1.99,
+  "price_cheap": 2.99,
+  "price_expensive": 6.99,
+  "price_too_expensive": 9.99
+}

@@ -1,0 +1,102 @@
+{
+ "n": 100,
+ "seed": 473198,
+ "customer": {
+  "business": "App de IA que decide qué comer, planifica la semana, convierte reels en recetas y hace la lista de la compra (nombre de trabajo)",
+  "target": "Adultos urbanos 28-42 en España, con trabajo exigente y poco tiempo, que cocinan en casa casi a diario y quieren comer sano sin carga mental",
+  "where": "España (Madrid, Barcelona, Valencia y capitales de provincia)",
+  "age": [
+   28,
+   42
+  ],
+  "segments": [
+   {
+    "name": "Profesional joven ocupado",
+    "share": 0.35,
+    "income": [
+     22000,
+     40000
+    ]
+   },
+   {
+    "name": "Profesional consolidado",
+    "share": 0.3,
+    "income": [
+     40000,
+     70000
+    ]
+   },
+   {
+    "name": "Pareja joven sin hijos (doble ingreso)",
+    "share": 0.2,
+    "income": [
+     45000,
+     95000
+    ]
+   },
+   {
+    "name": "Madre/padre primerizo sin tiempo",
+    "share": 0.15,
+    "income": [
+     30000,
+     60000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Guarda reels y no los usa",
+    "share": 0.22,
+    "how": "Guarda recetas en TikTok/Instagram que nunca vuelve a abrir."
+   },
+   {
+    "name": "Odia decidir qué comer",
+    "share": 0.2,
+    "how": "Cocina por obligación; el '¿qué hago hoy?' le pesa cada día."
+   },
+   {
+    "name": "Health-conscious",
+    "share": 0.15,
+    "how": "Lee etiquetas, quiere comer sano y variado."
+   },
+   {
+    "name": "No paga suscripciones",
+    "share": 0.15,
+    "how": "Usa versiones gratis, cancela todo lo de pago en cuanto puede."
+   },
+   {
+    "name": "Ya abandonó apps de comida",
+    "share": 0.12,
+    "how": "Probó planificadores/recetarios y los dejó a las pocas semanas."
+   },
+   {
+    "name": "Tira de domicilio",
+    "share": 0.09,
+    "how": "Cuando no sabe qué comer pide Glovo/Uber Eats."
+   },
+   {
+    "name": "Lee reseñas antes de instalar",
+    "share": 0.07,
+    "how": "Mira valoraciones de la App Store antes de probar nada."
+   }
+  ],
+  "objections": [
+   "Puedo preguntarle a ChatGPT gratis qué cocinar",
+   "Ya probé apps así y las dejé a las dos semanas",
+   "No pienso pagar otra suscripción más al mes",
+   "Los menús de estas apps acaban siendo siempre lo mismo",
+   "Tendré que meter mis gustos y mi despensa a mano, da pereza",
+   "Al final igual tengo que ir al súper y cocinar yo",
+   "¿De verdad va a acertar con lo que me gusta?",
+   "No me fío de que lea bien mis reels y no se invente la receta"
+  ],
+  "habits": [
+   "guardas reels de recetas que nunca vuelves a abrir",
+   "llegas a casa a las 20:30 sin saber qué cenar",
+   "haces la compra en Mercadona o Carrefour",
+   "trabajas desde casa dos o tres días por semana",
+   "cocinas para dos y a veces sobra comida que se echa a perder"
+  ]
+ },
+ "pitch": "Una app para el móvil que te quita de encima el \"¿qué como hoy?\". Aprende tus\ngustos, tu tiempo y lo que tienes en casa, y cada día te dice qué cocinar —rico,\nsano y rápido— con recetas fáciles de 15-30 minutos.\n\nTe monta el menú de la semana en un toque, lo reorganiza si tienes una semana\nliada, y de ahí te saca sola la lista de la compra ya ordenada.\n\nPuedes pegarle los reels de recetas que guardas en TikTok e Instagram y te los\nconvierte en receta usable (ingredientes y pasos) y la mete en tu menú.\n\nTambién te organiza el batch cooking: cocinas una vez el domingo y tienes varios\ndías resueltos, aprovechando ingredientes para no desperdiciar.\n\nGratis para empezar (una sugerencia al día y lista manual). La versión completa\n—planificación con IA, importar reels, menú semanal, batch cooking y lista\nautomática— cuesta 4,99 €/mes o 39,99 €/año. Disponible en iOS y Android."
+}

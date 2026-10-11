@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No pago suscripciones por norma, y menos por algo que depende de que la IA lea bien mis reels; me quedaría con la versión gratis y punto.",
+  "objection": "No me fío de que convierta bien los reels en receta sin inventarse ingredientes o pasos, y si tengo que revisarlo todo ya no me ahorra nada.",
+  "would_change_my_mind": "Probar gratis el importar reels durante un tiempo y ver que las recetas salen fieles y usables sin que yo las corrija.",
+  "price_too_cheap": 0.99,
+  "price_cheap": 1.99,
+  "price_expensive": 3.99,
+  "price_too_expensive": 6.99
+}

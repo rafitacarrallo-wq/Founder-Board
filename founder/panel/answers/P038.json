@@ -1,0 +1,13 @@
+{
+  "id": "P038",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ya pasé por esto: me bajé apps parecidas y recetarios, y a las dos semanas volvía a improvisar con lo que hubiera. El problema no es que no sepa qué cocinar, es que no mantengo el hábito, y una app más no me va a cambiar eso.",
+  "objection": "Que sea otra app que uso tres días con ilusión y luego abandono como todas las anteriores, pagando una suscripción que se me olvida cancelar.",
+  "would_change_my_mind": "Probar la versión gratis un mes de verdad y que lo de pegar los reels de TikTok funcione sin fricción y me ahorre tiempo real; si a las semanas sigo usándola, entonces pagaría.",
+  "price_too_cheap": 1,
+  "price_cheap": 2.99,
+  "price_expensive": 6.99,
+  "price_too_expensive": 9.99
+}

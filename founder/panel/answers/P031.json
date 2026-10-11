@@ -1,0 +1,13 @@
+{
+  "id": "P031",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ya probé apps y recetarios así y los dejé a las dos semanas; el problema nunca fue que me faltara una app, sino que acabo tirando de lo de siempre cuando llego reventada del trabajo.",
+  "objection": "Que me vuelva a pasar lo de siempre: la uso tres días, luego me da pereza abrirla y pago una suscripción de algo que no toco.",
+  "would_change_my_mind": "Que fuera realmente sin esfuerzo y se adaptara a que compro en Mercadona, sin tener que meterle datos ni mantenerla; probarlo gratis un mes entero con todo incluido para ver si esta vez sí lo mantengo.",
+  "price_too_cheap": 1,
+  "price_cheap": 2.99,
+  "price_expensive": 6.99,
+  "price_too_expensive": 10
+}

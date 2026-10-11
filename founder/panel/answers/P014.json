@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Llego a casa a las 20:30 reventado y sin idea de qué cenar, así que una app que me diga qué cocinar rápido y me saque la lista de la compra me quita una carga real; por 4,99 € apenas me lo pienso y encima puedo probarla gratis antes.",
+  "objection": "No me fío de que me lea bien los reels de TikTok e Instagram y acabe inventándose ingredientes o pasos que no van.",
+  "would_change_my_mind": "Reseñas sólidas y buena valoración en la App Store donde la gente confirme que la importación de reels y las recetas funcionan de verdad.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

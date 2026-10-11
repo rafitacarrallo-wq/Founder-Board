@@ -1,0 +1,13 @@
+{
+  "id": "P034",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "La idea me viene al pelo porque cocino para dos y tiro comida, pero yo no pago suscripciones mensuales ni de broma. Me bajo la versión gratis, la exprimo y punto.",
+  "objection": "Otra cuota más al mes que al final se me acumula con todas las demás y acabo pagando por algo que casi no abro.",
+  "would_change_my_mind": "Que fuera un pago único de una vez, o que lo gratis incluyera el menú semanal y la lista automática sin cuota.",
+  "price_too_cheap": 0.99,
+  "price_cheap": 1.99,
+  "price_expensive": 3.99,
+  "price_too_expensive": 6.99
+}

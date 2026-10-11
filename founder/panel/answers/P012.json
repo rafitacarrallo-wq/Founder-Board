@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Yo no pago suscripciones, y menos para esto: me quedo con la versión gratis, la sugerencia del día me vale y la lista la hago yo. Ya probé apps parecidas y las dejé a las dos semanas.",
+  "objection": "Que a los quince días deje de abrirla como todas las demás y esté pagando 4,99 al mes por algo que ya no uso.",
+  "would_change_my_mind": "Que la versión gratis me enganchara de verdad varios meses y notara que me ahorra tiempo cada noche; entonces quizá pagaría el año de golpe.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

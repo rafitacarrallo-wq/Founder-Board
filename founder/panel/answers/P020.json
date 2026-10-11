@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya probé planificadores y recetarios y los dejé a las pocas semanas, y no me creo que lea bien mis reels sin inventarse la receta. Pagar aunque sean 4,99 para acabar abandonándola otra vez no me compensa.",
+  "objection": "Que importe mal los reels de TikTok o Instagram y me cuele ingredientes o pasos que no son, y yo descubra el fallo a las 20:30 con la cena a medias.",
+  "would_change_my_mind": "Probar gratis la importación de reels unas semanas y ver que las recetas salen fieles y de verdad me resuelve la cena sin esfuerzo; entonces pagaría.",
+  "price_too_cheap": 1,
+  "price_cheap": 2.99,
+  "price_expensive": 6.99,
+  "price_too_expensive": 12
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Cocino para dos casi cada día y se me echa comida a perder, y cuando no sé qué hacer acabo pidiendo Glovo; por 4,99 al mes me compensa probarlo si me quita de encima el pensar el menú y me ordena la compra.",
+  "objection": "Que tenga que meter mis gustos y toda mi despensa a mano al principio; con la semana que llevo eso me da una pereza enorme y acabaré dejándolo a medias.",
+  "would_change_my_mind": "Que el arranque sea casi automático: unas pocas preguntas y que vaya aprendiendo solo, sin obligarme a cargar la despensa entera el primer día.",
+  "price_too_cheap": 1.99,
+  "price_cheap": 2.99,
+  "price_expensive": 6.99,
+  "price_too_expensive": 12.99
+}

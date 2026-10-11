@@ -1,0 +1,13 @@
+{
+  "id": "P047",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Yo no pago suscripciones, uso la versión gratis y punto. Y al final igual tengo que ir al súper y cocinar yo, así que no le veo por qué pagar cada mes.",
+  "objection": "Que pague 4,99 al mes por algo que al final no me quita el trabajo de verdad: seguiré yendo a Mercadona y cocinando yo.",
+  "would_change_my_mind": "Que fuera un pago único barato o que la versión gratis ya me resolviera el menú de la semana sin cobrarme.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

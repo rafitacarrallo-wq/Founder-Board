@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "El '¿qué ceno hoy?' me pesa cada noche al llegar a las 20:30, y por 4,99 al mes es poco dinero para quitarme esa carga mental. Puedo probar gratis antes, así que el riesgo es mínimo.",
+  "objection": "Que no acierte con lo que de verdad nos gusta en casa y acabe sugiriendo cosas raras o que mi peque no se coma, y vuelva a decidir yo igual que ahora.",
+  "would_change_my_mind": "Probar la versión completa gratis unos días y ver que de verdad clava recetas rápidas que nos gustan antes de pagar.",
+  "price_too_cheap": 1.99,
+  "price_cheap": 3.99,
+  "price_expensive": 9.99,
+  "price_too_expensive": 14.99
+}
