@@ -1,5 +1,18 @@
-venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Entornos y secretos
 .env
-*.log
+.env.*
+*.local
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
