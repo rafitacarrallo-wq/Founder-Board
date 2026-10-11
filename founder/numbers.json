@@ -1,0 +1,26 @@
+{
+  "business": "Comer bien sin pensar (app) — unidad = una suscripcion de pago / mes. days_per_month=1 para que 'por dia' se lea 'por mes'. TODO estimado, a validar.",
+  "unit": "suscripcion/mes",
+  "price": 4.00,
+  "variable": [
+    {"label": "Comision tienda (Apple/Google ~15%)", "cost": 0.60},
+    {"label": "Coste de IA por usuario de pago/mes (estimado)", "cost": 0.80},
+    {"label": "Infra/backend por usuario/mes (estimado)", "cost": 0.15}
+  ],
+  "fixed_monthly": [
+    {"label": "Fundador (coste/sueldo, ajustable)", "cost": 2000},
+    {"label": "Marketing de adquisicion/mes (estimado)", "cost": 1500},
+    {"label": "Infra base + herramientas + servicios", "cost": 500}
+  ],
+  "startup": [
+    {"label": "Diseno y marca", "cost": 1500},
+    {"label": "Legal (terminos, RGPD, marca)", "cost": 1200},
+    {"label": "Cuentas de desarrollador y setup", "cost": 150},
+    {"label": "Presupuesto de lanzamiento (ads)", "cost": 3000},
+    {"label": "Buffer IA/infra pre-lanzamiento", "cost": 500}
+  ],
+  "days_per_month": 1,
+  "capacity_per_day": 100000,
+  "plan_per_day": 3000,
+  "ramp_per_day": [100, 250, 450, 700, 1000, 1350, 1700, 2050, 2400, 2700, 2900, 3000]
+}
