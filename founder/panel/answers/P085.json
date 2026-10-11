@@ -1,0 +1,13 @@
+{
+  "id": "P085",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Me encaja el problema, pero ya le pregunto a ChatGPT gratis qué cocinar y no veo por qué pagar una suscripción más al mes. Probaría la versión gratis y punto.",
+  "objection": "Que acabe siendo lo mismo que ChatGPT pero de pago, y que al final deje de abrirla a las dos semanas como todas las apps.",
+  "would_change_my_mind": "Reseñas sólidas y buena nota en la App Store de gente que diga que de verdad les quita la carga mental y que lo de importar los reels funciona bien.",
+  "price_too_cheap": 1,
+  "price_cheap": 2.99,
+  "price_expensive": 4.99,
+  "price_too_expensive": 9.99
+}

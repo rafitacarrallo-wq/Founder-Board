@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "La idea me viene bien porque voy sin tiempo, pero no me creo que lea mis reels y me saque la receta bien sin inventarse ingredientes o pasos. Si acaso bajo la versión gratis y la dejo muerta como los reels que guardo.",
+  "objection": "Que me monte una receta mal leída de un reel y acabe cocinando algo raro o comprando cosas que no eran.",
+  "would_change_my_mind": "Ver que importa un reel real y me saca ingredientes y pasos exactos, sin inventarse nada, en una prueba antes de pagar.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

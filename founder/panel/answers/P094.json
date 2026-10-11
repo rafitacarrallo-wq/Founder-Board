@@ -1,0 +1,13 @@
+{
+  "id": "P094",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Al final el trabajo de verdad sigue siendo mío: tengo que bajar al súper y ponerme a cocinar igual. Me monta el menú y la lista, vale, pero eso no es lo que me agota.",
+  "objection": "Es una app nueva sin reseñas; yo no instalo ni pago nada sin ver antes valoraciones en la App Store de gente a la que de verdad le ha ahorrado tiempo.",
+  "would_change_my_mind": "Que después de probar la versión gratis unas semanas vea que de verdad me reduce la carga mental y que tenga buenas reseñas de usuarios parecidos a mi.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 7,
+  "price_too_expensive": 12
+}

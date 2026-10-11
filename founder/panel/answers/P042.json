@@ -1,0 +1,13 @@
+{
+  "id": "P042",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Cocino casi a diario y lo de decidir qué poner me agota más que cocinar; por 5 euros al mes, si de verdad me monta el menú, la lista sola y encima me convierte los reels que guardo en recetas de verdad, me ahorra justo la parte que odio. Empiezo con la mensual para probar, no me caso con el año.",
+  "objection": "Que acabe siendo otra app que abro dos semanas y luego abandono, como los reels que guardo y nunca vuelvo a mirar, y mientras tanto a ChatGPT le pregunto gratis qué cocinar.",
+  "would_change_my_mind": "Si al probar la versión gratis veo que las sugerencias son genéricas y no aprende de verdad mis gustos ni mi tiempo, no pago nada.",
+  "price_too_cheap": 1.99,
+  "price_cheap": 2.99,
+  "price_expensive": 7.99,
+  "price_too_expensive": 12.99
+}

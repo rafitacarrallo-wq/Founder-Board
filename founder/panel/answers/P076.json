@@ -1,0 +1,13 @@
+{
+  "id": "P076",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "El '¿qué hago hoy?' me pesa cada día y por 4,99 al mes casi no es decisión; si de verdad aprende mis gustos y me quita esa carga mental, lo pago sin pensarlo mucho.",
+  "objection": "Que acabe sugiriéndome siempre lo mismo, como todas estas apps, y vuelva a tener que pensar yo.",
+  "would_change_my_mind": "Probar la versión gratis un par de semanas y ver que las sugerencias varían de verdad y encajan con lo que tengo en casa.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

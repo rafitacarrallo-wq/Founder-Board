@@ -1,0 +1,13 @@
+{
+  "id": "P086",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Yo no pago suscripciones, y menos para algo que puedo resolver preguntándole a ChatGPT gratis qué cocinar. La versión gratis me vale de sobra y lo de pago lo cancelo en cuanto puedo.",
+  "objection": "Es otra cuota mensual más que se come mi sueldo ajustado para algo que no necesito pagar.",
+  "would_change_my_mind": "Que todo lo útil (menú semanal y lista automática) fuera gratis sin cuota, o un pago único barato en vez de suscripción.",
+  "price_too_cheap": 0.99,
+  "price_cheap": 1.99,
+  "price_expensive": 3.99,
+  "price_too_expensive": 4.99
+}

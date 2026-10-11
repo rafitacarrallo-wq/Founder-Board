@@ -1,0 +1,13 @@
+{
+  "id": "P058",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "El '¿qué hago hoy?' me pesa de verdad cada día y 4,99 € es menos que un café, así que me compensa probar la versión completa. Lo de pegarle los reels que guardo y que me salga la lista de la compra ordenada es justo lo que me daría pereza montar a mano.",
+  "objection": "Ya me pasó con otras apps parecidas: las usas con ganas dos semanas y luego las dejas. Me da que esta acabará igual si la planificación no se adapta de verdad a mi semana real.",
+  "would_change_my_mind": "Que al cabo de un mes siga ahorrándome el decidir sin tener que pelearme con la app ni editar menús a mano; si la prueba gratis me engancha de verdad, pago sin dudar.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

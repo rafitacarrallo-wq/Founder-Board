@@ -1,0 +1,13 @@
+{
+  "id": "P088",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Soy justo esa persona: cocino casi a diario, quiero comer sano sin comerme la cabeza con el '¿qué hago hoy?', y por menos de 5 euros al mes me quita esa carga mental. Empiezo gratis y si de verdad me monta el menú y la lista sola, pago sin pensarlo.",
+  "objection": "Me da pereza el arranque: tener que meter mis gustos y lo que tengo en la despensa a mano. Si el primer dia es un coñazo de configurar, lo dejo abierto y no vuelvo.",
+  "would_change_my_mind": "Que el alta sea de dos minutos y aprenda sola de lo que voy cocinando, sin obligarme a inventariar la despensa a mano.",
+  "price_too_cheap": 1.99,
+  "price_cheap": 2.99,
+  "price_expensive": 7.99,
+  "price_too_expensive": 14.99
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P062",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "La app está muy bien pero es para quien cocina cada día, y yo cuando llego a las 20:30 sin saber qué cenar acabo pidiendo Glovo, no poniéndome a cocinar 20 minutos. Me resuelve un problema que en realidad no tengo.",
+  "objection": "No pienso pagar otra suscripción más al mes, y menos para algo que me dice que cocine cuando lo que yo hago es pedir a domicilio.",
+  "would_change_my_mind": "Que me demostrara durante un mes gratis que de verdad me quita las ganas de pedir comida y me ahorra dinero frente a Glovo, no solo recetas.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

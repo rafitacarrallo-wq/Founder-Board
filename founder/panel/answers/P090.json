@@ -1,0 +1,13 @@
+{
+  "id": "P090",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "La promesa me toca justo donde me duele, pero ya he pasado por esto: me bajo la app con ilusión y a las dos semanas vuelvo a improvisar. Empezaría por la versión gratis antes de soltar un euro.",
+  "objection": "No es el precio, es que no sé si de verdad voy a seguir usándola o será otra app muerta en el móvil. Lo de pegar los reels suena bien, pero ya tengo cientos guardados sin abrir.",
+  "would_change_my_mind": "Que la versión gratis me enganchara de verdad un mes entero y notara que como mejor sin pensar; entonces pagaría el anual sin dudarlo.",
+  "price_too_cheap": 1.99,
+  "price_cheap": 2.99,
+  "price_expensive": 6.99,
+  "price_too_expensive": 9.99
+}

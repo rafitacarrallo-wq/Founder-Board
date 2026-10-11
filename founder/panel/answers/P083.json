@@ -1,0 +1,13 @@
+{
+  "id": "P083",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Me pasa como con los reels: me lo guardo todo con la mejor intención y luego no lo abro. Me bajaría la versión gratis, pero no me veo pagando por otra app que acabará muerta en el móvil.",
+  "objection": "Al final la app me dice qué cocinar, pero igual tengo que ir al súper y ponerme a cocinar yo a las 20:30, que es justo lo que me da pereza.",
+  "would_change_my_mind": "Que importara de verdad mis reels guardados y me montara la cena de hoy con lo que ya tengo en la nevera, sin que yo toque nada; si eso me ahorra el ir a comprar, pago.",
+  "price_too_cheap": 1,
+  "price_cheap": 2.99,
+  "price_expensive": 6.99,
+  "price_too_expensive": 9.99
+}

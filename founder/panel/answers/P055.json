@@ -1,0 +1,13 @@
+{
+  "id": "P055",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Cocino en casa casi todos los días y el '¿qué como hoy?' me come la cabeza entre reuniones; por menos de 5 euros al mes, que me monte el menú sano y me saque la lista de la compra ordenada me compensa de sobra.",
+  "objection": "No me fío de que lea bien mis reels de TikTok e Insta y me acabe metiendo en el menú una receta inventada o con ingredientes mal sacados.",
+  "would_change_my_mind": "Que la receta importada del reel me la deje revisar y corregir antes de meterla en el menú, para no comerme un invento.",
+  "price_too_cheap": 1.99,
+  "price_cheap": 3.99,
+  "price_expensive": 7.99,
+  "price_too_expensive": 12.99
+}

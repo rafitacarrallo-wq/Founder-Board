@@ -1,0 +1,13 @@
+{
+  "id": "P059",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Llego reventado a las 20:30 y el bloqueo de qué cenar sano es justo mi problema; por 4,99 al mes me quita decisiones toda la semana y me hace la lista sola. Lo de importar los reels que guardo y el batch del domingo es algo que ChatGPT no me resuelve bien.",
+  "objection": "Que al final sea lo mismo que preguntarle gratis a ChatGPT y lo acabe dejando de pagar en cuanto se me pase la novedad.",
+  "would_change_my_mind": "Empiezo por la versión gratis; si en una o dos semanas noto que de verdad aprende mis gustos y no repite platos, paso al anual sin pensarlo.",
+  "price_too_cheap": 1,
+  "price_cheap": 3.99,
+  "price_expensive": 7.99,
+  "price_too_expensive": 12.99
+}

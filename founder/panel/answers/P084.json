@@ -1,0 +1,13 @@
+{
+  "id": "P084",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "El '¿qué hago hoy de comer?' me pesa cada día y con el peque no tengo cabeza para pensarlo; por menos de lo que cuesta un menú de comida a domicilio me quito ese agobio, así que lo pago aunque me cueste admitirlo.",
+  "objection": "Es otra suscripción más al mes y me da miedo acabar pagándola para no usarla, como el gimnasio o mil apps que probé y abandoné en dos semanas.",
+  "would_change_my_mind": "Que la versión gratis me diera unos días para ver que de verdad me simplifica la semana antes de soltarle los 4,99 €, o un plan anual con prueba para no sentir que firmo un gasto fijo a ciegas.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

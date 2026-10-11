@@ -1,0 +1,13 @@
+{
+  "id": "P056",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Yo no pago suscripciones, me quedaría con la versión gratis y punto. Y encima no me fío de que lea bien mis reels sin inventarse la receta, así que menos razón para pagar.",
+  "objection": "Que le pegue un reel y me devuelva ingredientes o pasos mal, inventados, y acabe cocinando algo que no era.",
+  "would_change_my_mind": "Que la versión gratis me demostrara durante semanas que importa mis reels sin fallos y me ahorra comida de verdad; ahí quizá pagaría el año.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}
