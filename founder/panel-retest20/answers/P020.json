@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "El '¿qué ceno hoy?' me pesa cada noche y esto promete justo quitármelo, y encima lo pruebo 30 días gratis, así que no arriesgo nada por probarlo. Por 4,99 al mes, si de verdad me resuelve la cena, lo pago sin pensarlo.",
+  "objection": "Que al final me proponga siempre lo mismo, como las otras apps; dicen 'nunca el mismo plato en 14 días' pero eso está por ver en mi cocina real.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 15
+}

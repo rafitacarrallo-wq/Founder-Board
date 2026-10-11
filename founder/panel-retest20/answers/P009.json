@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "La prueba de 30 días me tienta para instalarla, pero antes de pagar busco reseñas y aquí no hay ninguna que me demuestre que de verdad la sigues usando. Y para decidir la cena ya le pregunto gratis a ChatGPT.",
+  "objection": "Pagar 4,99 al mes por algo que ChatGPT me resuelve gratis, y sin valoraciones en la App Store que me confirmen que no la abandono a las dos semanas.",
+  "would_change_my_mind": "Reseñas reales y muchas estrellas en la App Store de gente que la sigue abriendo meses después, demostrando que ahorra comida y tiempo de verdad frente a lo gratis.",
+  "price_too_cheap": 1,
+  "price_cheap": 2.99,
+  "price_expensive": 4.99,
+  "price_too_expensive": 9.99
+}

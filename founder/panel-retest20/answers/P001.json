@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Me pasa exactamente lo que dicen: guardo reels de recetas que no vuelvo a abrir y cada noche pierdo tiempo decidiendo qué cenar. Con 30 días gratis y el anual de pago único me quito la pereza de la cabeza sin arriesgar nada.",
+  "objection": "Que sea otra suscripción más que acabo cancelando a las dos semanas, como casi todas las apps que me descargo.",
+  "would_change_my_mind": "Que durante la prueba gratis compruebe que de verdad acierta con lo que me gusta y me ahorra el '¿qué ceno hoy?' más de una semana seguida.",
+  "price_too_cheap": 1.99,
+  "price_cheap": 2.99,
+  "price_expensive": 7.99,
+  "price_too_expensive": 11.99
+}

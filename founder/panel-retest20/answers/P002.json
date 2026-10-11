@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Me bajaría la prueba gratis porque el '¿qué ceno hoy?' me mata cada noche, pero yo no pago suscripciones: las apps así las uso gratis y las acabo cancelando. No me veo pagando aunque sean 4,99.",
+  "objection": "Que al final los menús acaben siendo siempre los mismos cuatro platos, como me pasa con todas estas apps, y acabe dejándola a las dos semanas.",
+  "would_change_my_mind": "Que tras los 30 días gratis note de verdad que no se repite y me ahorra pensar cada noche, y que el precio de socio fundador anual quede ridículamente bajo de por vida.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

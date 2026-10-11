@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Me suena util y justo para mi caos de cada noche, pero yo no pago suscripciones: me bajaria la version gratis, usaria los 30 dias y cancelaria antes de que me cobraran nada.",
+  "objection": "Dicen 'pagas una vez, no otra suscripcion', pero 4,99 al mes sigue siendo una suscripcion mas, y lo del anual 'a precio reducido de por vida' me huele a gancho que luego sube.",
+  "would_change_my_mind": "Que hubiera un plan gratis de verdad para siempre con lo basico (la cena del dia y la lista), y pagar solo si quiero los extras.",
+  "price_too_cheap": 0.99,
+  "price_cheap": 1.99,
+  "price_expensive": 4.99,
+  "price_too_expensive": 7.99
+}

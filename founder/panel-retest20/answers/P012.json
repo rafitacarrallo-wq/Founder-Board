@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": true,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Llego reventada a las 20:30 sin idea de qué cenar, así que resolver eso en 10 segundos me tienta de verdad. Y como son 30 días gratis y no pago si no me convence, no arriesgo nada por probarla.",
+  "objection": "Que me pase lo de siempre: la abro con ilusión, me engancho una semana y a las dos la tengo muerta en una carpeta, como con las recetas que guardo y nunca cocino.",
+  "would_change_my_mind": "Ver que de verdad me sigue acertando y aligerando las cenas pasado el primer mes, no solo los primeros días.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 7,
+  "price_too_expensive": 12
+}

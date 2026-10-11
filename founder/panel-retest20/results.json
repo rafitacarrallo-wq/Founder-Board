@@ -1,0 +1,147 @@
+{
+ "business": "App de IA que decide qué comer, planifica la semana, convierte reels en recetas y hace la lista de la compra (nombre de trabajo)",
+ "seed": 473198,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 11,
+ "passes": 9,
+ "buy_rate": 0.55,
+ "by_segment": [
+  [
+   "Profesional consolidado",
+   6,
+   0.8333333333333334
+  ],
+  [
+   "Profesional joven ocupado",
+   7,
+   0.5714285714285714
+  ],
+  [
+   "Madre/padre primerizo sin tiempo",
+   3,
+   0.3333333333333333
+  ],
+  [
+   "Pareja joven sin hijos (doble ingreso)",
+   4,
+   0.25
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Health-conscious",
+   3,
+   1.0
+  ],
+  [
+   "Odia decidir qué comer",
+   4,
+   1.0
+  ],
+  [
+   "Tira de domicilio",
+   2,
+   1.0
+  ],
+  [
+   "Ya abandonó apps de comida",
+   2,
+   0.5
+  ],
+  [
+   "Guarda reels y no los usa",
+   5,
+   0.2
+  ],
+  [
+   "No paga suscripciones",
+   3,
+   0.0
+  ],
+  [
+   "Lee reseñas antes de instalar",
+   1,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$57,000 and up",
+   8,
+   0.75
+  ],
+  [
+   "$37,000 to $57,000",
+   7,
+   0.42857142857142855
+  ],
+  [
+   "under $37,000",
+   5,
+   0.4
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   7,
+   [
+    "Me bajaría la prueba gratis porque el '¿qué ceno hoy?' me mata cada noche, pero yo no pago suscripciones: las apps así las uso gratis y las acabo cancelando. No me veo pagando aunque sean 4,99.",
+    "Me describe clavada: llego a las 20:30 sin saber qué cenar y tengo el móvil lleno de recetas guardadas que no vuelvo a abrir. Justo por eso no me fío: me bajaría la prueba gratis, pero soy de las que la dejan a las dos semanas, y antes de que acaben los 30 días ya la habré olvidado."
+   ],
+   [
+    "P002",
+    "P007"
+   ]
+  ],
+  [
+   "trust",
+   1,
+   [
+    "Me conozco: guardo reels de recetas y no vuelvo a abrirlos, y las apps así las dejo a las dos semanas. No me creo que vaya a leer bien mis reels sin inventarse la receta, y revisarlas yo una a una es justo el trabajo que no quiero."
+   ],
+   [
+    "P006"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "La prueba de 30 días me tienta para instalarla, pero antes de pagar busco reseñas y aquí no hay ninguna que me demuestre que de verdad la sigues usando. Y para decidir la cena ya le pregunto gratis a ChatGPT."
+   ],
+   [
+    "P009"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "convenience",
+   11,
+   [
+    "Me pasa exactamente lo que dicen: guardo reels de recetas que no vuelvo a abrir y cada noche pierdo tiempo decidiendo qué cenar. Con 30 días gratis y el anual de pago único me quito la pereza de la cabeza sin arriesgar nada.",
+    "Es justo mi infierno de cada noche, el '¿qué ceno hoy?', y me prometen la primera cena en un minuto sin teclear la despensa, que era lo que me daba pereza. Con 30 días gratis y 4,99 € no arriesgo casi nada por probarlo."
+   ],
+   [
+    "P001",
+    "P003"
+   ]
+  ]
+ ],
+ "flip": [
+  "Que tras los 30 días gratis note de verdad que no se repite y me ahorra pensar cada noche, y que el precio de socio fundador anual quede ridículamente bajo de por vida.",
+  "Ver un ejemplo real de un reel mío convertido en receta clavada, bien, antes de dar ni un dato.",
+  "Que durante la prueba gratis me resolviera de verdad la cena cada noche sin que yo tenga que entrar a buscar, y que el anual fuera un pago único real de por vida sin renovación automática.",
+  "Que de verdad se note que reduce el esfuerzo real (recetas de 15 min con lo que ya tengo y el pedido online hecho casi solo), y probarlo gratis sin meter tarjeta esos 30 días.",
+  "Reseñas reales y muchas estrellas en la App Store de gente que la sigue abriendo meses después, demostrando que ahorra comida y tiempo de verdad frente a lo gratis.",
+  "Que tras los 30 días notara de verdad que cada noche me resuelve la cena sin esfuerzo y la siguiera usando sola, sin tener que acordarme de abrirla.",
+  "Que me demostraran con datos reales que la gente como yo la sigue abriendo al tercer mes, no solo la promesa.",
+  "Que hubiera un plan gratis de verdad para siempre con lo basico (la cena del dia y la lista), y pagar solo si quiero los extras.",
+  "Que después de los 30 días vea que de verdad la sigo abriendo y me ha ahorrado comida y tiempo; si me engancha en la prueba, pagaría el anual."
+ ],
+ "purchases_first_month_per_buyer": 0.8181818181818182,
+ "price_answers": 20
+}

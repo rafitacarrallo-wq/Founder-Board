@@ -534,11 +534,31 @@ El salto está en **probabilidad percibida** (3→7), que era el punto donde el
 consejo y el panel decían que la oferta moría. La garantía hace casi todo el
 trabajo.
 
-### 5. Re-test en el panel
+### 5. Re-test en el panel (hecho)
 
-Pendiente: `/founder-consumer --quick` con el nuevo `pitch.md` (misma semilla),
-para comparar la tasa de compra antes/después y ver qué objeciones caen. Se
-ejecuta a continuación.
+Re-corrido `/founder-consumer --quick` (20 compradores, **misma semilla 473198 →
+las mismas 20 personas** que vieron el pitch v1), ahora con la oferta v2.
+
+| | tasa de compra (mismas 20 personas) |
+| --- | ---: |
+| **v1** (pitch original) | 9/20 = **45%** |
+| **v2** (oferta "Cena Resuelta" + garantía 30 días + anual) | 11/20 = **55%** |
+
+**+10 puntos**, pero con ruido: **6 pasaron de NO a SÍ** (la garantía y el "pagas
+una vez" convencieron a dudosos de retención) y **4 pasaron de SÍ a NO** (net +2
+compradores). La mejora es real pero modesta: la oferta ablanda el muro, no lo
+derriba.
+
+**Hallazgo crítico (y honesto):** varios de los que ahora "compran" dijeron
+literalmente que **usarían la prueba gratis de 30 días y cancelarían antes de
+pagar**. La garantía sube la conversión *aparente* pero puede **empeorar la
+economía real** (se llevan el mes gratis y se van). Refuerza el veredicto del CFO:
+lo que hay que probar en el mundo real no es el interés, es **la retención a las
+2-4 semanas** — el Test B de `/founder-launch`.
+
+> Resultados completos en `founder/offer-retest.md`; respuestas en
+> `founder/panel-retest20/`. El panel canónico sigue siendo el de 100
+> (`founder/panel/`, 37%).
 
 ---
 *Fuentes: `founder/panel/results.md`, `founder/pricing.md`, `founder/competitors.md`, `founder/board.md`. La garantía y los costes del stack dependen de `/founder-cfo`.*

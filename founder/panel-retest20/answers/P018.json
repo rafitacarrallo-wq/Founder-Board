@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Me suena bien y la prueba de 30 días sin pagar me quitaría el miedo a probarla, pero me conozco: guardo recetas y reels que no vuelvo a abrir, así que seguramente la dejaría antes de llegar a pagar. Y de entrada mi cabeza dice 'no pienso pagar otra suscripción al mes más'.",
+  "objection": "Que sea una app más de las que abandono a las dos semanas, y encima otra suscripción colándose en mis gastos cada mes.",
+  "would_change_my_mind": "Que después de los 30 días vea que de verdad la sigo abriendo y me ha ahorrado comida y tiempo; si me engancha en la prueba, pagaría el anual.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 7,
+  "price_too_expensive": 12
+}
