@@ -1,29 +1,33 @@
-# Lente de Producto
-Puntuación: 5/10 | Voto: FINANCIAR SI
+# Product lens
+Score: 6/10 | Vote: FUND IF
 
-## Qué es fuerte
-- Hay un dolor real y emocional, no solo funcional: la carga mental de decidir qué comer a diario. Eso es un buen punto de partida para la lente de Producto, que pide empezar por el momento de uso.
-- Existe una experiencia que, bien resuelta, podría sentirse mágica: "miro la nevera 20 minutos sin ideas" → "aquí tienes qué cenar hoy". Ese es un momento concreto y traducible a un producto.
-- La importación de reels es el único gancho con potencial de distribución diferencial: convierte un hábito que ya existe (guardar vídeos que nunca se usan) en valor inmediato. Es también la pieza más "contable" como historia.
+## Lo que es fuerte
 
-## Qué lo mataría (los 3 principales, el más peligroso primero)
-1. **Hace demasiadas cosas; no hay UNA cosa que haga de forma brillante.** Decidir qué comer, importar reels, menú semanal, batch cooking, lista de compra y conciencia de despensa son seis productos distintos metidos en uno. La lente de Producto dice que foco es decir que no: una app que intenta las seis probablemente hará las seis de forma mediocre, y ninguna lo bastante bien para que el usuario la ame. Este es el riesgo mortal: sin recorte, el producto no tiene alma ni se puede explicar.
-2. **El primer uso (los 5 minutos) está lleno de costuras que piden trabajo al usuario antes de dar valor.** Para que "decide qué comer hoy" funcione de verdad, la app necesita saber qué hay en la despensa, los gustos, el tiempo y el nivel. Si el onboarding exige meter inventario y preferencias a mano, el usuario abandona antes de sentir la magia. La promesa es "sin pensar", pero el arranque exige pensar y teclear mucho. La experiencia se rompe justo donde más importa: la primera impresión.
-3. **El producto depende de costuras que no controla.** Dos puntos de rotura: (a) la importación reel→receta depende de las APIs/formatos de TikTok e Instagram, que pueden cambiar o bloquear el acceso, y del reconocimiento del vídeo, que fallará con frecuencia; (b) la IA de recomendación acertará o fallará con los gustos, y un par de propuestas malas al principio destruyen la confianza para siempre. La lente de Producto avisa: las costuras entre sistemas y terceros son donde la experiencia se rompe, y aquí hay varias fuera del control del equipo.
+- **Hay "una sola cosa" defendible.** La tesis se puede decir en una frase: *convertir una demo técnica en un pitch de 7 minutos que un comprador enterprise entiende y aprueba.* Eso es foco. La lente de Producto premia que exista una promesa clara, y aquí la hay sin necesidad de un párrafo.
+- **El producto empieza por la experiencia, no por el método.** El entregable está definido desde el momento del cliente: la escena es un fundador técnico delante de un comprador corporativo que desconecta. Los tres pasos (auditoría de fricción, rediseño de la narrativa, roleplay de objeciones) están construidos hacia atrás desde ese momento. Eso es exactamente el orden correcto.
+- **Decir no está incorporado en el diseño.** Sin equity, sin capital, sin construir software, sin plantilla. El sprint se niega a ser una agencia de GTM completa. Esa disciplina de alcance es la mitad de por qué un servicio de una sola persona puede ejecutarse con calidad.
+- **El sprint de 3 semanas es una envoltura simple y nombrable.** "Demo Architecture & GTM Value Pitch" es un objeto que el cliente puede comprar, agendar y terminar. La simplicidad del formato es un activo de producto, no solo de marketing.
 
-## Preguntas que haría al fundador
-- Si solo pudieras lanzar UNA función y apagar el resto durante seis meses, ¿cuál sería? ¿Y por qué no es ya eso el producto entero?
-- Describe literalmente los primeros 5 minutos de un usuario nuevo, pantalla a pantalla. ¿Cuántos toques y cuántos datos hay que meter antes de que la app proponga la primera comida que de verdad apetezca?
-- ¿Cómo mantienes la conciencia de despensa sin convertir al usuario en un operario de inventario? ¿Se actualiza sola, se asume, o hay que teclear cada tomate?
-- Cuando la IA recomiende algo que el usuario odia en el día 1, ¿cómo se recupera la confianza? ¿Cuál es el plan para los fallos, no para los aciertos?
-- Si la importación de reels dejara de funcionar mañana por un cambio de TikTok/Instagram, ¿sigue existiendo el producto? ¿Es el corazón o es un gancho?
-- Dime el producto en una sola frase, sin la palabra "y". Ahora mismo hace falta un párrafo, y eso según la lente significa que el producto todavía no está claro.
+## Lo que lo mataría (top 3, lo más peligroso primero)
 
-## Si FINANCIAR SI: las condiciones
-1. **Recortar a una sola función de héroe para el lanzamiento.** La candidata más fuerte según la experiencia: "decide qué comer hoy / esta semana" resuelto en segundos. Reels, batch cooking y lista de compra pasan a hipótesis posteriores, no a la v1. Sin este recorte, pasar.
-2. **Un onboarding que entregue valor antes de pedir datos.** La primera propuesta de comida debe aparecer en el primer minuto con cero o casi cero inputs manuales (gustos inferidos, despensa opcional o asumida). Valor primero, configuración después.
-3. **Prototipo probado del momento clave y de sus fallos.** Demostrar, con usuarios reales, que la propuesta del día acierta lo suficiente como para generar confianza, y enseñar el plan de recuperación cuando falla. Idealmente sin depender todavía de la importación de reels.
-4. **Números abiertos que condicionan el producto, no inventarlos:**
-   - Coste variable de IA por usuario al mes (define cuántas recomendaciones puede dar el free sin arruinarte) → lo responde **/founder-cfo**.
-   - Fiabilidad técnica real de reel→receta y su coste → investigación técnica; el encaje de mercado y la diferenciación de la función importación los sitúa **/founder-competitors**.
-   - Si la función de héroe elegida es lo que la gente de verdad quiere pagar y usar → **/founder-consumer**.
+1. **La costura entre el entregable y el resultado real: el fundador se queda solo cuando más importa.** El producto se entrega en la semana 3 (un pitch nuevo y un roleplay), pero el valor que el cliente compra —más cierres enterprise— ocurre semanas o meses después, en reuniones reales donde el consultor ya no está. Ahí está el handoff más peligroso: el momento de uso del producto *no es* el sprint, es la demo en vivo que el fundador da solo. Si el fundador técnico no interioriza la narrativa y vuelve a hablar de "algoritmos" bajo presión, el producto falla en el único punto donde se juzga, y el consultor ni siquiera lo verá. La lente de Producto dice que las costuras son donde se rompe: esta costura es el corazón de la propuesta.
+2. **El propio "producto" depende de un input que el cliente controla y puede ser pobre.** El sprint asume que la startup tiene una demo y un pipeline que auditar. Si la demo de entrada es confusa de base o el producto subyacente no demuestra ROI real, ninguna reescritura de 7 minutos lo arregla: estarías puliendo el envoltorio de algo que no vende. El consultor no controla la calidad de la materia prima, y la experiencia entregada es tan buena como el peor input que entra.
+3. **La calidad depende por completo de una persona y no es replicable sin perder la "taste".** El valor es el criterio híbrido (industria + comercial) de un solo consultor. Eso garantiza craft en cada sprint, pero lo hace imposible de escalar sin diluir exactamente lo que lo hace bueno. A 9.500 € y limitado por las horas del fundador, el techo de ingresos es bajo y cualquier intento de crecer (plantilla, playbooks) reintroduce las costuras que hoy el fundador controla a mano.
+
+## Las preguntas que le haría al fundador
+
+- **¿Cuál es la única cosa que este sprint hace de forma brillante, si tuvieras que cortar todo lo demás?** Si la respuesta es "el pitch de 7 minutos", ¿por qué existe la auditoría y el roleplay como entregables separados y no como medios para ese fin?
+- **¿Cómo son los primeros cinco minutos del cliente?** ¿Qué ve y siente el fundador técnico en la primera sesión, y en qué momento exacto pasa de "me están juzgando mi producto" a "me están ayudando a venderlo"?
+- **¿Qué cortarías?** El roleplay y la auditoría ambos consumen horas del fundador-consultor (el recurso más escaso). ¿Cuál de los tres entregables sobreviviría si solo pudieras vender uno?
+- **¿Cómo garantizas que la narrativa sobreviva a la semana 4, cuando tú ya no estás en la sala?** ¿El entregable incluye que el fundador *ejecute* el pitch delante de ti hasta que sea suyo, o solo le entregas un guion?
+- **¿Qué pasa cuando el input es malo?** ¿Tienes un criterio de "no acepto este cliente" si su demo o su producto no tienen un ROI real que contar?
+- **Datos que la lente necesita y nadie tiene todavía (preguntas abiertas):**
+  - Qué parte del resultado (más reuniones, más cierres) es atribuible al sprint frente al producto o al mercado del cliente — abre **/founder-consumer** (disposición a pagar y percepción de valor del comprador).
+  - Quién más vende hoy este rediseño de pitch/demo (pitch coaches de VC, sales enablement, fractional sales leaders) y en qué se distingue la experiencia entregada — abre **/founder-competitors**.
+  - Si el techo de ingresos de una sola persona a 9.500 €/sprint sostiene el negocio, y cuánto margen deja cada sprint dado el coste en horas — abre **/founder-cfo**.
+
+## Si es FUND IF: las condiciones
+
+1. **Cerrar la costura del resultado.** El entregable debe incluir que el fundador del cliente *ejecute* el pitch de 7 minutos en vivo (grabado, con feedback iterativo) hasta que lo pueda dar sin apoyarse en el guion. El producto no es el documento; es la capacidad instalada en la persona que dará la demo sola.
+2. **Un criterio de entrada explícito.** Definir qué clientes se rechazan: si la demo o el producto subyacente no tienen un ROI contable, el sprint no puede entregar su promesa y daña la reputación. Proteger la calidad del input protege la calidad del output.
+3. **Una prueba de atribución mínima antes de escalar.** Al menos 3-5 sprints con una métrica de resultado acordada de antemano con el cliente (p. ej. tasa de avance a segunda reunión enterprise antes vs. después), para distinguir el valor del sprint del ruido del mercado. Sin esto, la promesa es una afirmación de fe, no un producto demostrable. (La forma de esta métrica se diseña con **/founder-consumer**.)

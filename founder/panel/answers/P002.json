@@ -2,12 +2,12 @@
   "id": "P002",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Ya probé planificadores y recetarios y los dejé a las pocas semanas; vuelvo siempre a mi rutina de Mercadona. No me fío de que una app más me dure, por muy barata que sea.",
-  "objection": "¿De verdad va a acertar con lo que me gusta, o me va a proponer cosas que nunca voy a cocinar como todas las demás?",
-  "would_change_my_mind": "Que la versión gratuita me demostrara en dos semanas reales que aprende mis gustos y me ahorra tiempo de verdad antes de pedirme pagar.",
-  "price_too_cheap": 1,
-  "price_cheap": 3,
-  "price_expensive": 8,
-  "price_too_expensive": 15
+  "reason_code": "trust",
+  "reason": "Me he quemado con agencias y coaches antes, y esto es un operador suelto cobrando 9.500 por tres semanas sin nada que me ate su resultado. Soy tecnico, el problema de la demo lo veo y creo que puedo reescribir el pitch yo mismo o con un fractional que me cubra GTM entero.",
+  "objection": "9.500 fijos por un sprint de 3 semanas con una sola persona y cero garantia de que mi conversion en la demo mejore de verdad; por ese dinero casi me pago meses de un fractional sales leader.",
+  "would_change_my_mind": "Casos concretos de founders como yo (seed/Serie A, enterprise, IA/logistica) con antes-y-despues de conversion, y algun componente de riesgo compartido o garantia ligada a resultados.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4000,
+  "price_expensive": 7500,
+  "price_too_expensive": 12000
 }

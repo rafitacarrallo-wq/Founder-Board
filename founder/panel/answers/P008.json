@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Ya he probado recetarios y planificadores y los he dejado a las pocas semanas, así que no me fío de que esta vez sea distinto. Me bajaría la versión gratis, pero no pago de entrada por algo que al final me deja igual yendo al súper y cocinando yo.",
-  "objection": "Que el enganche dura dos semanas y luego vuelvo a improvisar; la app no me quita el tener que cocinar de verdad.",
-  "would_change_my_mind": "Que la versión gratis me enganchara un mes real cocinando para dos sin desperdiciar, y que lo de importar los reels funcionara de verdad; entonces pagaría.",
-  "price_too_cheap": 1,
-  "price_cheap": 2.99,
-  "price_expensive": 6.99,
-  "price_too_expensive": 10
+  "reason": "Mi primer reflejo es arreglar la demo yo misma: leo, miro lo que hacen otros y pruebo antes de pagar a nadie. El dolor es real porque se me cayeron tres pilots, pero 9.500 euros a un operador externo de entrada es justo lo que yo nunca hago.",
+  "objection": "Un consultor externo no conoce mi producto ni mi mercado enterprise; en tres semanas no va a entender la operacion de mis compradores mejor que yo.",
+  "would_change_my_mind": "Casos reales de founders como yo en IA o supply chain donde su narrativa de 7 minutos subio la conversion post-demo, o que cobre solo si mueve el pipeline.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4000,
+  "price_expensive": 8000,
+  "price_too_expensive": 12000
 }

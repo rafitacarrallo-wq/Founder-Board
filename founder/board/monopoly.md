@@ -1,26 +1,101 @@
-# Lente de Monopolio
-Puntuación: 3 | Voto: PASAR
+# Monopoly lens
+Score: 4 | Vote: FUND IF
 
-## Qué es fuerte
-- **El gancho de importar reels sí apunta a un posible secreto.** Convertir vídeos de TikTok/Instagram guardados en recetas usables con ingredientes y pasos es un comportamiento real y desatendido: millones de personas guardan reels de comida que nunca ejecutan. Si funciona de forma fiable, es una cuña distintiva, no "otra app de recetas más". Es lo único del brief que se acerca a la pregunta del secreto: "¿qué sabe el fundador que otros no?".
-- **La cabeza de playa está bien acotada.** Profesionales ocupados y parejas jóvenes sin hijos en Madrid/Barcelona/Valencia es exactamente la mentalidad correcta de esta lente: empezar por un mercado pequeño y concreto que se pueda dominar antes de expandir. El segmento está definido con disciplina.
-- **El dolor es coherente con el "por qué ahora".** La carga mental de planificar comidas es real, y el hábito de guardar reels es reciente: hay un argumento de timing que va más allá de "la IA está de moda".
+## Lo que es fuerte
 
-## Qué lo mataría (los 3 principales, el más peligroso primero)
-1. **Ninguna de las cuatro fuentes de ventaja durable está construida — y la distribución está en manos de terceros.** La lente exige tecnología/know-how ~10x mejor, efectos de red, economías de escala o marca. El brief no demuestra ninguna. La IA que "aprende tus gustos" es hoy una función de plataforma, no un foso: planificar menús y generar listas de la compra con un LLM es replicable por cualquiera en semanas. Peor aún: el único rasgo diferencial (reel→receta) depende de las APIs y de los términos de uso de TikTok/Instagram, que pueden cortar el acceso o copiar la función. Construir el negocio sobre una capacidad que el dueño de la plataforma controla es frágil por diseño.
-2. **Un gigante lo copia en el mes seis sin despeinarse.** Apps de recetas y planificación ya existentes (Mealime, Whisk/Samsung Food, Yazio, Mercadona con su propia app y su scanner de compra, incluso Google con Gemini en Fotos/Buscador) tienen ya la distribución, los usuarios y el presupuesto de IA. La propia OpenAI/Google puede ofrecer "sube tu reel y te doy la receta" como feature nativa. Esta lente pregunta precisamente: "¿qué impide a un copiador en el mes seis?" — y la respuesta del brief, a día de hoy, es "nada estructural". Sin foso, se convierte en un mercado concurrido peleando por márgenes finos, justo lo que la lente dice evitar.
-3. **Es un salto incremental, no un breakthrough, en un mercado ya poblado.** La pregunta de ingeniería de la lente distingue mejora 10x de mejora marginal. El brief describe funciones útiles pero familiares (menú semanal, batch cooking, lista de la compra). La suma es cómoda, no es un orden de magnitud mejor que combinar dos apps gratuitas. Sin ese salto, la retención y la disposición a pagar 4,99 €/mes quedan en entredicho frente a alternativas gratuitas o ya incluidas en apps que el usuario ya tiene.
+- **El nicho es lo bastante estrecho como para poder dominarlo.** No es
+  "consultoría de ventas" en general: es la demo y el pitch de startups técnicas
+  en seed/Serie A dentro de IA, logística y supply chain. Bajo esta lente, un
+  mercado pequeño y bien delimitado es exactamente el punto de partida correcto:
+  se puede aspirar a ser *la* referencia de "arreglar la demo enterprise" para
+  ese segmento concreto antes de expandirse a adyacentes (fintech, deeptech, etc.).
+- **Hay un secreto plausible.** El perfil híbrido (fondo industrial/operaciones
+  profundo + acumen comercial) encierra un conocimiento que el comprador no tiene
+  y que los coaches de pitch genéricos tampoco: saber *qué* mueve de verdad a un
+  comprador de operaciones enterprise (ahorro, riesgo, eficiencia) y poder
+  traducir el algoritmo a ese lenguaje con credibilidad de insider. Eso es un
+  know-how difícil de improvisar, no una plantilla.
+- **El "por qué ahora" es defendible.** La oleada de startups de IA en seed/Serie
+  A con producto técnico fuerte pero sin tracción enterprise crea una cola de
+  fundadores técnicos con el mismo cuello de botella al mismo tiempo. La demanda
+  del nicho está concentrada temporalmente.
+- **El resultado es caro y medible para el cliente**, lo que sostiene un ticket
+  alto sin competir por precio: un cierre enterprise vale mucho más de 9.500 €.
 
-## Preguntas que haría al fundador
-- ¿Cuál es el secreto concreto? Más allá de "IA + reels", ¿qué sabéis o sabéis hacer que un equipo de Google o Mercadona no pueda replicar en un trimestre?
-- ¿Tenéis permiso estable y legal para extraer contenido de TikTok/Instagram, o dependéis de un acceso que la plataforma puede cerrar mañana? ¿Qué pasa con el negocio si lo cierran?
-- ¿Dónde está el efecto de red o el foso de datos? ¿El producto mejora para el usuario 1.001 gracias a los 1.000 anteriores, o cada usuario es una isla?
-- Primeros 100 clientes: ¿de dónde salen exactamente y cuánto cuesta cada uno? ("Orgánico en TikTok" es una esperanza, no un plan hasta que haya un número.)
-- ¿Por qué ahora y no hace dos años, ni dentro de dos cuando el reel→receta sea una casilla gratuita en la app de la cámara del teléfono?
-- ¿Es este el equipo con la ventaja técnica para ganar una carrera de modelos de IA contra quien tenga más datos y más dinero?
+## Lo que lo mataría (top 3, lo más peligroso primero)
 
-## Si FINANCIAR SI: las condiciones
-No aplica — el voto es PASAR. La lente no financiaría en el estado actual porque no hay ninguna de las cuatro ventajas durables y la única cuña distintiva se apoya en plataformas de terceros. Solo reconsideraría si, antes de volver al consejo, se cierran estas tres preguntas abiertas con datos reales (no inventados):
-- **El foso:** prueba de que el reel→receta funciona de forma fiable Y con acceso legal/estable a las plataformas, o un foso alternativo (datos propietarios, efecto de red) articulado y creíble. Lo responde en parte /founder-competitors (quién más lo hace y con qué).
-- **El mercado y la demanda a pagar:** tamaño real del segmento dispuesto a pagar en España — pregunta abierta hoy. Lo responden /founder-competitors (cuán concurrido está) y /founder-consumer (si de verdad compran).
-- **La distribución y su coste:** CAC real de los primeros 100 clientes y vía concreta de adquisición — pregunta abierta hoy. Lo responden /founder-consumer (quién compra y por qué) y /founder-cfo (si el CAC cabe en los 4,99 €/mes).
+1. **No hay ningún foso duradero: es un servicio copiable.** Bajo esta lente, la
+   competencia destruye el margen, y aquí no existe tecnología propietaria, ni
+   efectos de red, ni economías de escala (de hecho ocurre lo contrario). El
+   único activo defendible posible es marca + reputación, y al arranque no
+   existe. Sin construir deliberadamente una ventaja, esto es un commodity de
+   consultoría que el mercado erosionará.
+2. **El negocio es anti-escala por diseño: capped por las horas de una persona.**
+   Las economías de escala —uno de los cuatro fosos de la lente— aquí juegan en
+   contra: cada euro de ingreso exige más horas del fundador, no menos. Sin
+   plantilla, sin software y sin equity, el techo de ingresos es duro y el
+   negocio no se vuelve *más* defendible al crecer, se vuelve más frágil (depende
+   de un cuello de botella único). Un monopolio que no puede servir a su mercado
+   no lo domina.
+3. **El copycat de mes seis es trivial.** La pregunta directa de la lente —"¿qué
+   para a un copión en el mes seis?"— aquí tiene mala respuesta por defecto.
+   Cualquier ex-VP de ventas enterprise o fractional sales leader con fondo
+   industrial puede empaquetar un "sprint de 3 semanas para arreglar tu demo",
+   fijar 9.500 € y hacer el mismo outbound. La metodología de 7 minutos +
+   auditoría + roleplay no es patentable ni secreta una vez entregada. Lo único
+   que frena al copión es que el fundador ya se haya quedado con el nombre del
+   nicho (categoría), con casos verificables y con el flujo de referencias. Si no
+   construye eso rápido, no hay barrera.
+
+## Las preguntas que le haría al fundador
+
+- **¿Quién más vende esto hoy al alcance del mismo comprador, y por qué tú
+  ganarías?** (pitch coaches de VC, agencias de sales enablement, fractional sales
+  leaders, consultores de pitch). Es la pregunta de monopolio/competencia de la
+  lente y el brief admite que nadie tiene la respuesta todavía. → la responde
+  **/founder-competitors**.
+- **¿Cuál es el mercado pequeño y concreto que puedes *poseer* primero, y cuántos
+  clientes tiene realmente?** ¿Cuántas startups seed/Serie A en IA+logística+supply
+  chain anglosajonas con este dolor existen al año? Necesito el tamaño alcanzable
+  y el CAC del outbound para saber si el nicho sostiene un negocio o solo un
+  proyecto. → **/founder-cfo** (tamaño/CAC) y **/founder-consumer** (quién es y
+  cómo se le llega).
+- **¿Cuál es exactamente el secreto, y es 10x o solo "mejor"?** ¿El rediseño
+  produce un resultado notoriamente superior (p. ej. tasa de avance a siguiente
+  reunión) o es un pulido incremental? La lente exige saber si es un salto o una
+  mejora marginal. → la señal de atribución la aproxima **/founder-consumer**.
+- **¿Qué parte del resultado (más reuniones, más cierres) es atribuible al
+  sprint y no al mercado o al producto del cliente?** Sin esto no hay caso
+  verificable que construya marca ni que frene al copión.
+- **¿Cómo llegan los primeros 100 clientes y qué cuesta cada uno?** La
+  distribución es la mitad del negocio bajo esta lente; el outbound del fundador
+  no escala con sus horas limitadas. → **/founder-cfo** (CAC) y
+  **/founder-consumer** (canal).
+
+## Si es FUND IF: las condiciones
+
+El PASS por defecto de esta lente (servicio sin foso, anti-escala, copiable) se
+convierte en FUND IF solo si el fundador compromete una estrategia explícita de
+monopolio-de-nicho, no de "más horas facturables":
+
+1. **Elegir y poseer una categoría estrecha**, no un servicio. Que el mercado
+   diga el nombre del fundador cuando piense en "arreglar la demo enterprise para
+   startups de IA/supply chain". Dominar ese micro-mercado primero; expandir
+   después.
+2. **Convertir cada sprint en foso de marca:** casos con métricas de atribución
+   verificables (más reuniones/cierres), publicados, que se vuelvan el estándar
+   que el copión no puede igualar en el mes seis.
+3. **Construir un efecto de red de distribución:** institucionalizar las
+   referencias de VCs/aceleradoras como canal preferente (ser el proveedor
+   recomendado de un puñado de fondos) para que la distribución no dependa solo
+   de las horas de outbound del fundador.
+4. **Diseñar el escape del cuello de botella desde el día uno:** productizar el
+   método (playbook, assets, posible licencia/formación) para que el ingreso deje
+   de estar atado 1:1 a las horas. Sin un plan de escape del cap de capacidad, la
+   lente vuelve a PASS.
+5. **Validar que el nicho tiene tamaño:** cerrar las preguntas abiertas de mercado
+   alcanzable, CAC y disposición a pagar (**/founder-cfo**, **/founder-competitors**,
+   **/founder-consumer**) antes de escalar el gasto de adquisición.
+
+Si no se cumplen 1-4, bajo esta lente es un buen trabajo de autoempleo, no un
+negocio defendible: PASS.

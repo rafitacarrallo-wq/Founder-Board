@@ -1,13 +1,13 @@
 {
   "id": "P017",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "convenience",
-  "reason": "El '¿qué ceno hoy?' me pesa cada noche al llegar a las 20:30, y por 4,99 al mes es poco dinero para quitarme esa carga mental. Puedo probar gratis antes, así que el riesgo es mínimo.",
-  "objection": "Que no acierte con lo que de verdad nos gusta en casa y acabe sugiriendo cosas raras o que mi peque no se coma, y vuelva a decidir yo igual que ahora.",
-  "would_change_my_mind": "Probar la versión completa gratis unos días y ver que de verdad clava recetas rápidas que nos gustan antes de pagar.",
-  "price_too_cheap": 1.99,
-  "price_cheap": 3.99,
-  "price_expensive": 9.99,
-  "price_too_expensive": 14.99
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El dolor es exactamente el mio, pierdo deals en la demo contra gente peor tecnicamente. Pero yo no compro a frio: compro lo que me recomienda otro founder o mi VC, y aqui no tengo ninguna referencia ni prueba de que funcione.",
+  "objection": "No hay garantia de resultado. Pago 9.500 euros por una narrativa y unos roleplays, pero nadie me asegura que eso me haga cerrar un deal mas.",
+  "would_change_my_mind": "Que un founder de mi circulo o mi VC me diga que lo uso y le subio la conversion despues de la demo.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4500,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
 }

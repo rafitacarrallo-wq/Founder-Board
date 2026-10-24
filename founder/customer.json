@@ -1,38 +1,39 @@
 {
-  "business": "App de IA que decide qué comer, planifica la semana, convierte reels en recetas y hace la lista de la compra (nombre de trabajo)",
-  "target": "Adultos urbanos 28-42 en España, con trabajo exigente y poco tiempo, que cocinan en casa casi a diario y quieren comer sano sin carga mental",
-  "where": "España (Madrid, Barcelona, Valencia y capitales de provincia)",
-  "age": [28, 42],
+  "business": "Demo-to-Deal (consultoria de rediseno de demo y pitch GTM para startups tech)",
+  "target": "Fundador o responsable de GTM/ventas en una startup tech de IA, logistica o supply chain en seed o Serie A, que vende a enterprise y cuya conversion se atasca en la demo",
+  "where": "Global / anglosajon, remoto",
+  "age": [28, 52],
   "segments": [
-    {"name": "Profesional joven ocupado", "share": 0.35, "income": [22000, 40000]},
-    {"name": "Profesional consolidado", "share": 0.30, "income": [40000, 70000]},
-    {"name": "Pareja joven sin hijos (doble ingreso)", "share": 0.20, "income": [45000, 95000]},
-    {"name": "Madre/padre primerizo sin tiempo", "share": 0.15, "income": [30000, 60000]}
+    {"name": "Fundador tecnico CEO (seed)", "share": 0.35, "income": [60000, 120000]},
+    {"name": "Fundador/CEO (Serie A)", "share": 0.30, "income": [120000, 200000]},
+    {"name": "Head of Sales / GTM lead (Serie A)", "share": 0.20, "income": [130000, 220000]},
+    {"name": "Cofundador no-tecnico / COO", "share": 0.15, "income": [100000, 180000]}
   ],
   "behaviours": [
-    {"name": "Guarda reels y no los usa", "share": 0.22, "how": "Guarda recetas en TikTok/Instagram que nunca vuelve a abrir."},
-    {"name": "Odia decidir qué comer", "share": 0.20, "how": "Cocina por obligación; el '¿qué hago hoy?' le pesa cada día."},
-    {"name": "Health-conscious", "share": 0.15, "how": "Lee etiquetas, quiere comer sano y variado."},
-    {"name": "No paga suscripciones", "share": 0.15, "how": "Usa versiones gratis, cancela todo lo de pago en cuanto puede."},
-    {"name": "Ya abandonó apps de comida", "share": 0.12, "how": "Probó planificadores/recetarios y los dejó a las pocas semanas."},
-    {"name": "Tira de domicilio", "share": 0.09, "how": "Cuando no sabe qué comer pide Glovo/Uber Eats."},
-    {"name": "Lee reseñas antes de instalar", "share": 0.07, "how": "Mira valoraciones de la App Store antes de probar nada."}
+    {"name": "Pragmatico de ROI", "share": 0.22, "how": "Solo compra si ve retorno claro y medible; pide casos y numeros antes de pagar."},
+    {"name": "Esceptico de consultores", "share": 0.20, "how": "Ha tenido malas experiencias con agencias y coaches; cree que puede hacerlo el mismo."},
+    {"name": "Busca referencias", "share": 0.18, "how": "Compra lo que le recomienda otro founder o su VC; no responde a frio."},
+    {"name": "Hazlo-tu-mismo", "share": 0.15, "how": "Lee el libro, mira el blog y prueba por su cuenta antes de pagar a nadie."},
+    {"name": "Presionado por el board", "share": 0.12, "how": "Su inversor le empuja a mejorar la conversion enterprise ya; busca una solucion rapida."},
+    {"name": "Frugal / sin caja", "share": 0.08, "how": "Startup sin apenas runway; regatea todo y busca la opcion gratis o barata."},
+    {"name": "Delega en el equipo", "share": 0.05, "how": "Prefiere contratar a alguien interno o pasarselo a su comercial antes que a un externo."}
   ],
   "objections": [
-    "Puedo preguntarle a ChatGPT gratis qué cocinar",
-    "Ya probé apps así y las dejé a las dos semanas",
-    "No pienso pagar otra suscripción más al mes",
-    "Los menús de estas apps acaban siendo siempre lo mismo",
-    "Tendré que meter mis gustos y mi despensa a mano, da pereza",
-    "Al final igual tengo que ir al súper y cocinar yo",
-    "¿De verdad va a acertar con lo que me gusta?",
-    "No me fío de que lea bien mis reels y no se invente la receta"
+    "Como se que esto causo mas cierres y no fue el producto o el mercado?",
+    "9.500 EUR es mucho para una startup sin apenas caja.",
+    "Soy tecnico, puedo arreglar mi propia demo, ya lo hago yo.",
+    "Un consultor externo no conoce mi producto ni mi mercado.",
+    "Por que no contrato un fractional sales leader que me cubre todo?",
+    "3 semanas no cambian mi pipeline, el deal enterprise tarda meses.",
+    "Ya he probado coaches de pitch y no sirvio de nada.",
+    "No hay garantia de resultado."
   ],
   "habits": [
-    "guardas reels de recetas que nunca vuelves a abrir",
-    "llegas a casa a las 20:30 sin saber qué cenar",
-    "haces la compra en Mercadona o Carrefour",
-    "trabajas desde casa dos o tres días por semana",
-    "cocinas para dos y a veces sobra comida que se echa a perder"
+    "acabas de levantar una ronda seed y tu VC te pregunta por la traccion enterprise",
+    "tienes varias demos enterprise esta semana y ninguna avanza a segunda reunion",
+    "tu cofundador tecnico odia vender y tu tampoco lo disfrutas",
+    "ves como un competidor peor tecnicamente cierra mas deals que tu",
+    "pasas de LinkedIn mientras otro founder recomienda a un consultor de ventas",
+    "tu ultimo forecast se cayo porque tres pilots enterprise se congelaron"
   ]
 }

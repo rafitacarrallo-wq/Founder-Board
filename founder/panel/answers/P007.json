@@ -2,12 +2,12 @@
   "id": "P007",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Me quedo con la versión gratis sin dudarlo; no pago suscripciones y esta me la cancelaría al mes. Además, al final igual tengo que ir al súper y cocinar yo, la app no me quita el curro de verdad.",
-  "objection": "Que es otra suscripción más para algo que ya hago a mi manera, y que no me va a ahorrar lo que de verdad me pesa: comprar y ponerme a cocinar.",
-  "would_change_my_mind": "Que fuese un pago único pequeño en vez de suscripción, o que la parte de importar reels y montar el menú funcionase de maravilla gratis durante bastante tiempo para engancharme antes de pagar.",
-  "price_too_cheap": 0.99,
-  "price_cheap": 1.99,
-  "price_expensive": 4.99,
-  "price_too_expensive": 7.99
+  "reason_code": "trust",
+  "reason": "Mis pilots no se congelaron por una mala demo, se congelaron por presupuesto y procurement, asi que dudo que reescribir un pitch de 7 minutos los descongele. Y ya me he quemado con consultores y coaches que prometen mucho; esto lo puedo intentar yo mismo.",
+  "objection": "Un operador solo, en 3 semanas, no ataca mi problema real (deals frozen); me vende arreglar la demo cuando mi cuello de botella esta mas arriba o mas abajo del funnel.",
+  "would_change_my_mind": "Casos concretos de founders de IA/logistica/supply chain como yo donde rehacer la demo descongelo o cerro deals enterprise, con numeros, y algun componente de riesgo compartido (pago ligado a resultado).",
+  "price_too_cheap": 2000,
+  "price_cheap": 4500,
+  "price_expensive": 9500,
+  "price_too_expensive": 14000
 }

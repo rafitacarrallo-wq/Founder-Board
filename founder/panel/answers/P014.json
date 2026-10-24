@@ -1,13 +1,13 @@
 {
   "id": "P014",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "convenience",
-  "reason": "Llego a casa a las 20:30 reventado y sin idea de qué cenar, así que una app que me diga qué cocinar rápido y me saque la lista de la compra me quita una carga real; por 4,99 € apenas me lo pienso y encima puedo probarla gratis antes.",
-  "objection": "No me fío de que me lea bien los reels de TikTok e Instagram y acabe inventándose ingredientes o pasos que no van.",
-  "would_change_my_mind": "Reseñas sólidas y buena valoración en la App Store donde la gente confirme que la importación de reels y las recetas funcionan de verdad.",
-  "price_too_cheap": 1,
-  "price_cheap": 3,
-  "price_expensive": 8,
-  "price_too_expensive": 12
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy tecnico y esto es justo lo que hago yo: leo, miro como lo cuentan otros y reconstruyo mi propia demo. Pagar 9.500 euros por un guion de 7 minutos que puedo iterar yo mismo no entra en mi forma de comprar.",
+  "objection": "No me convence que un operador externo entienda mi producto mejor que yo; el problema del demo lo arreglo yo, no necesito que alguien me lo reescriba por ese dinero.",
+  "would_change_my_mind": "Datos duros de que founders como yo subieron la conversion post-demo tras el sprint, con casos enterprise concretos y no solo la promesa del narrativa de ROI.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 7000,
+  "price_too_expensive": 11000
 }

@@ -1,13 +1,13 @@
 {
   "id": "P018",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "convenience",
-  "reason": "El '¿qué hago hoy?' me pesa cada día y por 4,99 € si me quita esa decisión y encima me saca la lista de la compra sola, lo pruebo sin pensarlo mucho. Lo de convertir los reels que guardo en receta de verdad es algo que ChatGPT no me hace bien.",
-  "objection": "Que al final sea como preguntarle a ChatGPT gratis y pagar por algo que ya puedo apañar yo sola.",
-  "would_change_my_mind": "Que de verdad aprenda mi gusto y me cuadre el menú a lo que tengo en la nevera, no recetas genéricas que podría sacar en cualquier sitio.",
-  "price_too_cheap": 1.99,
-  "price_cheap": 3.99,
-  "price_expensive": 7.99,
-  "price_too_expensive": 12.99
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy de leer el libro y probar yo misma antes de pagarle a nadie, y un relato de 7 minutos lo puedo reescribir con mi equipo sin soltar 9.500 euros. Ademas mi problema son pilots que se congelan despues de la demo, no tanto perder al comprador dentro de la demo.",
+  "objection": "No puedo saber si esto me trajo mas cierres o si simplemente cambio el producto o el mercado; sin forma de atribuir, estoy pagando por una sensacion.",
+  "would_change_my_mind": "Casos reales con conversion demo-a-deal antes y despues, y que parte del fee este atado al resultado para que el riesgo de atribucion no sea solo mio.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 15000
 }

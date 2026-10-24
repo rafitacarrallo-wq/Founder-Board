@@ -1,102 +1,103 @@
 {
  "n": 100,
- "seed": 473198,
+ "seed": 20,
  "customer": {
-  "business": "App de IA que decide qué comer, planifica la semana, convierte reels en recetas y hace la lista de la compra (nombre de trabajo)",
-  "target": "Adultos urbanos 28-42 en España, con trabajo exigente y poco tiempo, que cocinan en casa casi a diario y quieren comer sano sin carga mental",
-  "where": "España (Madrid, Barcelona, Valencia y capitales de provincia)",
+  "business": "Demo-to-Deal (consultoria de rediseno de demo y pitch GTM para startups tech)",
+  "target": "Fundador o responsable de GTM/ventas en una startup tech de IA, logistica o supply chain en seed o Serie A, que vende a enterprise y cuya conversion se atasca en la demo",
+  "where": "Global / anglosajon, remoto",
   "age": [
    28,
-   42
+   52
   ],
   "segments": [
    {
-    "name": "Profesional joven ocupado",
+    "name": "Fundador tecnico CEO (seed)",
     "share": 0.35,
     "income": [
-     22000,
-     40000
+     60000,
+     120000
     ]
    },
    {
-    "name": "Profesional consolidado",
+    "name": "Fundador/CEO (Serie A)",
     "share": 0.3,
     "income": [
-     40000,
-     70000
+     120000,
+     200000
     ]
    },
    {
-    "name": "Pareja joven sin hijos (doble ingreso)",
+    "name": "Head of Sales / GTM lead (Serie A)",
     "share": 0.2,
     "income": [
-     45000,
-     95000
+     130000,
+     220000
     ]
    },
    {
-    "name": "Madre/padre primerizo sin tiempo",
+    "name": "Cofundador no-tecnico / COO",
     "share": 0.15,
     "income": [
-     30000,
-     60000
+     100000,
+     180000
     ]
    }
   ],
   "behaviours": [
    {
-    "name": "Guarda reels y no los usa",
+    "name": "Pragmatico de ROI",
     "share": 0.22,
-    "how": "Guarda recetas en TikTok/Instagram que nunca vuelve a abrir."
+    "how": "Solo compra si ve retorno claro y medible; pide casos y numeros antes de pagar."
    },
    {
-    "name": "Odia decidir qué comer",
+    "name": "Esceptico de consultores",
     "share": 0.2,
-    "how": "Cocina por obligación; el '¿qué hago hoy?' le pesa cada día."
+    "how": "Ha tenido malas experiencias con agencias y coaches; cree que puede hacerlo el mismo."
    },
    {
-    "name": "Health-conscious",
+    "name": "Busca referencias",
+    "share": 0.18,
+    "how": "Compra lo que le recomienda otro founder o su VC; no responde a frio."
+   },
+   {
+    "name": "Hazlo-tu-mismo",
     "share": 0.15,
-    "how": "Lee etiquetas, quiere comer sano y variado."
+    "how": "Lee el libro, mira el blog y prueba por su cuenta antes de pagar a nadie."
    },
    {
-    "name": "No paga suscripciones",
-    "share": 0.15,
-    "how": "Usa versiones gratis, cancela todo lo de pago en cuanto puede."
-   },
-   {
-    "name": "Ya abandonó apps de comida",
+    "name": "Presionado por el board",
     "share": 0.12,
-    "how": "Probó planificadores/recetarios y los dejó a las pocas semanas."
+    "how": "Su inversor le empuja a mejorar la conversion enterprise ya; busca una solucion rapida."
    },
    {
-    "name": "Tira de domicilio",
-    "share": 0.09,
-    "how": "Cuando no sabe qué comer pide Glovo/Uber Eats."
+    "name": "Frugal / sin caja",
+    "share": 0.08,
+    "how": "Startup sin apenas runway; regatea todo y busca la opcion gratis o barata."
    },
    {
-    "name": "Lee reseñas antes de instalar",
-    "share": 0.07,
-    "how": "Mira valoraciones de la App Store antes de probar nada."
+    "name": "Delega en el equipo",
+    "share": 0.05,
+    "how": "Prefiere contratar a alguien interno o pasarselo a su comercial antes que a un externo."
    }
   ],
   "objections": [
-   "Puedo preguntarle a ChatGPT gratis qué cocinar",
-   "Ya probé apps así y las dejé a las dos semanas",
-   "No pienso pagar otra suscripción más al mes",
-   "Los menús de estas apps acaban siendo siempre lo mismo",
-   "Tendré que meter mis gustos y mi despensa a mano, da pereza",
-   "Al final igual tengo que ir al súper y cocinar yo",
-   "¿De verdad va a acertar con lo que me gusta?",
-   "No me fío de que lea bien mis reels y no se invente la receta"
+   "Como se que esto causo mas cierres y no fue el producto o el mercado?",
+   "9.500 EUR es mucho para una startup sin apenas caja.",
+   "Soy tecnico, puedo arreglar mi propia demo, ya lo hago yo.",
+   "Un consultor externo no conoce mi producto ni mi mercado.",
+   "Por que no contrato un fractional sales leader que me cubre todo?",
+   "3 semanas no cambian mi pipeline, el deal enterprise tarda meses.",
+   "Ya he probado coaches de pitch y no sirvio de nada.",
+   "No hay garantia de resultado."
   ],
   "habits": [
-   "guardas reels de recetas que nunca vuelves a abrir",
-   "llegas a casa a las 20:30 sin saber qué cenar",
-   "haces la compra en Mercadona o Carrefour",
-   "trabajas desde casa dos o tres días por semana",
-   "cocinas para dos y a veces sobra comida que se echa a perder"
+   "acabas de levantar una ronda seed y tu VC te pregunta por la traccion enterprise",
+   "tienes varias demos enterprise esta semana y ninguna avanza a segunda reunion",
+   "tu cofundador tecnico odia vender y tu tampoco lo disfrutas",
+   "ves como un competidor peor tecnicamente cierra mas deals que tu",
+   "pasas de LinkedIn mientras otro founder recomienda a un consultor de ventas",
+   "tu ultimo forecast se cayo porque tres pilots enterprise se congelaron"
   ]
  },
- "pitch": "Una app para el móvil que te quita de encima el \"¿qué como hoy?\". Aprende tus\ngustos, tu tiempo y lo que tienes en casa, y cada día te dice qué cocinar —rico,\nsano y rápido— con recetas fáciles de 15-30 minutos.\n\nTe monta el menú de la semana en un toque, lo reorganiza si tienes una semana\nliada, y de ahí te saca sola la lista de la compra ya ordenada.\n\nPuedes pegarle los reels de recetas que guardas en TikTok e Instagram y te los\nconvierte en receta usable (ingredientes y pasos) y la mete en tu menú.\n\nTambién te organiza el batch cooking: cocinas una vez el domingo y tienes varios\ndías resueltos, aprovechando ingredientes para no desperdiciar.\n\nGratis para empezar (una sugerencia al día y lista manual). La versión completa\n—planificación con IA, importar reels, menú semanal, batch cooking y lista\nautomática— cuesta 4,99 €/mes o 39,99 €/año. Disponible en iOS y Android."
+ "pitch": "**Demo-to-Deal** — a 3-week sprint that turns your technical demo into a 7-minute enterprise sales pitch built around cost savings, risk reduction and operational efficiency.\n\nFor seed / Series A founders in AI, logistics and supply chain who keep losing enterprise buyers in the demo because it's too deep in the product and the algorithm, not the business impact.\n\nYou get three things:\n1. A friction audit of your current demo — the exact points where enterprise buyers disconnect.\n2. A rebuilt 7-minute value narrative — ROI, risk and operational efficiency, in the buyer's language.\n3. Live objection roleplay with your team until you can run the pitch under pressure without the script.\n\n€9,500, fixed project fee. Fully remote. No equity, no monthly retainer, no software for you to build.\n\nDelivered by one operator with a deep industrial / operations background and commercial sales experience — someone who knows what actually moves an enterprise operations buyer."
 }

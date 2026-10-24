@@ -1,17 +1,12 @@
-Cada noche sabes qué cenar en 10 segundos. La app acierta con lo que te gusta,
-usa lo que ya tienes en casa y te propone recetas fáciles de 15-30 minutos —y por
-fin es una app que sigues abriendo al mes siguiente, no una que dejas a las dos
-semanas.
+**Demo-to-Deal** — a 3-week sprint that turns your technical demo into a 7-minute enterprise sales pitch built around cost savings, risk reduction and operational efficiency.
 
-En el primer minuto ya tienes tu primera cena, sin teclear tu despensa: la app
-aprende de lo que aceptas y rechazas. Te monta el menú de la semana (nunca el
-mismo plato dos veces en 14 días) y de ahí sale sola la lista de la compra.
+For seed / Series A founders in AI, logistics and supply chain who keep losing enterprise buyers in the demo because it's too deep in the product and the algorithm, not the business impact.
 
-Tus reels, por fin útiles: pega los que guardaste en TikTok o Instagram y la app
-extrae la receta para que TÚ la revises antes de meterla en el menú (no se inventa
-nada). Y la lista de la compra se convierte en pedido del súper online en un toque.
+You get three things:
+1. A friction audit of your current demo — the exact points where enterprise buyers disconnect.
+2. A rebuilt 7-minute value narrative — ROI, risk and operational efficiency, in the buyer's language.
+3. Live objection roleplay with your team until you can run the pitch under pressure without the script.
 
-Garantía "Cena Resuelta": pruébala 30 días; si no te ha quitado de encima el
-"¿qué ceno hoy?", no pagas. Luego 4,99 €/mes, o 39,99 €/año (pagas una vez, no
-otra suscripción). Socio fundador: los primeros usuarios fijan el anual a precio
-reducido de por vida. iOS y Android.
+€9,500, fixed project fee. Fully remote. No equity, no monthly retainer, no software for you to build.
+
+Delivered by one operator with a deep industrial / operations background and commercial sales experience — someone who knows what actually moves an enterprise operations buyer.

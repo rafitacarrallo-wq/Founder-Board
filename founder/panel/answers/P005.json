@@ -1,13 +1,13 @@
 {
   "id": "P005",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Me suena todo muy bien sobre el papel, pero ya he pasado por esto: me bajo la app, la uso dos semanas y acabo volviendo a improvisar en Mercadona. No voy a pagar hasta ver que de verdad la abro cada dia.",
-  "objection": "Que termine como los reels que guardo y nunca abro: una cosa mas que empiezo con ilusion y abandono a las dos semanas.",
-  "would_change_my_mind": "Probar la version gratis un mes y notar que de verdad me quita el '¿que como hoy?' sin currarmelo yo; si a las semanas sigo entrando sola, pago el ano sin pensarlo.",
-  "price_too_cheap": 1,
-  "price_cheap": 3,
-  "price_expensive": 8,
-  "price_too_expensive": 13
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "El board me aprieta con la conversion enterprise YA y esto ataca justo donde se me cae todo: la demo. Tres semanas, precio cerrado, sin equity ni retainer mensual, es el tipo de solucion rapida que necesito ahora mismo.",
+  "objection": "Es un unico operador que no conozco y un entregable estrecho; mi primer instinto sigue siendo contratar un fractional sales leader que me cubra todo el GTM, no solo el pitch de 7 minutos.",
+  "would_change_my_mind": "Ver casos reales de fundadores de IA/logistica en seed/Serie A a los que les subio la conversion enterprise tras el sprint.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
 }

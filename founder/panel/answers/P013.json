@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Lo de pegarle los reels suena bien, pero no me creo que lea bien la receta sin inventarse la mitad de los pasos o las cantidades. Y ya me ha pasado: bajo la app con ilusión y a las dos semanas vuelvo a improvisar como siempre.",
-  "objection": "Que importe un reel y me monte una receta mal, con pasos o ingredientes que no están en el vídeo, y acabe cocinando algo raro fiándome de ella.",
-  "would_change_my_mind": "Poder probar gratis la importación con tres o cuatro de mis propios reels y ver que clava ingredientes y pasos tal cual el vídeo, sin inventarse nada.",
-  "price_too_cheap": 1.99,
-  "price_cheap": 2.99,
-  "price_expensive": 6.99,
-  "price_too_expensive": 9.99
+  "reason": "Ya pague por coaches de pitch y no movio ni una demo a segunda reunion, asi que un sprint de 9.500 euros sin pruebas de resultados me suena a lo mismo pero mas caro. Ademas tengo demos esta semana y un sprint de 3 semanas no me salva ahora.",
+  "objection": "No tengo ninguna prueba de que esto sea distinto de los coaches que ya probe; no se si de verdad entiende mi venta enterprise o si solo me va a dar otro guion bonito.",
+  "would_change_my_mind": "Un caso concreto de un fundador como yo (seed, IA o supply chain, vendiendo a enterprise) que tras el sprint consiguio segundas reuniones, y mejor si parte del pago va ligado a resultados.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
 }

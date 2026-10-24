@@ -2,12 +2,12 @@
   "id": "P006",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "No pago suscripciones por nada, uso la versión gratis y cancelo lo de pago en cuanto puedo. Con una sugerencia al día ya me apaño, no voy a soltar 4,99 al mes por esto.",
-  "objection": "Que los menús acaben siendo siempre lo mismo y a los dos meses esté pagando una app que ni abro.",
-  "would_change_my_mind": "Que la parte de importar reels y la lista de la compra automática estuvieran en el plan gratis, al menos para probarlas de verdad un mes sin pagar.",
-  "price_too_cheap": 0.99,
-  "price_cheap": 1.99,
-  "price_expensive": 4.99,
-  "price_too_expensive": 7.99
+  "reason_code": "trust",
+  "reason": "El dolor es exactamente el mio y el timing con mi VC encima es perfecto, pero no veo un solo caso ni numero: me piden 9.500 euros por un sprint sin ninguna prueba de que mueva la conversion. Yo no firmo nada sin ROI demostrado.",
+  "objection": "No hay garantia de resultado ni evidencia de que esto haya subido la tasa de cierre de otro founder como yo; me vendes el metodo, no el retorno.",
+  "would_change_my_mind": "Dos o tres casos de founders enterprise en IA/logistica con numeros antes/despues de conversion en demo, idealmente con algun componente de pago ligado a resultado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
 }

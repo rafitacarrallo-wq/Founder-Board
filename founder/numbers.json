@@ -1,26 +1,28 @@
 {
-  "business": "Comer bien sin pensar (app) — unidad = una suscripcion de pago / mes. days_per_month=1 para que 'por dia' se lea 'por mes'. TODO estimado, a validar.",
-  "unit": "suscripcion/mes",
-  "price": 4.00,
+  "business": "Demo-to-Deal (sprint de rediseno de demo y pitch GTM, consultor solo)",
+  "unit": "sprint",
+  "price": 9500,
+  "_note_period": "days_per_month=1, asi que 'por dia' se lee como 'por mes': las unidades son SPRINTS AL MES. Sin salario del fundador en fixed_monthly: el beneficio = lo que se lleva el fundador.",
   "variable": [
-    {"label": "Comision tienda (Apple/Google ~15%)", "cost": 0.60},
-    {"label": "Coste de IA por usuario de pago/mes (estimado)", "cost": 0.80},
-    {"label": "Infra/backend por usuario/mes (estimado)", "cost": 0.15}
+    {"label": "Comision de pago (~2,5%)", "cost": 238},
+    {"label": "Diseno freelance del entregable (deck/narrativa)", "cost": 260},
+    {"label": "Creditos de grabacion/transcripcion del roleplay", "cost": 40},
+    {"label": "Comision de referido/partner (blended ~5%)", "cost": 475}
   ],
   "fixed_monthly": [
-    {"label": "Fundador (coste/sueldo, ajustable)", "cost": 2000},
-    {"label": "Marketing de adquisicion/mes (estimado)", "cost": 1500},
-    {"label": "Infra base + herramientas + servicios", "cost": 500}
+    {"label": "Stack software (CRM, Sales Navigator, scheduling, email, grabacion)", "cost": 260},
+    {"label": "Gestoria + seguro RC profesional", "cost": 200},
+    {"label": "Web/hosting/suscripciones varias", "cost": 60}
   ],
   "startup": [
-    {"label": "Diseno y marca", "cost": 1500},
-    {"label": "Legal (terminos, RGPD, marca)", "cost": 1200},
-    {"label": "Cuentas de desarrollador y setup", "cost": 150},
-    {"label": "Presupuesto de lanzamiento (ads)", "cost": 3000},
-    {"label": "Buffer IA/infra pre-lanzamiento", "cost": 500}
+    {"label": "Marca + web", "cost": 2500},
+    {"label": "Constitucion/legal + contratos tipo", "cost": 800},
+    {"label": "Produccion de contenido y primer caso de estudio", "cost": 1200},
+    {"label": "Sales Navigator anual + alta de herramientas", "cost": 500},
+    {"label": "Colchon inicial", "cost": 500}
   ],
   "days_per_month": 1,
-  "capacity_per_day": 100000,
-  "plan_per_day": 3000,
-  "ramp_per_day": [100, 250, 450, 700, 1000, 1350, 1700, 2050, 2400, 2700, 2900, 3000]
+  "capacity_per_day": 2,
+  "plan_per_day": 1.5,
+  "ramp_per_day": [0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2]
 }

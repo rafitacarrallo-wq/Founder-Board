@@ -1,81 +1,87 @@
-# Acta del consejo — "Comer bien sin pensar" (nombre de trabajo)
+# Consejo de administración — Demo-to-Deal (nombre de trabajo)
 
 ## El voto
 
-**2 FINANCIAR SI · 1 PASAR.** Puntuación media: **4,3 / 10.**
+**3 FUND IF, 0 FUND, 0 PASS. Nota media: 5,3 / 10.**
 
-| Lente | Puntuación | Voto |
-| --- | :---: | --- |
-| Ofertas | 5 | FINANCIAR SI |
-| Producto | 5 | FINANCIAR SI |
-| Monopolio | 3 | PASAR |
+| Miembro | Lente | Score | Voto |
+| --- | --- | ---: | --- |
+| Offers | Mercado + ecuación de valor (Hormozi, *$100M Offers*) | 6 | FUND IF |
+| Monopoly | Foso y distribución (Thiel, *Zero to One*) | 4 | FUND IF |
+| Product | Foco y experiencia (Isaacson, *Steve Jobs*) | 6 | FUND IF |
 
-Ningún miembro financia la idea tal como está. Los dos "financiar si" vienen con
-condiciones duras; el "pasar" no es un no al problema, sino un no a que hoy exista
-un foso. El consejo está dividido a propósito: no hay consenso de que esto sea un
-negocio todavía, y eso es información, no ruido.
+Nadie vota PASS, pero nadie financia sin condiciones. Es un negocio con un mercado
+bueno y un foso débil: la idea no está en duda, la **defensibilidad y la prueba**
+sí. El consejo no se pone de acuerdo en el techo: Offers ve un alto ticket
+justificable; Monopoly advierte que sin foso es "autoempleo, no negocio".
 
-## Los riesgos que más de un miembro señaló (van primero)
+## Los riesgos que levantó más de un miembro (van primero)
 
-1. **Dependencia de plataformas de terceros** *(Monopolio + Producto).* El único
-   rasgo diferencial —convertir reels de TikTok/Instagram en recetas— depende de
-   APIs y términos de uso que esas plataformas pueden cerrar o copiar mañana.
-   Construir el corazón del negocio sobre algo que controla otro es frágil por
-   diseño. Y técnicamente el reconocimiento del vídeo fallará a menudo.
-2. **¿Pagan POR ESTO, o se van a sustitutos gratis?** *(Ofertas + Monopolio.)* A
-   4,99 €/mes la app cae en el mismo cajón mental que decenas de suscripciones que
-   el usuario cancela sin dolor. Compite contra ChatGPT gratis, el batch cooking
-   manual, pedir a domicilio y el propio reel. La pregunta "¿doblarías el precio y
-   seguirías siendo la elección obvia?" hoy se responde que no.
-3. **No hay foso; un gigante lo copia en el mes seis** *(Monopolio, con eco en
-   Ofertas y Producto).* Planificar menús y listas con un LLM es replicable en
-   semanas. Mealime, Yazio, Samsung Food/Whisk, Mercadona, Google/Gemini u OpenAI
-   tienen ya la distribución y el presupuesto de IA. La suma de funciones es
-   cómoda, no es 10x mejor que combinar dos apps gratis.
-4. **Pregunta abierta compartida por los tres: el tamaño real del mercado español
-   dispuesto a pagar.** Nadie tiene este dato aún. Lo atacan `/founder-competitors`
-   (cuán concurrido está, qué cobran) y `/founder-consumer` (si de verdad compran).
+1. **Atribución — no se puede probar que el sprint causó el resultado.** Los tres
+   lo señalan. El resultado que paga el cliente (más cierres enterprise) llega
+   meses después, por el ciclo de venta, y depende también del producto y del
+   mercado del cliente. Sin una métrica de resultado limpia y acordada de
+   antemano, no hay caso verificable → y sin casos, ni prueba de valor (Offers),
+   ni foso de marca (Monopoly), ni promesa demostrable (Product).
+2. **Cuello de botella de capacidad / anti-escala.** Los tres. Cada euro de
+   ingreso exige más horas del fundador. Limita cuántos sprints se entregan, cuán
+   rápido se acumulan casos y el techo de ingresos. Monopoly lo ve como foso
+   negativo (economías de escala en contra); Product, como imposibilidad de
+   escalar sin diluir la calidad.
+3. **Servicio trivialmente copiable, sin foso.** Offers y Monopoly. El "copión de
+   mes seis" (un ex-VP de ventas o fractional sales leader con fondo industrial)
+   puede empaquetar el mismo sprint. Sin categoría propia, casos y referencias,
+   deriva a commodity y a competir por precio.
+4. **La costura del resultado + sin garantía creíble.** Product y Offers. El
+   producto se entrega en la semana 3, pero se juzga en la demo en vivo que el
+   fundador da solo. Como el consultor no controla el cierre, no puede dar una
+   garantía fuerte sobre el resultado — justo la palanca que sacaría la oferta de
+   la zona commodity.
+5. **El input lo controla el cliente.** Product (y lo roza Offers). Si la demo o el
+   producto subyacente no tienen un ROI real que contar, ninguna reescritura de 7
+   minutos lo arregla.
 
-Un riesgo que solo señaló Producto, pero que el consejo hace suyo por su gravedad:
-**la app hace seis cosas y ninguna de forma brillante.** Sin recortar a una, no
-hay producto con alma ni pitch de una frase.
+## Condiciones (checklist que el resto del pack irá marcando)
 
-## Checklist de condiciones (lo que el resto del pack tiene que cerrar)
+- [ ] **Validar disposición a pagar y rango de precio** con compradores reales
+  antes de fijar los 9.500 € → `/founder-consumer`, `/founder-pricing`, `/founder-cfo`.
+- [ ] **Mapear competidores y mercado alcanzable**, confirmar que hay un hueco
+  diferenciado y no se compite por precio → `/founder-competitors`, `/founder-cfo`.
+- [ ] **Definir una métrica de resultado limpia y atribuible** (p. ej. tasa de
+  avance a la siguiente reunión enterprise, antes vs. después) → `/founder-consumer`.
+- [ ] **Conseguir 3-5 sprints iniciales** con esa métrica acordada de antemano,
+  para generar casos y testimonios verificables (ataca el riesgo nº1).
+- [ ] **Diseñar una garantía real y acotada** que no dependa del cierre (rehacer
+  el sprint, o ligada a una métrica de proceso) → `/founder-offer`.
+- [ ] **Cerrar la costura del resultado:** el entregable incluye que el fundador
+  del cliente *ejecute* el pitch en vivo (grabado, iterativo) hasta hacerlo suyo,
+  no solo reciba un guion → `/founder-offer`, `/founder-ops`.
+- [ ] **Criterio de entrada explícito:** rechazar clientes cuya demo/producto no
+  tenga un ROI contable → `/founder-ops`.
+- [ ] **Plan contra el cuello de botella:** productizar el método (playbook,
+  assets reutilizables) para que acumular prueba no dependa solo de las horas del
+  fundador → `/founder-ops`, `/founder-plan`.
+- [ ] **Poseer una categoría estrecha** y institucionalizar las referencias de
+  VCs/aceleradoras como canal preferente → `/founder-marketing`, `/founder-brand`.
 
-- [ ] **Validar dolor + disposición a pagar** en un segmento alcanzable, no solo
-      que el problema existe → `/founder-consumer` + `/founder-competitors`.
-- [ ] **Dimensionar el mercado y los sustitutos** en España → `/founder-competitors`.
-- [ ] **Recortar a UNA función de héroe en la v1:** "te decimos qué comer hoy/esta
-      semana, acertando, en segundos y con lo que ya tienes". Reels, batch cooking
-      y lista pasan a hipótesis posteriores → se decide en `/founder-offer`.
-- [ ] **Onboarding que da valor antes de pedir datos:** primera propuesta de comida
-      en el primer minuto, con cero/casi cero inputs manuales → producto/`/founder-offer`.
-- [ ] **Diseñar la palanca de probabilidad percibida** (prueba o garantía creíble)
-      que el CFO pueda costear → `/founder-offer` + `/founder-cfo`.
-- [ ] **Validar la unidad económica:** coste de IA por usuario, CAC y churn que
-      dejen margen positivo al precio → `/founder-cfo`.
-- [ ] **Sacar el precio del terreno commodity** con un stack que justifique no ser
-      el más barato → `/founder-pricing` + `/founder-offer`.
-- [ ] **Resolver el foso:** acceso fiable y legalmente estable al reel→receta, o un
-      foso alternativo (datos propietarios de gustos, efecto de red con el tiempo)
-      → `/founder-competitors` + decisión de estrategia.
-- [ ] **CAC real de los primeros 100 clientes** y vía concreta de adquisición →
-      `/founder-consumer` (quién compra) + `/founder-cfo` (si cabe en el precio).
+## La versión más fuerte del negocio que ve el consejo
 
-## La versión más fuerte que ve el consejo
-
-No es la que se presentó. El pitch son seis funciones; la versión que el consejo
-podría financiar es **una sola**: *"abres la app y en 10 segundos sabes qué cenar
-hoy, acierta con lo que te gusta y usa lo que ya tienes en casa"* — con
-onboarding casi sin fricción, para profesionales urbanos ocupados en España. La
-importación de reels **no es el corazón, es la cuña de distribución/marketing** (y
-el gancho de crecimiento), no la v1. El precio se sube por encima del commodity
-con una garantía creíble. Y el foso no se construye con el LLM (que cualquiera
-tiene), sino con **un bucle de datos propietario de los gustos del usuario** que
-hace que la recomendación mejore cuanto más la usas — algo que un copiador del mes
-seis no tiene. Si el panel de consumidores confirma que la gente paga por esa
-única promesa, hay negocio. Si no, el PASAR de la lente de Monopolio se convierte
-en el veredicto de todos — y sería un resultado válido, no un fracaso.
+No es "un consultor que arregla pitches". Es **el estándar reconocido para
+convertir la demo técnica en un deal enterprise, dentro de un nicho estrecho y
+concreto** (startups de IA / logística / supply chain en seed–Serie A). Se
+financia a sí mismo con 3-5 sprints iniciales a precio reducido atados a una
+métrica de proceso medible (avance de reuniones enterprise), que producen los
+casos verificables que resuelven de golpe la atribución, la credibilidad y el
+foso de marca. A partir de ahí, el fundador deja de vender horas: productiza el
+método (playbook + assets), se convierte en el proveedor recomendado de un puñado
+de VCs (distribución que no consume sus horas) y usa esos casos para sostener —o
+duplicar— el precio. El cuello de botella de capacidad deja de ser el techo del
+negocio y pasa a ser la palanca de posicionamiento de alto ticket. Difiere de lo
+que se pitchó en una cosa: el activo que se construye no es el sprint, es la
+**categoría + la prueba**; el sprint es el vehículo.
 
 ---
-*Fuentes: `founder/board/offers.md`, `founder/board/monopoly.md`, `founder/board/product.md`. Las lentes son resúmenes de frameworks publicados ($100M Offers, Zero to One, la biografía de Steve Jobs de Isaacson); el consejo no habla en nombre de sus autores.*
+_Preguntas abiertas que el consejo no puede responder y delega al pack: tamaño del
+mercado alcanzable y CAC (`/founder-competitors`, `/founder-cfo`), disposición a
+pagar (`/founder-consumer`, `/founder-pricing`), quién más vende esto hoy
+(`/founder-competitors`)._

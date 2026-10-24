@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Ya probé planificadores y recetarios y los dejé a las pocas semanas, así que me bajaría el gratis pero no veo por qué esta vez pagaría. Lo de convertir los reels que guardo me tienta, pero no me fío de que de verdad acierte con lo que me gusta.",
-  "objection": "Que acabe siendo otra app que abro dos semanas y luego abandono, y que las sugerencias no encajen con lo que mi familia come de verdad.",
-  "would_change_my_mind": "Que después de usar el gratis un par de semanas notara que de verdad aprende mis gustos y me ahorra tiempo real, y que la importación de reels funcione bien de primeras.",
-  "price_too_cheap": 1,
-  "price_cheap": 2.99,
-  "price_expensive": 6.99,
-  "price_too_expensive": 10
+  "reason": "I'm a do-it-yourself operator; before I wire €9,500 to anyone I'll read the book, watch the blog and try rebuilding the pitch myself first. The problem is real, but a 3-week sprint with no promise it actually unsticks deals isn't where I spend seed money right now.",
+  "objection": "No hay garantia de resultado: I pay a fixed fee up front and could still walk away with a prettier pitch that doesn't close a single enterprise deal.",
+  "would_change_my_mind": "Tie the fee to outcomes or show me named case studies of comparable seed/Series A ops-tech founders whose enterprise conversion measurably improved after the sprint.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4500,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
 }

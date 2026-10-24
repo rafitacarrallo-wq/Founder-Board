@@ -1,13 +1,13 @@
 {
   "id": "P012",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Yo no pago suscripciones, y menos para esto: me quedo con la versión gratis, la sugerencia del día me vale y la lista la hago yo. Ya probé apps parecidas y las dejé a las dos semanas.",
-  "objection": "Que a los quince días deje de abrirla como todas las demás y esté pagando 4,99 al mes por algo que ya no uso.",
-  "would_change_my_mind": "Que la versión gratis me enganchara de verdad varios meses y notara que me ahorra tiempo cada noche; entonces quizá pagaría el año de golpe.",
-  "price_too_cheap": 1,
-  "price_cheap": 2,
-  "price_expensive": 5,
-  "price_too_expensive": 8
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Esto es exactamente donde me atasco: la demo se va demasiado al producto y pierdo al comprador enterprise. Con el board encima y demos esta semana que no avanzan, un sprint de 3 semanas a precio cerrado es mas rapido y barato que montar un fractional.",
+  "objection": "Solo me arregla el pitch de la demo, no todo el GTM, y es un solo operador sin que yo haya visto pruebas de que haya cerrado enterprise para un fundador como yo.",
+  "would_change_my_mind": "Si resultara ser un retainer mensual encubierto, o si no me enseñaran ningun caso real de un fundador seed/Serie A que haya cerrado enterprise despues del sprint, lo dejaria pasar.",
+  "price_too_cheap": 3000,
+  "price_cheap": 6000,
+  "price_expensive": 12000,
+  "price_too_expensive": 18000
 }

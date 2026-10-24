@@ -1,13 +1,13 @@
 {
   "id": "P011",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "convenience",
-  "reason": "El '¿qué hago hoy?' me pesa cada día y esto ataca justo eso: menú montado, lista ordenada para Mercadona y batch cooking el domingo. Empezaría gratis, pero esa semana me paso al plan anual de 39,99 para no tener la sensación de pagar otra cuota al mes.",
-  "objection": "Ya tengo demasiadas suscripciones y me da rabia sumar otra más; necesito saber que la uso de verdad antes de que me siga cobrando.",
-  "would_change_my_mind": "Que la versión gratis me demuestre en la primera semana que me ahorra la decisión diaria y me cuadre con lo que compro en Mercadona.",
-  "price_too_cheap": 1.99,
-  "price_cheap": 2.99,
-  "price_expensive": 6.99,
-  "price_too_expensive": 9.99
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Soy tecnica, mi demo la arreglo yo, ya lo hago. Pagar 9.500 por que alguien me reescriba el pitch no me entra, y menos llegando en frio por LinkedIn.",
+  "objection": "No me creo que un operador que no conoce mi producto vaya a contar mejor que yo el valor; y lo que llega en frio no me lo recomienda nadie en quien confie.",
+  "would_change_my_mind": "Que otro founder de mi circulo o mi VC me lo recomendara diciendo que les subio la conversion en demos enterprise reales.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 7000,
+  "price_too_expensive": 11000
 }

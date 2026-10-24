@@ -1,113 +1,142 @@
-# Competidores y el hueco — "Comer bien sin pensar"
+# Competidores — Demo-to-Deal (nombre de trabajo)
 
-> Fuentes públicas, cada dato con enlace. Donde la cifra viene de un agregador o
-> no se ha podido confirmar en la fuente primaria, se marca como *no verificado*.
-> Mercado de referencia: España, EUR. Investigado el 2026-10-11.
+> **Nota de método.** Todo lo de abajo viene de fuentes públicas (webs de los
+> proveedores, directorios y comparativas de software, posts de los propios
+> autores). Varias webs de consultores (Trebal & Chowsky, C2B, Matt Boardman,
+> Pitch Perfect, Exitstack) **no se pudieron abrir desde este entorno** (fallo de
+> DNS), así que los datos de esos vienen del *snippet* del buscador, no de la
+> página en vivo; sus "positioning_line" están **parafraseados** y marcados como
+> tales. Confírmalos a mano antes de usarlos en materiales. Fecha: 2026-10-24.
+> Los precios de consultoría casi nunca están publicados y los de software
+> varían mucho entre fuentes con interés comercial: trátalos como órdenes de
+> magnitud, no como cifras firmes.
 
-## 1. El mapa (ordenado por cuán directamente compite)
+## 1. El mapa, por cómo de directo compite
 
-| Competidor | Tipo | Qué vende | Precio del ítem comparable | Notas |
-| --- | --- | --- | --- | --- |
-| **ReciMe** | Directo | Importa recetas de TikTok/IG/YouTube/Pinterest con IA + planificador + lista | **39,99 $/año** (US), prueba 7 días | iOS (Android "en camino"). Rating ~4,6–4,8. **Ya hace tu gancho estrella.** |
-| **Wecipe / WeChef / Clip Recipe** | Directo | Convierten reels/posts en recetas editables | No publicado | Pequeños, pero el nicho reel→receta ya está poblado. |
-| **Samsung Food** (ex-Whisk) | Indirecto | Planes semanales con IA, lista de compra, nutrición | **Gratis**; Food+ ~6,99 $/mes o 59,99 $/año | Global, gran jugador, tier gratis muy generoso. |
-| **Mealime** | Indirecto | Planes para gente ocupada + lista de compra | **Gratis**; Pro ~3–6 $/mes | Enfoque "busy professionals" = tu mismo cliente. |
-| **Yazio** | Indirecto | Dieta/nutrición, calorías, planes | ~4–7 €/mes o ~30–45 €/año | Ángulo salud/peso, no "qué ceno hoy". |
-| **Jow** | Indirecto | Menú semanal + carrito con cantidades, integración súper | **Gratis** + compras in-app | Origen Francia; **integración con súper real** (su foso). España sin confirmar. |
-| **Nooddle** | Indirecto | Recetas según lo que tienes en casa + menú + lista | Suscripción (precio no publicado), 7 días gratis | **Startup española** (Zaragoza). Compite por tu misma promesa local. |
-| **ChatGPT / Gemini** | Sustituto | "¿Qué ceno con lo que tengo?" + menú + lista | **Gratis** (tier básico) | El sustituto más peligroso: hace el 70% por 0 €. |
-| **Guardar reels en TikTok/IG** | Sustituto | El hábito actual que la app quiere reemplazar | Gratis | Gratis y ya instalado. |
-| **Glovo / Uber Eats** | Sustituto | Comida lista sin cocinar ni planificar | ~8–15 €/comida + envío | Resuelve el dolor por otra vía (dinero en vez de tiempo). |
+### Directos — venden "arreglar la demo/pitch para vender mejor" al mismo comprador
 
-## 2. Rango de precio (suscripción premium de planificación)
+| Proveedor | Qué vende | Precio del ítem comparable | Para quién |
+| --- | --- | --- | --- |
+| **Trebal & Chowsky — Pitch Intensive** | Programa intensivo de pitch | **desde ~15.000 $**, 4-8 semanas, ~8 h/semana | Fundadores deep-tech y **IA**, Seed–Serie C |
+| **Great Demo! (Peter Cohan)** | Metodología y talleres de demo de software ("Do the Last Thing First") | ~930 $ plaza pública (cifra 2013, confirmar); talleres de equipo a presupuesto | Equipos de ventas/**presales** de software |
+| **C2B — Value-Based Product Demos** | Rediseño de demo basada en valor con datos verticales que prueban ROI | a presupuesto (fractional product experts) | Empresas que venden software a enterprise |
+| **Andy Raskin — Strategic Narrative** | Narrativa estratégica para CEOs con respaldo VC | **seis cifras mínimo** (dato de tercero, sin confirmar) | CEOs y equipos de liderazgo VC-backed |
 
-- **Más bajo:** ~3 $/mes (Mealime Pro).
-- **Mediana:** ~5 €/mes · ~40 €/año.
-- **Más alto:** ~7 $/mes (Samsung Food+ / Yazio).
-- **Dato demoledor:** los dos mayores (Samsung Food, Mealime) tienen **tier gratis**
-  que ya cubre planificar + lista, y ChatGPT hace la parte de "decidir" **gratis**.
-  Tu hipótesis de 39,99 €/año es **exactamente** el precio anual de ReciMe.
+El más parecido es **Trebal & Chowsky**: mismo cliente (fundadores de IA), formato
+de programa, alto ticket. Pero está orientado al **pitch de inversión / fundraising**,
+no a la demo de **venta a enterprise**, que es justo donde se sitúa esta idea.
+**Great Demo!** es el más directo en "la demo" pero vende formación a equipos de
+presales, no un sprint GTM para el fundador. **Raskin** juega en la gama altísima
+y en narrativa de compañía, no en la demo técnica concreta.
 
-## 3. Mapa de posicionamiento (dos ejes que importan a este comprador)
+### Indirectos — otro producto para el mismo trabajo ("vender mejor a enterprise")
+
+| Proveedor | Qué vende | Precio del ítem comparable |
+| --- | --- | --- |
+| **Fractional VP of Sales** (categoría) | Liderazgo de ventas a tiempo parcial | ~6.000-15.000 $/mes (1-3 días/semana) |
+| **Agencias de sales enablement** (categoría) | Contenido, decks, proceso y formación de ventas | ~6.000-25.000 $/mes de retainer |
+| **Matt Boardman** | Coaching de pitch para fundadores | 2.250-5.625 € (2-4 sesiones de 90 min) |
+| **Pitch Perfect** | Coaching de pitch 1:1 (incl. deep-tech/IA) | 500 €/sesión 2h · 1.500 € día completo |
+| **MentorCruise** (marketplace) | Coaching mensual 1:1 (pitch / enterprise sales) | ~90-600 $/mes |
+
+### Sustitutos — cómo lo resuelve el comprador sin contratar este servicio
+
+| Sustituto | Qué es | Precio |
+| --- | --- | --- |
+| **Walnut** | Software de demos interactivas/self-serve | ~9.200-10.000+ $/año |
+| **Consensus** | Plataforma de demo interactiva + engagement | ~12.000 $/año entrada (mediana ~23.781 $/año) |
+| **Demostack** | Plataforma de entornos de demo para enterprise | ~30.000-100.000 $/año (a presupuesto) |
+| **PitchCoach** (app IA) | App de feedback de delivery con IA | ~8-13 $/mes |
+| **DIY / no hacer nada** | Libro *Great Demo!*, posts gratis de Raskin, blogs (Exitstack, C2B) | 0-30 € |
+
+## 2. Rango de precio del ítem comparable (proyecto para arreglar la demo/pitch)
+
+- **Más bajo:** ~1.500 € (día completo de Pitch Perfect) / 2.250 € (Matt Boardman).
+- **Mediana de un proyecto cerrado comparable:** ~9.000-15.000 € (Trebal & Chowsky
+  ~15.000 $; nuestra ancla 9.500 €).
+- **Más alto:** Andy Raskin "seis cifras"; los fractional VP y las agencias no son
+  proyectos sino **retainers mensuales** de 6.000-25.000 $/mes.
+
+Lectura: **9.500 € encaja dentro del rango de un proyecto cerrado** y queda muy por
+debajo del coste acumulado de un fractional VP (3 meses = 18.000-45.000 $) o de una
+agencia. No somos los más baratos (hay coaching suelto a 1.500 €), pero no competimos
+en esa liga: vendemos un resultado de negocio, no horas de coach.
+
+## 3. Mapa de posicionamiento (dos ejes que le importan al comprador)
+
+Ejes: **genérico ↔ específico de nicho** (eje X) y **pitch de inversión ↔ demo de
+venta a enterprise** (eje Y).
 
 ```
-                    DECIDE POR MÍ (proactivo)
-                            │
-            ChatGPT/Gemini  │   ← (el hueco:
-            (gratis, genér.)│      proactivo + España
-                            │      + súper + sin fricción)
-   genérico/   ────────────┼────────────  localizado
-   internacional            │              España (idioma+súper)
-                            │
-   Samsung Food, Mealime,   │   Nooddle, Jow(?)
-   Yazio, ReciMe            │   (reactivos pero locales)
-                            │
-                  ORGANIZA LO QUE YO TRAIGO (reactivo)
+                 DEMO DE VENTA A ENTERPRISE (operaciones/ROI)
+                              ▲
+        Great Demo! ·         │            ◄ HUECO ►  ← Demo-to-Deal
+        C2B (demo valor)      │      (nicho IA/logística/supply chain,
+                              │       ROI operativo, sprint 3 semanas,
+   genérico ◄────────────────┼────────────────────────────► específico de nicho
+                              │
+     Fractional VP · agencias │     Trebal & Chowsky (IA, pero fundraising)
+     Pitch Perfect · Boardman │     Andy Raskin (narrativa de compañía)
+                              ▼
+                  PITCH DE INVERSIÓN / NARRATIVA DE COMPAÑÍA
 ```
 
-La mayoría se agolpa en **reactivo + internacional**. El cuadrante vacío es
-**"decide por mí + localizado España + integración súper + cero fricción"** — pero
-ojo: **ChatGPT ya ocupa el "decide por mí" gratis**, aunque genérico y sin memoria
-de tus gustos ni lista de súper.
+El cuadrante superior-derecha —**demo de venta a enterprise + específico de un
+nicho industrial**— está esencialmente vacío.
 
-## 4. Lo que sus clientes odian (quejas recurrentes, con enlace)
+## 4. Las quejas recurrentes (del problema, no de proveedores concretos)
 
-1. **Menús repetitivos** — la queja más consistente de todo el sector. Reseñas de
-   Mealime y de otras apps: al cambiar un plato "cicla entre los mismos 3-4" y "por
-   el mes 4 aparecen comidas repetidas". *(No verificado individualmente; patrón en
-   varios agregadores de reseñas 1-3★.)*
-   [unstar.app](https://unstar.app/blog/allrecipes-yummly-nyt-cooking-paprika-mealime-recipe-apps-ranked-2026)
-2. **Importación de recetas imprecisa** — en ReciMe, ~10% de usuarios reportan
-   importaciones "incorrectas o alteradas". *(Cifra de agregador IA, no verificada.)*
-   [onclarity.com](https://www.onclarity.com/leaderboard/insight/recime)
-3. **Fricción de configuración** — "no hay forma de solo explorar recetas según mis
-   preferencias"; alergias y sustituciones mal soportadas; "los planes se borran
-   solos"; "ingredientes duplicados en la lista".
-   [grand-screen.com](https://grand-screen.com/apps/mob-delicious-meal-planning/reviews/)
-4. **Precio/paywall** — "60 $/año es caro para lo que es un recetario digital"
-   (reseña de ReciMe). [onclarity.com](https://www.onclarity.com/leaderboard/insight/recime)
+No hay reseñas públicas con estrellas de estos servicios (consultoría 1:1 y
+software enterprise rara vez las tienen; marcado como *thin*, <3 reseñas). Lo que
+sí es un patrón claro en las fuentes sobre *el problema*:
 
-> Estas cuatro quejas son **oro para `/founder-offer`**: repetición, imprecisión,
-> fricción de arranque y sensación de "caro para lo que es". El panel de
-> consumidores debe convertirlas en objeciones reales.
+- **"La demo mata el deal por centrarse en features, no en valor."** Es la tesis
+  repetida en guías de ventas B2B (Exitstack, C2B, bluecarrot, whatastory): hay
+  que cuantificar el dolor y el ROI antes de enseñar el producto. → valida la
+  tesis central de la idea. *(fuentes abajo)*
+- **"Usuarios y compradores económicos necesitan mensajes distintos."** El
+  ejecutivo quiere el ahorro medible y "la última diapositiva primero".
+- **Los sustitutos de software (Walnut/Consensus/Demostack) resuelven el *entorno*
+  de la demo, no la *narrativa*.** Dejan el hueco de "¿qué historia cuento?".
 
 ## 5. El hueco (atado a la evidencia)
 
-**Hay un hueco, pero es estrecho y defendible solo con ejecución, no con tecnología:**
+Nadie combina las cinco cosas a la vez:
+1. **Fondo industrial/operativo + acumen comercial** (insider que sabe qué mueve a
+   un comprador de operaciones), no un coach de comunicación genérico.
+2. Foco en la **demo de venta a enterprise**, no en el pitch de inversión (donde
+   están Trebal & Chowsky y Raskin).
+3. Un **sprint cerrado de 3 semanas** productizado (los fractional VP y agencias
+   son retainers abiertos; los coaches venden sesiones sueltas).
+4. **Roleplay de objeciones** incluido (nadie en el mapa lo nombra como entregable).
+5. Un **nicho estrecho** (IA / logística / supply chain), que permite "poseer la
+   categoría" como pidió el consejo.
 
-- Nadie combina bien, **en español y para el súper español**: (a) proactivo "qué
-  ceno hoy con lo que tengo", (b) importación de reels fiable, (c) baja fricción de
-  arranque, (d) lista que de verdad enlaza con Mercadona/Carrefour/etc.
-- ReciMe tiene el reel→receta pero es un **organizador reactivo**, iOS-first, y no
-  "decide por ti" ni está pensado para el súper español.
-- Nooddle es local pero poco visible y sin el gancho de reels.
-- **El antídoto a las quejas del sector** (anti-repetición real, importación que no
-  falla, onboarding de 1 minuto) sería un diferenciador de *producto*, no de *IA*.
+Ese es el cuadrante vacío del mapa. Es un hueco **real pero estrecho**: coincide
+con la condición del consejo de *poseer una categoría concreta* antes de expandir.
 
-**Pero sé honesto:** el hueco NO es un mercado vacío. Es un mercado **concurrido con
-alternativas gratuitas potentes**. El consejo ya avisó de esto (riesgo nº2 y nº3).
+## 6. La amenaza — quién copia más rápido
 
-## 6. La amenaza (quién te copia más rápido)
-
-- **ChatGPT/Gemini**: ya hacen "decide por mí" gratis; solo les falta memoria de
-  gustos y lista de súper — y van hacia ahí.
-- **Samsung Food / Google**: distribución masiva + presupuesto de IA; añadir
-  "importa tu reel" e idioma español es trivial para ellos.
-- **Mercadona** (u otra cadena): tiene el foso que a ti te falta —la integración con
-  el súper y millones de usuarios— y podría añadir planificación de menú encima.
-- **ReciMe**: ya tiene el gancho; localizar a España y volverse proactiva es su
-  siguiente paso natural.
+El propio consejo (lente de Monopolio) ya lo marcó como riesgo nº1, y el mapa lo
+confirma: **un fractional sales leader o un ex-presales formado en Great Demo!**
+puede empaquetar un "sprint de 3 semanas para arreglar tu demo enterprise", ponerle
+9.500 € y hacer el mismo outbound en un fin de semana. La metodología no es
+patentable. Lo único que frena al copión es llegar antes a: (a) el **nombre del
+nicho**, (b) **casos con métricas verificables**, y (c) el **flujo de referencias
+de VCs**. Sin eso, en 6 meses es un commodity.
 
 ---
+### Fuentes
 
-## Fuentes
-
-- [Xataka — 17 apps para organizar menús semanales](https://xataka.com/basics/aplicaciones-para-organizar-tus-menus-semanales-planificar-mejor-tus-comidas)
-- [ReciMe — precio de suscripción (help center)](https://help.recime.app/en/articles/11630592-how-much-does-the-recime-subscription-cost) · [ficha App Store ES](https://apps.apple.com/es/app/id1593779280) · [Plan to Eat — review ReciMe](https://www.plantoeat.com/blog/2025/01/recime-app-review-pros-and-cons/)
-- [Samsung Food — App Store](https://apps.apple.com/app/id1133637674) · [precio Food+ (stork.ai)](https://www.stork.ai/en/whisk-samsung-food)
-- [Mealime — App Store ES](https://apps.apple.com/es/app/id1079999103) · [iPhoneLife — Mealime para profesionales ocupados](https://iphonelife.com/content/mealime-pro-review-perfect-recipe-app-busy-professionals)
-- [Yazio — App Store](https://apps.apple.com/JP/app/id946099227)
-- [Jow — App Store](https://apps.apple.com/app/id1301257625) · [Xataka Móvil — Jow](https://www.xatakamovil.com/aplicaciones/combina-listas-de-la-compra-y-recetas-en-tu-iphone)
-- [Nooddle — CB Insights](https://www.cbinsights.com/company/nooddle)
-- [Wecipe — Product Hunt](https://www.producthunt.com/p/wecipe-import-de-recettes/wecipe)
-- [Quejas del sector — unstar.app (apps de recetas 2026)](https://unstar.app/blog/allrecipes-yummly-nyt-cooking-paprika-mealime-recipe-apps-ranked-2026) · [Onclarity — ReciMe](https://www.onclarity.com/leaderboard/insight/recime) · [grand-screen.com — Mob reviews](https://grand-screen.com/apps/mob-delicious-meal-planning/reviews/)
+- Trebal & Chowsky — Pitch Intensive (deep-tech/IA, desde ~15.000 $): https://trebalchowsky.com/pitch-coach/ *(no se pudo abrir en vivo; dato del buscador)*
+- Great Demo! / Peter Cohan (metodología, taller público ~930 $ en 2013): https://www.skmurphy.com/blog/2012/10/23/great-demo-workshop-on-oct-9-10-2013/ · https://www.audible.com/pd/Great-Demo-Audiobook/B00FYVBYQ4
+- C2B — Value-Based Product Demos: https://www.c2bsuite.com/valuebased-product-demos *(no se pudo abrir en vivo)*
+- Andy Raskin — Strategic Narrative: https://andyraskin.com/
+- Matt Boardman (2.250-5.625 €): https://www.matt-boardman.com/ *(no se pudo abrir en vivo; dato del buscador)*
+- Pitch Perfect (500 €/sesión, 1.500 € día): https://www.pitchperfect.nu/ *(no se pudo abrir en vivo; dato del buscador)*
+- Fractional VP of Sales (~6-15k $/mes): https://www.activatedscale.com/feeds/blog/vp-sales-cost-month · https://rrclosers.com/fractional-vp-of-sales-cost
+- Agencias sales enablement (~6-25k $/mes): https://otrenix.com/b2b-sales-enablement-agencies/
+- MentorCruise (coaches pitch/enterprise sales): https://mentorcruise.com/coach/pitch/ · https://mentorcruise.com/coach/enterprisesales/
+- Software de demos (Walnut/Consensus/Demostack precios): https://www.storylane.io/blog/demostack-vs-walnut-a-comparison-of-its-features-and-pricing · https://www.navattic.com/blog/6-best-sales-demo-software · https://presalespulse.com/tools/compare/demostack-vs-walnut/
+- PitchCoach (app IA, 8-13 $/mes): https://pitchcoach.app/pricing
+- Tesis "la demo mata el deal / vende valor no features": https://www.exitstack.co/posts/why-your-product-demo-is-killing-your-deals-and-what-to-do-instead · https://www.c2bsuite.com/valuebased-product-demos · https://www.whatastory.agency/blog/saas-video-script-psychology · https://bluecarrot.io/blog/how-to-create-saas-presentation-that-converts/

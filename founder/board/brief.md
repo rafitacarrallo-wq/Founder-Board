@@ -1,60 +1,44 @@
-# Brief para el consejo — "Comer bien sin pensar" (nombre de trabajo)
+# Brief para el consejo — Demo-to-Deal (nombre de trabajo)
 
-Este documento se basta por sí solo. Léelo entero antes de votar.
+Este brief es autónomo: contiene todo lo que necesitas para evaluar la idea. No
+has visto ninguna conversación previa.
 
 ## La idea
 
-Una app móvil con IA cuya misión es doble: que **pensar qué comer** sea
-facilísimo, y que **hacerlo** (cocinar, comprar) sea rápido y sencillo. El
-resultado buscado: que la gente coma rico y sano a diario, sin esfuerzo y sin
-carga mental. No es un catálogo de recetas más; es un sistema que absorbe todo el
-trabajo invisible de comer bien.
+Un servicio de consultoría B2B de **alto ticket** que rediseña la demo técnica y
+el pitch de ventas de startups tecnológicas para que vendan ROI e impacto
+operativo en lugar de "código y algoritmos".
 
-La IA es el corazón: aprende tus gustos, tu tiempo, tu nivel de cocina y lo que
-tienes en casa, y te lo deja todo resuelto.
+- **Tesis central:** los fundadores técnicos no cierran con enterprise porque sus
+  demos son demasiado complejas y están centradas en el producto/algoritmo, no en
+  el ahorro de costes, la reducción de riesgo y la eficiencia operativa que le
+  importan al comprador corporativo.
+- **Cliente objetivo:** startups tech en **seed / Serie A** en **IA, logística y
+  supply chain**. Equipos fundadores técnicos, con producto y pipeline, pero con
+  conversión atascada en el embudo enterprise. Mercado **global / anglosajón**.
+- **El producto — un sprint de 3 semanas "Demo Architecture & GTM Value Pitch":**
+  1. **Auditoría quirúrgica** de la demo actual: localizar los *friction points*
+     donde el comprador enterprise desconecta.
+  2. **Rediseño del pitch** en una narrativa de **7 minutos** centrada en ahorro
+     de costes, reducción de riesgo y eficiencia operativa.
+  3. **Roleplay** con el equipo de la startup para estresar objeciones de
+     compradores corporativos duros.
+- **Precio ancla a testear:** 9.500 € por sprint. Fee de proyecto, **sin equity,
+  sin capital, sin programar software**.
+- **Cómo llegan los clientes:** outbound personalizado del fundador (LinkedIn,
+  email, warm intros de VCs/aceleradoras) y referencias de founders.
+- **El consultor:** una persona, perfil **híbrido**: fondo industrial profundo
+  (operaciones / logística / industria) + acumen comercial. No es una agencia.
+- **Restricciones conocidas:** sin plantilla al arranque; capacidad limitada por
+  las horas del fundador; sin coger equity ni capital; sin construir software.
 
-## Qué hace la app (ejemplos concretos)
+## Datos que todavía nadie tiene (son preguntas abiertas, no los inventes)
 
-- **Decide qué comer hoy:** en vez de mirar la nevera 20 min sin ideas, propone
-  directamente. Ej: "hoy salmón al horno con verduras, 25 min, con lo que ya
-  tienes".
-- **Reels → recetas usables:** coge vídeos de recetas que guardaste en TikTok/
-  Instagram y los convierte en ingredientes + pasos y los mete en tu menú.
-  Convierte el scroll en comida real.
-- **Menú semanal:** monta el menú de varios días, equilibrado y variado, adaptado
-  a gustos y tiempo. Ajustable con un toque ("esta semana más rápido, que curro
-  mucho").
-- **Batch cooking inteligente:** organiza cocinar en tandas; una sesión resuelve
-  varios días, aprovechando ingredientes entre platos para no desperdiciar.
-- **Lista de la compra automática:** del menú sale la lista de lo que falta, ya
-  organizada.
-- **Todo sencillo:** recetas fáciles y rápidas, nada de platos complejos.
+- Tamaño real del mercado alcanzable y CAC.
+- Disposición a pagar y rango de precio aceptable.
+- Quién más ofrece esto hoy (consultores de pitch, agencias de sales enablement,
+  fractional sales leaders, pitch coaches de VC).
+- Qué parte del resultado (más reuniones, más cierres) es atribuible al sprint.
 
-El hilo conductor: hoy comer bien a diario exige mucho trabajo invisible (pensar,
-planificar, comprar, no repetir, no desperdiciar). La app lo vuelve automático
-para que la persona solo tenga que disfrutar.
-
-## Hipótesis de negocio (de partida, a validar — NO decididas)
-
-- **Cliente:** adultos urbanos 28–42 en España, trabajo exigente, poco tiempo,
-  cocinan casi a diario, quieren comer sano, ya guardan reels de recetas que no
-  usan. Cabeza de playa: profesionales ocupados y parejas jóvenes sin hijos en
-  Madrid/Barcelona/Valencia.
-- **Modelo y precio:** freemium; premium por suscripción a ~4,99 €/mes o
-  39,99 €/año. Posible afiliación con súper online.
-- **Canal:** app iOS+Android; adquisición vía TikTok/Instagram (orgánico + de
-  pago) y creadores de comida; la importación de reels como gancho viral.
-- **Mercado:** España primero, EUR.
-
-## Datos que todavía no existe nadie que los tenga (preguntas abiertas)
-
-- Tamaño real del mercado dispuesto a pagar por esto en España.
-- Coste de adquirir un cliente (CAC) y retención/churn de una app de suscripción
-  de este tipo.
-- Coste variable de IA por usuario al mes.
-- Presupuesto y runway del fundador (no indicado).
-- Fiabilidad técnica de la importación reel→receta (depende de plataformas de
-  terceros).
-
-Si tu lente necesita uno de estos números, nómbralo como pregunta abierta; no lo
-inventes.
+Puntúa el negocio, no al fundador. Un PASS es un resultado válido. Si una lente
+necesita un número que nadie tiene, nómbralo como pregunta abierta.

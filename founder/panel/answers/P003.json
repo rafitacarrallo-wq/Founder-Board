@@ -2,12 +2,12 @@
   "id": "P003",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "No pago suscripciones por norma, y menos por algo que depende de que la IA lea bien mis reels; me quedaría con la versión gratis y punto.",
-  "objection": "No me fío de que convierta bien los reels en receta sin inventarse ingredientes o pasos, y si tengo que revisarlo todo ya no me ahorra nada.",
-  "would_change_my_mind": "Probar gratis el importar reels durante un tiempo y ver que las recetas salen fieles y usables sin que yo las corrija.",
-  "price_too_cheap": 0.99,
-  "price_cheap": 1.99,
-  "price_expensive": 3.99,
-  "price_too_expensive": 6.99
+  "reason_code": "habit",
+  "reason": "No compro nada en frio; esto me llega como un anuncio de un operador que no conozco y sin que ningun founder o mi VC me lo haya recomendado. Ademas soy tecnica, mi demo la puedo rehacer yo, ya lo hago.",
+  "objection": "Un solo operador que no conozco, sin ningun caso ni founder que me diga 'a mi me subio la conversion con esto'. Pagar 9.500 euros a ciegas por algo que creo que puedo arreglar yo mismo no me cuadra.",
+  "would_change_my_mind": "Que un founder de mi circulo o mi VC me lo recomiende con numeros reales: 'teniamos este mismo problema en la demo y despues de esto cerramos X deals mas'.",
+  "price_too_cheap": 2500,
+  "price_cheap": 5000,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
 }
