@@ -1,0 +1,13 @@
+{
+  "id": "P051",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy de hacerlo yo misma: antes de soltar 9.500 euros me leo lo que haya, miro el blog y reescribo yo el pitch con mi equipo. No pago a alguien por algo que puedo intentar sola primero.",
+  "objection": "Como se que un pitch reconstruido causo mas cierres y no fue el producto o el mercado? No veo como atribuir el resultado a este sprint.",
+  "would_change_my_mind": "Casos reales con antes/despues de tasa de cierre en demos enterprise, o parte del fee atado a resultado.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 8000,
+  "price_too_expensive": 12000
+}

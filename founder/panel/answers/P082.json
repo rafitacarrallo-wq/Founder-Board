@@ -1,0 +1,13 @@
+{
+  "id": "P082",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy de leer el libro y probar yo misma antes de pagar a nadie, y un rebuild de demo de 7 minutos es algo que puedo intentar por mi cuenta primero. Nada aqui me demuestra que el gasto de 9.500 euros cause mas cierres y no sea el producto o el mercado.",
+  "objection": "Como aislo que fue este sprint lo que movio la conversion, y no mi producto, mi mercado o el ciclo normal del pipeline? Un operador, remoto, sin datos de antes/despues.",
+  "would_change_my_mind": "Datos reales de antes/despues de fundadores comparables en IA/logistica (tasa de demo-a-deal) y algun tipo de garantia atada a resultados, no solo a entregables.",
+  "price_too_cheap": 1200,
+  "price_cheap": 3500,
+  "price_expensive": 8000,
+  "price_too_expensive": 13000
+}

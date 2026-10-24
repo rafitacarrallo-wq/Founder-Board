@@ -1,0 +1,13 @@
+{
+  "id": "P076",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El dolor es real: mi demo se atasca y ni yo ni mi cofundador disfrutamos vender. Pero no me ensenan un solo caso ni un numero de conversion; un operador externo no conoce mi producto ni mi mercado de enterprise, y yo no suelto 9.500 euros sin ver retorno medible.",
+  "objection": "Que un consultor que no conoce mi algoritmo ni a mis compradores me reescriba el pitch en 3 semanas y acabe sonando generico, sin que nadie me pruebe que de verdad sube la conversion.",
+  "would_change_my_mind": "Casos concretos de startups parecidas a la mia con antes/despues de conversion en demo, y algun compromiso de resultado o fee ligado a reuniones avanzadas.",
+  "price_too_cheap": 2500,
+  "price_cheap": 5000,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}

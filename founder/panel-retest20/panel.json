@@ -1,0 +1,103 @@
+{
+ "n": 20,
+ "seed": 20,
+ "customer": {
+  "business": "Demo-to-Deal (consultoria de rediseno de demo y pitch GTM para startups tech)",
+  "target": "Fundador o responsable de GTM/ventas en una startup tech de IA, logistica o supply chain en seed o Serie A, que vende a enterprise y cuya conversion se atasca en la demo",
+  "where": "Global / anglosajon, remoto",
+  "age": [
+   28,
+   52
+  ],
+  "segments": [
+   {
+    "name": "Fundador tecnico CEO (seed)",
+    "share": 0.35,
+    "income": [
+     60000,
+     120000
+    ]
+   },
+   {
+    "name": "Fundador/CEO (Serie A)",
+    "share": 0.3,
+    "income": [
+     120000,
+     200000
+    ]
+   },
+   {
+    "name": "Head of Sales / GTM lead (Serie A)",
+    "share": 0.2,
+    "income": [
+     130000,
+     220000
+    ]
+   },
+   {
+    "name": "Cofundador no-tecnico / COO",
+    "share": 0.15,
+    "income": [
+     100000,
+     180000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Pragmatico de ROI",
+    "share": 0.22,
+    "how": "Solo compra si ve retorno claro y medible; pide casos y numeros antes de pagar."
+   },
+   {
+    "name": "Esceptico de consultores",
+    "share": 0.2,
+    "how": "Ha tenido malas experiencias con agencias y coaches; cree que puede hacerlo el mismo."
+   },
+   {
+    "name": "Busca referencias",
+    "share": 0.18,
+    "how": "Compra lo que le recomienda otro founder o su VC; no responde a frio."
+   },
+   {
+    "name": "Hazlo-tu-mismo",
+    "share": 0.15,
+    "how": "Lee el libro, mira el blog y prueba por su cuenta antes de pagar a nadie."
+   },
+   {
+    "name": "Presionado por el board",
+    "share": 0.12,
+    "how": "Su inversor le empuja a mejorar la conversion enterprise ya; busca una solucion rapida."
+   },
+   {
+    "name": "Frugal / sin caja",
+    "share": 0.08,
+    "how": "Startup sin apenas runway; regatea todo y busca la opcion gratis o barata."
+   },
+   {
+    "name": "Delega en el equipo",
+    "share": 0.05,
+    "how": "Prefiere contratar a alguien interno o pasarselo a su comercial antes que a un externo."
+   }
+  ],
+  "objections": [
+   "Como se que esto causo mas cierres y no fue el producto o el mercado?",
+   "9.500 EUR es mucho para una startup sin apenas caja.",
+   "Soy tecnico, puedo arreglar mi propia demo, ya lo hago yo.",
+   "Un consultor externo no conoce mi producto ni mi mercado.",
+   "Por que no contrato un fractional sales leader que me cubre todo?",
+   "3 semanas no cambian mi pipeline, el deal enterprise tarda meses.",
+   "Ya he probado coaches de pitch y no sirvio de nada.",
+   "No hay garantia de resultado."
+  ],
+  "habits": [
+   "acabas de levantar una ronda seed y tu VC te pregunta por la traccion enterprise",
+   "tienes varias demos enterprise esta semana y ninguna avanza a segunda reunion",
+   "tu cofundador tecnico odia vender y tu tampoco lo disfrutas",
+   "ves como un competidor peor tecnicamente cierra mas deals que tu",
+   "pasas de LinkedIn mientras otro founder recomienda a un consultor de ventas",
+   "tu ultimo forecast se cayo porque tres pilots enterprise se congelaron"
+  ]
+ },
+ "pitch": "**Demo-to-Deal Sprint** — in 3 weeks we turn your technical demo into a 7-minute enterprise pitch your team can run under pressure, built around cost savings, risk reduction and operational efficiency.\n\nFor seed / Series A founders in AI, logistics and supply chain who keep losing enterprise buyers in the demo.\n\nWe agree one metric up front — your advance-to-second-meeting rate on enterprise demos — and build the whole sprint to move it. You get:\n1. A recorded friction teardown of your current demo (you keep it) — the exact points where enterprise buyers disconnect.\n2. The rebuilt 7-minute value narrative, plus an Objection Playbook: the 10 hardest corporate-buyer objections in your category, with answers.\n3. Live objection roleplay until your team can run the pitch without the script — not a document, an installed capability.\n\n**Advance-rate guarantee:** if your advance-to-second-meeting rate doesn't improve versus your baseline, we re-run the sprint free. The metric is one we control — not the close, which depends on your product and buyer.\n\nDelivered by one operator with a deep industrial / operations background and enterprise commercial experience — an insider on what actually moves an operations buyer. Fully remote. No equity, no monthly retainer, no software for you to build.\n\n**Founding cohort: 5 slots** at €4,900 (vs €9,500 standard), in exchange for a documented before/after result and a testimonial. Prefer a smaller first step? Start with the 1-week **Demo Audit** at €2,900, credited toward the full sprint."
+}

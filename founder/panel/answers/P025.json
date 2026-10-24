@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "No tengo runway para soltar 9.500 euros fijos por un sprint de 3 semanas cuando mi ciclo enterprise tarda meses en cerrar. Arreglar el pitch no me arregla el pipeline a tiempo.",
+  "objection": "Que pague casi 10k y el deal siga atascado igual: el pitch es solo una pieza, y tres semanas no mueven una venta que dura meses. Ademas no veo prueba de que esto convierta de verdad.",
+  "would_change_my_mind": "Precio mucho mas bajo o a exito (ligado a una demo cerrada), con casos reales de founders como yo que pasaron de demo atascada a deal firmado.",
+  "price_too_cheap": 800,
+  "price_cheap": 2500,
+  "price_expensive": 5000,
+  "price_too_expensive": 9000
+}

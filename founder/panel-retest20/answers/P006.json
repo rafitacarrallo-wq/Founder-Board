@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Esta semana mis demos no pasan a segunda reunion, y esta oferta ataca exactamente esa metrica. No pago los 4.900 a ciegas, pero el Demo Audit de 2.900 creditable es un primer paso con poco riesgo para ver si el tipo sabe de lo que habla.",
+  "objection": "Como separo que la mejora venga del sprint y no del producto, del mercado o de que me toquen mejores leads ese mes.",
+  "would_change_my_mind": "Dos o tres casos reales con el antes/despues de la advance-rate documentado en startups parecidas a la mia, no solo testimonios.",
+  "price_too_cheap": 900,
+  "price_cheap": 2900,
+  "price_expensive": 6000,
+  "price_too_expensive": 10000
+}

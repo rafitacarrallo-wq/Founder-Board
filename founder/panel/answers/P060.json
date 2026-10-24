@@ -1,0 +1,13 @@
+{
+  "id": "P060",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Dan justo en mi herida: pierdo al enterprise en la demo. Pero un pitch nuevo en 3 semanas no me demuestra que mueva deals que tardan meses en cerrar, y suelto 9.500 sin ninguna prueba de resultado.",
+  "objection": "Es un solo operador rehaciendo mi narrativa; no veo casos de founders como yo que subieran conversion enterprise de verdad. Puede ser solo coaching con buena pinta.",
+  "would_change_my_mind": "Casos reales de startups seed/Serie A en IA o supply chain donde su sprint subio la conversion post-demo, o algun compromiso de resultado / pago ligado a avance.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 18000
+}

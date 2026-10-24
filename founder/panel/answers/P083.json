@@ -1,0 +1,13 @@
+{
+  "id": "P083",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "9.500 EUR es muchisimo para una startup Serie A sin caja, y por experiencia los consultores y coaches prometen mucho y entregan humo. Esto del pitch lo puedo arreglar yo mismo iterando con mi equipo.",
+  "objection": "Pagar casi diez mil euros a un solo operador por tres semanas, sin garantia de que mi conversion en la demo mejore de verdad.",
+  "would_change_my_mind": "Que me lo cobrara a exito, ligado a demos ganadas, o una prueba gratis del friction audit con casos reales de founders como yo que cerraron enterprise despues.",
+  "price_too_cheap": 500,
+  "price_cheap": 1500,
+  "price_expensive": 4000,
+  "price_too_expensive": 8000
+}

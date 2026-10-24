@@ -1,0 +1,13 @@
+{
+  "id": "P084",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya me he quemado con agencias y coaches, y esto de reempaquetar mi demo en un 'value narrative' es justo lo que creo que puedo hacer yo misma. 9.500 EUR a un consultor que acabo de conocer, con la caja que tengo y un forecast recien caido, no me cuadra.",
+  "objection": "Es un operador solo, sin casos ni resultados demostrados conmigo; que me prometa que cerrare mas no significa que vaya a pasar, y ya he pagado antes por humo.",
+  "would_change_my_mind": "Casos reales de founders como yo en IA/supply chain que pasaron de pilots congelados a deals cerrados tras el sprint, o un modelo con parte del pago ligada a resultados.",
+  "price_too_cheap": 800,
+  "price_cheap": 2500,
+  "price_expensive": 5000,
+  "price_too_expensive": 8000
+}

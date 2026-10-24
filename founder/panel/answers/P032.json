@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya me quemé con agencias y coaches que prometen y no entregan, y aquí no hay ninguna garantía de resultado por €9,500. El problema es real, pero el reencuadre de la demo es algo que creo que puedo hacer yo mismo con mi equipo.",
+  "objection": "No hay garantía de resultado: pago casi diez mil euros a un operador que no conozco y si los deals no se cierran igual, el dinero se fue.",
+  "would_change_my_mind": "Un modelo con parte del fee ligado a resultado o a hitos, más dos o tres casos verificables de founders enterprise cuya conversión en demo subió de verdad tras el sprint.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4500,
+  "price_expensive": 9500,
+  "price_too_expensive": 14000
+}

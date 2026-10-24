@@ -1,0 +1,13 @@
+{
+  "id": "P093",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy tecnico, la demo la monto yo y ya la retoco yo mismo; si hay que pulir el pitch comercial prefiero que lo haga mi comercial o fichar a alguien interno antes que pagar a un externo por tres semanas.",
+  "objection": "Nueve mil quinientos euros por algo que siento que puedo arreglar yo o delegar en mi equipo; no veo por que un operador de fuera va a conocer mi producto y mi comprador mejor que nosotros.",
+  "would_change_my_mind": "Que me ensene casos concretos de founders tecnicos como yo en IA o supply chain donde su narrativa de 7 minutos destrabo deals enterprise reales, con cifras de conversion antes y despues.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4000,
+  "price_expensive": 8000,
+  "price_too_expensive": 12000
+}

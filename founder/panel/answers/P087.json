@@ -1,0 +1,13 @@
+{
+  "id": "P087",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Casi no tengo runway y regateo hasta el cafe; soltar 9.500 euros de golpe por un sprint de 3 semanas sobre el pitch no entra en mi caja ahora mismo.",
+  "objection": "Por ese dinero casi me planteo un fractional sales leader que me cubra todo el GTM, no solo arreglar la demo una vez.",
+  "would_change_my_mind": "Que fuera ligado a resultados (pago pequeno por adelantado y el resto solo si cierro un deal enterprise tras el sprint) o una version mucho mas barata.",
+  "price_too_cheap": 1200,
+  "price_cheap": 2500,
+  "price_expensive": 5000,
+  "price_too_expensive": 9000
+}

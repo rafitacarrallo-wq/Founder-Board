@@ -1,0 +1,13 @@
+{
+  "id": "P064",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "The problem is real and the timing stings with my VC on my back, but I'm a do-it-yourself guy and €9,500 to have someone rewrite a pitch I think I can learn from a book and a few blogs is a hard no for me right now. I'd rather audit my own demo first and see how far I get.",
+  "objection": "No hay garantia de resultado. I pay €9,500 up front and if enterprise buyers still ghost me after the demo, I'm out the money with nothing to show my board.",
+  "would_change_my_mind": "A result-based deal or clear proof it worked, concrete case studies with named seed/Series A startups and the conversion numbers before and after.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 18000
+}

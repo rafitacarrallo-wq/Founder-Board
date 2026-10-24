@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El dolor es exactamente el mio, pierdo deals en la demo, pero un operador externo que no conoce mi producto ni mi mercado de IA/supply chain no va a reconstruir mi pitch mejor que yo. Ya me quemaron agencias y coaches antes.",
+  "objection": "Reescribir mi narrativa de valor requiere entender mi producto y mi buyer; un consultor generico en tres semanas no llega ahi, y acabo pagando 9.500 euros por un guion que no suena a mi.",
+  "would_change_my_mind": "Casos concretos de founders en IA o supply chain que pasaron de atascarse en la demo a cerrar enterprise con su metodo, con numeros, no referencias vagas.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4500,
+  "price_expensive": 9500,
+  "price_too_expensive": 14000
+}

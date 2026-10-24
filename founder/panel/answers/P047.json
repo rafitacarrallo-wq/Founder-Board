@@ -1,0 +1,13 @@
+{
+  "id": "P047",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Me toca justo el dolor: pierdo enterprise en la demo porque es demasiado producto y poco impacto de negocio. Pero yo no pago sin casos y numeros, y aqui no veo ni un before/after de conversion de nadie, solo un operador.",
+  "objection": "No hay ninguna prueba de ROI: cuanto subio la conversion demo-a-deal de clientes reales? Y por 9.500 EUR por tres semanas casi prefiero un fractional sales leader que me cubra todo el ciclo, no solo el pitch.",
+  "would_change_my_mind": "Dos o tres casos de founders como yo con numeros concretos de mejora en conversion tras el sprint, y a ser posible una referencia con la que pueda hablar.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

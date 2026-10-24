@@ -1,0 +1,13 @@
+{
+  "id": "P075",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya me he quemado con consultores y coaches que venden humo, y nueve mil quinientos euros por tres semanas de alguien que no conoce mi producto ni mi mercado me suena a lo de siempre. El problema de la demo es real, pero no me fio de que un externo lo arregle mejor que yo con unas cuantas iteraciones.",
+  "objection": "Un operador de fuera no entiende mi producto ni a mi comprador enterprise lo suficiente en tres semanas como para reescribir mi pitch mejor que yo.",
+  "would_change_my_mind": "Casos concretos y verificables de fundadores como yo en IA o supply chain cuya conversion en la demo subio de verdad tras el sprint, con nombres con los que pueda hablar.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 9500,
+  "price_too_expensive": 14000
+}

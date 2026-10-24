@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Pega justo en mi dolor: se me caen los enterprise en la demo. Pero no me enseñas un solo caso ni numeros de otro fundador, y eres 'un operador' sin track record visible. Antes de soltar 2.900-4.900 necesito ver resultados medibles de alguien como yo.",
+  "objection": "La garantia es re-hacer el sprint gratis, no devolver mi dinero, y lo que de verdad me importa -cerrar- lo excluyes expresamente. Sin casos ni numeros, es apostar a ciegas.",
+  "would_change_my_mind": "Dos o tres casos reales con before/after de la tasa de avance a segunda reunion, de startups parecidas a la mia, mas una garantia de devolucion de dinero en el Demo Audit.",
+  "price_too_cheap": 1200,
+  "price_cheap": 3000,
+  "price_expensive": 7000,
+  "price_too_expensive": 11000
+}

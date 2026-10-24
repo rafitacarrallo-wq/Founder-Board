@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "El board me aprieta con la conversion enterprise y esto ataca justo mi problema: pierdo a los buyers en la demo. No suelto 4.900 a ciegas, pero el Demo Audit de 2.900 acreditable es un primer paso que puedo justificar ya.",
+  "objection": "Es un solo operador sin casos concretos ni nombres que yo pueda verificar; me fio de la promesa, no de pruebas, y 9.500 es una barbaridad para mi caja.",
+  "would_change_my_mind": "Dos o tres before/after reales de startups como la mia (tasa de avance a segunda reunion antes y despues) que pueda contrastar.",
+  "price_too_cheap": 900,
+  "price_cheap": 2900,
+  "price_expensive": 4900,
+  "price_too_expensive": 9500
+}

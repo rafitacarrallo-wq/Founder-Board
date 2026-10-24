@@ -1,0 +1,13 @@
+{
+  "id": "P038",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Encaja exacto con mi problema y el board me aprieta, pero ya pague un coach de pitch y no movio nada. Un solo operador sin un solo caso de un founder como yo no me da para soltar 9.500 esta semana.",
+  "objection": "No hay prueba de que esto funcione de verdad: solo es otra promesa de coach, y no veo resultados con founders enterprise parecidos a mi.",
+  "would_change_my_mind": "Dos o tres casos concretos de founders de IA/logistica cuya conversion enterprise subio tras el sprint, con numeros, o que parte del fee dependa del resultado.",
+  "price_too_cheap": 2500,
+  "price_cheap": 6000,
+  "price_expensive": 12000,
+  "price_too_expensive": 18000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P078",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "Esto da justo en mi herida: pierdo deals enterprise en la demo y el board me aprieta para arreglar la conversion ya. Es rapido, precio fijo, sin equity y hecho por alguien que conoce al comprador de operaciones.",
+  "objection": "No hay garantia de resultado: pago 9.500 euros y puede que mi pitch mejore pero los deals sigan sin cerrarse.",
+  "would_change_my_mind": "Ver casos reales de founders como yo que cerraron enterprise tras el sprint, o algun componente del precio ligado a resultado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 13000,
+  "price_too_expensive": 20000
+}

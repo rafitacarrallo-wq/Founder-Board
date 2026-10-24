@@ -1,0 +1,13 @@
+{
+  "id": "P045",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "9.500 EUR es muchisimo dinero para una startup como la mia que apenas tiene caja, y yo soy de los que primero se leen el libro, miran el blog y lo intentan por su cuenta antes de pagar a alguien. Puedo reescribir mi propia narrativa de demo sin soltar ese dinero.",
+  "objection": "No tengo ninguna prueba de que este operador haya hecho esto antes con exito; es una sola persona, sin casos ni resultados, pidiendome casi 10k por tres semanas.",
+  "would_change_my_mind": "Casos reales de founders como yo con numeros de conversion antes/despues, y un precio mucho mas bajo o ligado a resultados; quiza empezar solo por la auditoria de friccion.",
+  "price_too_cheap": 1200,
+  "price_cheap": 2800,
+  "price_expensive": 5500,
+  "price_too_expensive": 9000
+}

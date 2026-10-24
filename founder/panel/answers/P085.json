@@ -1,0 +1,13 @@
+{
+  "id": "P085",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "9.500 EUR es demasiado para una startup sin apenas caja, y no veo ni un caso ni un numero que me demuestre el retorno. El dolor es real, pero no pago eso a ciegas.",
+  "objection": "Me prometen narrativa de ROI pero el propio pitch no trae ROI: ni cifras de mejora de conversion ni clientes que ya lo hayan probado.",
+  "would_change_my_mind": "Casos concretos con metricas (p. ej. X founders que pasaron de demo a segunda reunion), y un precio por hitos o garantia de resultado.",
+  "price_too_cheap": 500,
+  "price_cheap": 1500,
+  "price_expensive": 4000,
+  "price_too_expensive": 8000
+}

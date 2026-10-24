@@ -1,0 +1,13 @@
+{
+  "id": "P095",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "My whole job is chasing measurable ROI and I pay only after I see cases and numbers, and this offer gives me none, just one operator's say-so. The pain is real but my gut says three weeks of pitch work won't move an enterprise deal that takes months to close.",
+  "objection": "There is zero proof it works, no before/after conversion numbers, no named founders who went from stuck-in-demo to second meetings, so I can't justify 9,500 euros on faith.",
+  "would_change_my_mind": "Concrete case studies from comparable AI/logistics founders showing demo-to-second-meeting rates before and after, ideally with a partial outcome-based fee.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 18000
+}

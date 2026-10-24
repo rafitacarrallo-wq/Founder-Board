@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy tecnico, me monto mi propia demo y ya lo hago yo; si algo falla en el pitch prefiero contratar a alguien interno o pasarselo a mi comercial antes que meter a un externo tres semanas.",
+  "objection": "Que pague 4.900 euros por algo que creo que puedo arreglar yo mismo o resolver dentro del equipo, y que un operador suelto no conozca mi producto ni mi buyer real.",
+  "would_change_my_mind": "Un caso antes/despues con numeros de un fundador de IA o supply chain parecido a mi, que demuestre que mueve el advance-rate mas de lo que yo lograria por mi cuenta.",
+  "price_too_cheap": 900,
+  "price_cheap": 2500,
+  "price_expensive": 5000,
+  "price_too_expensive": 9500
+}

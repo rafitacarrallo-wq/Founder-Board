@@ -1,0 +1,13 @@
+{
+  "id": "P048",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Es exactamente mi agujero: pierdo al comprador enterprise en la demo porque me voy demasiado al algoritmo. Precio fijo, 3 semanas, sin retainer ni equity, y con el board encima necesito algo rapido ya.",
+  "objection": "Que un operador en 3 semanas solo me arregle el pitch cuando quiza mis tres pilots se congelaron por algo mas de fondo; un fractional sales leader me cubriria todo el funnel, no solo la demo.",
+  "would_change_my_mind": "Que me demostraran que el problema de mis pilots congelados no es de narrativa de demo sino de producto o de proceso, ahi no pagaria.",
+  "price_too_cheap": 3000,
+  "price_cheap": 6000,
+  "price_expensive": 13000,
+  "price_too_expensive": 20000
+}

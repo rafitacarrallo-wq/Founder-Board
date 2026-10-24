@@ -1,0 +1,13 @@
+{
+  "id": "P077",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "The problem is real, my demos keep dying before the second meeting, but I'm a do-it-myself guy. Before I hand €9,500 to one freelancer I'll read the sales books, rewrite the narrative myself and test it in next week's demos.",
+  "objection": "€9,500 fixed for one operator and three weeks is a lot of cash for a startup that's barely funded, and I have no proof his rebuilt pitch actually closes deals in my market.",
+  "would_change_my_mind": "Concrete before/after proof from founders like me, AI or supply chain selling to enterprise, with demo-to-second-meeting conversion numbers, plus a smaller paid audit first so I'm not betting €9,500 blind.",
+  "price_too_cheap": 500,
+  "price_cheap": 2500,
+  "price_expensive": 6000,
+  "price_too_expensive": 9500
+}

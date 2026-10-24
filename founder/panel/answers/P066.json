@@ -1,0 +1,13 @@
+{
+  "id": "P066",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El problema es real, mis demos se atascan justo donde dice, pero un operador externo no conoce mi producto ni mi mercado de IA/supply chain, y ya me he quemado con agencias y coaches. Nueve mil quinientos euros por tres semanas de alguien sin casos que yo pueda verificar es un no.",
+  "objection": "¿Cómo va a reconstruir mi narrativa de valor en 3 semanas si no entiende mi producto ni a mi comprador enterprise mejor que yo? Suena a plantilla genérica de consultor.",
+  "would_change_my_mind": "Casos concretos y verificables de founders como yo en IA o supply chain donde su sprint subió de verdad la conversión demo-a-segunda-reunión, idealmente con una referencia con la que pueda hablar.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 9500,
+  "price_too_expensive": 14000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P096",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mi primer instinto es que yo mismo puedo rehacer la demo: leo, miro blogs y lo pruebo por mi cuenta antes de pagarle a nadie. Pagar 9.500 por un guion de pitch cuando puedo iterarlo yo no me entra.",
+  "objection": "Es un entregable que puedo armar solo con mi equipo; que lo haga un operador externo no me garantiza que cierre los pilots que se me congelaron.",
+  "would_change_my_mind": "Que me enseñara, con casos reales de founders como yo, un salto medible en conversion demo-a-deal, y que el fee fuera parcialmente ligado a resultado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4500,
+  "price_expensive": 8000,
+  "price_too_expensive": 12000
+}

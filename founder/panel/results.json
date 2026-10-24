@@ -1,0 +1,256 @@
+{
+ "business": "Demo-to-Deal (consultoria de rediseno de demo y pitch GTM para startups tech)",
+ "seed": 20,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 8,
+ "passes": 92,
+ "buy_rate": 0.08,
+ "by_segment": [
+  [
+   "Fundador tecnico CEO (seed)",
+   35,
+   0.11428571428571428
+  ],
+  [
+   "Fundador/CEO (Serie A)",
+   30,
+   0.06666666666666667
+  ],
+  [
+   "Cofundador no-tecnico / COO",
+   15,
+   0.06666666666666667
+  ],
+  [
+   "Head of Sales / GTM lead (Serie A)",
+   20,
+   0.05
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Presionado por el board",
+   12,
+   0.6666666666666666
+  ],
+  [
+   "Pragmatico de ROI",
+   22,
+   0.0
+  ],
+  [
+   "Esceptico de consultores",
+   20,
+   0.0
+  ],
+  [
+   "Busca referencias",
+   18,
+   0.0
+  ],
+  [
+   "Hazlo-tu-mismo",
+   15,
+   0.0
+  ],
+  [
+   "Frugal / sin caja",
+   8,
+   0.0
+  ],
+  [
+   "Delega en el equipo",
+   5,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "under $110,000",
+   30,
+   0.1
+  ],
+  [
+   "$110,000 to $163,000",
+   36,
+   0.08333333333333333
+  ],
+  [
+   "$163,000 and up",
+   34,
+   0.058823529411764705
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   57,
+   [
+    "El dolor es exactamente el mio, perdemos deals en la demo, pero no me ensenan ni un caso ni un numero que demuestre que esto convierte. Pago 9.500 EUR cuando vea retorno medible, no antes.",
+    "Me he quemado con agencias y coaches antes, y esto es un operador suelto cobrando 9.500 por tres semanas sin nada que me ate su resultado. Soy tecnico, el problema de la demo lo veo y creo que puedo reescribir el pitch yo mismo o con un fractional que me cubra GTM entero."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "habit",
+   21,
+   [
+    "No compro nada en frio; esto me llega como un anuncio de un operador que no conozco y sin que ningun founder o mi VC me lo haya recomendado. Ademas soy tecnica, mi demo la puedo rehacer yo, ya lo hago.",
+    "Mi primer reflejo es arreglar la demo yo misma: leo, miro lo que hacen otros y pruebo antes de pagar a nadie. El dolor es real porque se me cayeron tres pilots, pero 9.500 euros a un operador externo de entrada es justo lo que yo nunca hago."
+   ],
+   [
+    "P003",
+    "P008"
+   ]
+  ],
+  [
+   "price",
+   13,
+   [
+    "Casi no tengo runway y 9.500 euros es una barbaridad para algo que, siendo tecnica, creo que puedo arreglar yo misma. Antes de pagar eso, me siento un fin de semana y reescribo mi propia demo.",
+    "No tengo runway para soltar 9.500 euros fijos por un sprint de 3 semanas cuando mi ciclo enterprise tarda meses en cerrar. Arreglar el pitch no me arregla el pipeline a tiempo."
+   ],
+   [
+    "P019",
+    "P025"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "Soy tecnica, mi demo la arreglo yo, ya lo hago. Pagar 9.500 por que alguien me reescriba el pitch no me entra, y menos llegando en frio por LinkedIn."
+   ],
+   [
+    "P011"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   5,
+   [
+    "Esto es exactamente donde me atasco: la demo se va demasiado al producto y pierdo al comprador enterprise. Con el board encima y demos esta semana que no avanzan, un sprint de 3 semanas a precio cerrado es mas rapido y barato que montar un fractional.",
+    "Es exactamente mi agujero: pierdo al comprador enterprise en la demo porque me voy demasiado al algoritmo. Precio fijo, 3 semanas, sin retainer ni equity, y con el board encima necesito algo rapido ya."
+   ],
+   [
+    "P012",
+    "P048"
+   ]
+  ],
+  [
+   "timing",
+   3,
+   [
+    "El board me aprieta con la conversion enterprise YA y esto ataca justo donde se me cae todo: la demo. Tres semanas, precio cerrado, sin equity ni retainer mensual, es el tipo de solucion rapida que necesito ahora mismo.",
+    "El board me esta empujando a arreglar la conversion enterprise ya, y esto ataca exactamente mi problema: demos demasiado tecnicas que no avanzan. Tres semanas y precio cerrado, sin equity ni retainer, es justo el tipo de solucion rapida que necesito esta semana."
+   ],
+   [
+    "P005",
+    "P037"
+   ]
+  ]
+ ],
+ "flip": [
+  "Dos o tres casos de founders comparables con cifras reales de mejora en conversion demo-a-deal, y parte del fee atado a resultados.",
+  "Casos concretos de founders como yo (seed/Serie A, enterprise, IA/logistica) con antes-y-despues de conversion, y algun componente de riesgo compartido o garantia ligada a resultados.",
+  "Que un founder de mi circulo o mi VC me lo recomiende con numeros reales: 'teniamos este mismo problema en la demo y despues de esto cerramos X deals mas'.",
+  "Dos o tres casos concretos de startups como la mia con el antes/despues de conversion, o parte del fee ligado a resultado.",
+  "Dos o tres casos de founders enterprise en IA/logistica con numeros antes/despues de conversion en demo, idealmente con algun componente de pago ligado a resultado.",
+  "Casos concretos de founders de IA/logistica/supply chain como yo donde rehacer la demo descongelo o cerro deals enterprise, con numeros, y algun componente de riesgo compartido (pago ligado a resultado).",
+  "Casos reales de founders como yo en IA o supply chain donde su narrativa de 7 minutos subio la conversion post-demo, o que cobre solo si mueve el pipeline.",
+  "Que un founder que respeto o mi VC me diga que hizo este sprint y le subio la conversion en la demo de forma clara.",
+  "Tie the fee to outcomes or show me named case studies of comparable seed/Series A ops-tech founders whose enterprise conversion measurably improved after the sprint.",
+  "Que otro founder de mi circulo o mi VC me lo recomendara diciendo que les subio la conversion en demos enterprise reales.",
+  "Un caso concreto de un fundador como yo (seed, IA o supply chain, vendiendo a enterprise) que tras el sprint consiguio segundas reuniones, y mejor si parte del pago va ligado a resultados.",
+  "Datos duros de que founders como yo subieron la conversion post-demo tras el sprint, con casos enterprise concretos y no solo la promesa del narrativa de ROI.",
+  "Casos reales con numeros antes/despues de conversion de fundadores comparables, o un componente de precio ligado a resultados que reparta el riesgo.",
+  "Otro founder o mi VC que lo haya usado me dice que le subio la conversion en demos, con un caso concreto.",
+  "Que un founder de mi circulo o mi VC me diga que lo uso y le subio la conversion despues de la demo.",
+  "Casos reales con conversion demo-a-deal antes y despues, y que parte del fee este atado al resultado para que el riesgo de atribucion no sea solo mio.",
+  "Que cobraran a resultado (success fee sobre un deal enterprise cerrado) o una version mucho mas barata para probar, con casos reales de founders como yo que cerraron tras el sprint.",
+  "Que un founder o un VC de confianza me diga que lo contrato y que despues de la demo empezo a pasar a segunda reunion con enterprise.",
+  "Hard proof he's done this for founders like me: named case studies with before/after demo-to-close conversion numbers, ideally with some of the fee tied to an outcome.",
+  "Que me lo recomiende otro founder o mi VC que lo haya hecho y me ensene antes/despues real: deals que estaban atascados en la demo y se cerraron tras el sprint.",
+  "Que me ensenara casos reales de founders tecnicos como yo en IA/supply chain que pasaron de atascarse en demo a cerrar enterprise gracias a este sprint, con numeros de conversion.",
+  "Casos concretos de founders como yo (AI/logística/supply chain) con antes-y-después de la tasa demo→cierre, o un fee ligado a resultados en vez de €9.500 fijos por adelantado.",
+  "Precio mucho mas bajo o a exito (ligado a una demo cerrada), con casos reales de founders como yo que pasaron de demo atascada a deal firmado.",
+  "Que cobre a exito o un piloto barato ligado a resultados (por ejemplo, un primer deal cerrado o una demo auditada gratis), con casos reales de founders como yo que cerraron enterprise tras el sprint.",
+  "Casos concretos de startups parecidas con cifras de mejora en conversion post-demo, idealmente con parte del fee ligado a resultados.",
+  "Casos reales y verificables de founders tecnicos como yo en IA/logistica que pasaron de atascarse en la demo a cerrar enterprise tras el sprint, con nombres y numeros que pueda contrastar.",
+  "Dos o tres casos reales de founders de seed/Serie A con el antes y despues de conversion, y algo de pago ligado a resultado.",
+  "Casos concretos de founders en IA o supply chain que pasaron de atascarse en la demo a cerrar enterprise con su metodo, con numeros, no referencias vagas.",
+  "Que fuera a exito: una parte pequena fija y el resto solo si cierro deals enterprise en 60-90 dias, o una prueba gratis del friction audit para ver si de verdad detecta donde pierdo a los buyers.",
+  "Un modelo con parte del fee ligado a resultado o a hitos, más dos o tres casos verificables de founders enterprise cuya conversión en demo subió de verdad tras el sprint.",
+  "Que un founder de mi circulo o mi VC me lo recomendara directamente diciendo 'a mi me cerro deals'.",
+  "Que un founder que respeto o uno de mis inversores me lo recomendara directamente diciendo que le subio la conversion en enterprise.",
+  "Que un founder que respeto o mi VC me lo recomiende con numeros concretos de antes y despues de su conversion en demo.",
+  "Que un founder o VC al que respeto me dijera que con el cerro una segunda reunion enterprise que antes se le atascaba en la demo.",
+  "Dos o tres casos concretos de founders de IA/logistica cuya conversion enterprise subio tras el sprint, con numeros, o que parte del fee dependa del resultado.",
+  "Que un founder de mi red o mi VC me dijera que contrato esto y que tras el sprint cerro un enterprise que tenia atascado en la demo.",
+  "Que otro founder de mi red o mi VC me dijera que con el cerraron un deal enterprise que tenian atascado en la demo.",
+  "Casos concretos de founders de IA/logistica como yo donde ese sprint convirtio demos atascadas en segundas reuniones y deals cerrados, con numeros.",
+  "Que un founder de mi circulo o mi VC me dijera que trabajo con el y le cerro deals enterprise concretos.",
+  "Que el precio estuviera ligado a resultados, o pruebas claras (casos concretos de founders como yo que cerraron deals enterprise tras el sprint).",
+  "Un caso real de un fundador de logística o supply chain en seed/Serie A con números antes/después de conversión en demo, y algún tipo de garantía ligada al resultado.",
+  "Casos reales de founders como yo con numeros de conversion antes/despues, y un precio mucho mas bajo o ligado a resultados; quiza empezar solo por la auditoria de friccion.",
+  "Dos o tres casos concretos de startups como la mia con el antes/despues de conversion en demo, y que me dejen hablar con esos founders.",
+  "Dos o tres casos de founders como yo con numeros concretos de mejora en conversion tras el sprint, y a ser posible una referencia con la que pueda hablar.",
+  "Casos reales de fundadores como yo en IA/logística que cerraron enterprise después del sprint, o parte del fee ligado a resultado.",
+  "Que cobrara mayormente a exito o ligado a resultados de demo, o casos concretos verificables de founders como yo que cerraron enterprise tras el sprint.",
+  "Casos reales con antes/despues de tasa de cierre en demos enterprise, o parte del fee atado a resultado.",
+  "Que fuera pago por resultado o mucho mas barato, o una prueba gratis que me demuestre que mi demo mejora antes de soltar el dinero.",
+  "Dos o tres casos concretos de founders comparables con el delta de conversion antes/despues y alguna garantia ligada a resultado.",
+  "Casos concretos y verificables de founders enterprise en IA/logistica cuya conversion en demo subio tras el sprint, con nombres con los que pueda hablar.",
+  "Concrete proof - two or three seed/Series A enterprise founders in logistics or supply chain who closed deals after this, ideally with some of the fee tied to results.",
+  "Pruebas concretas (casos de founders como yo, con numeros de conversion antes/despues) de que fue el pitch y no el mercado lo que movio los cierres, y un precio o formato de riesgo compartido.",
+  "Que un founder de mi circulo o mi VC me diga que cerro deals enterprise gracias a esto, con numeros reales de antes y despues.",
+  "Casos reales de startups seed/Serie A en IA o supply chain donde su sprint subio la conversion post-demo, o algun compromiso de resultado / pago ligado a avance.",
+  "Que el pago fuera por resultados o ligado a cerrar uno de los pilots congelados, no un fee fijo por adelantado.",
+  "Dos o tres casos concretos de founders como yo con el antes/despues de conversion demo-a-deal y una referencia a la que pueda llamar.",
+  "Casos concretos con founders nombrables y metricas de conversion demo-a-deal antes/despues, o una parte del fee ligada a resultado.",
+  "A result-based deal or clear proof it worked, concrete case studies with named seed/Series A startups and the conversion numbers before and after.",
+  "Que me lo deje a exito: una parte pequena fija y el resto solo si sube la conversion de demo a siguiente fase, con un caso real de un founder como yo que haya cerrado enterprise despues.",
+  "Casos concretos y verificables de founders como yo en IA o supply chain donde su sprint subió de verdad la conversión demo-a-segunda-reunión, idealmente con una referencia con la que pueda hablar.",
+  "Casos reales de startups parecidas a la mia con numeros de conversion antes/despues, o un audit pequeno de pago bajo primero para ver si de verdad aporta antes de soltar los 9.500.",
+  "Que me ensene casos concretos de founders de mi mismo perfil (IA/logistica, enterprise) cuya conversion demo-a-deal mejoro, con numeros, y algun componente ligado a resultado o un piloto mas barato.",
+  "Casos concretos con tasa de cierre antes/despues de clientes parecidos a mi, o un fee ligado a resultados en vez de pago fijo por adelantado.",
+  "Que otro founder de mi red o mi VC me lo recomiende con un caso concreto de un deal enterprise que cerraron despues del sprint.",
+  "Que fuera a exito: pago solo si cierro un deal enterprise despues del sprint, o un precio muy por debajo con prueba de ROI real.",
+  "Casos reales de founders como yo con antes/después medibles en conversión de demo, idealmente con alguna garantía ligada a resultado y no solo al entregable.",
+  "Que otro founder de mi red o mi VC me dijera que con esto cerro deals enterprise concretos, idealmente con una prueba o pago ligado a resultados.",
+  "Dos o tres casos reales de founders como yo con numeros de conversion demo-a-segunda-reunion antes y despues, idealmente con una garantia atada al resultado.",
+  "Casos concretos y verificables de fundadores como yo en IA o supply chain cuya conversion en la demo subio de verdad tras el sprint, con nombres con los que pueda hablar.",
+  "Casos concretos de startups parecidas a la mia con antes/despues de conversion en demo, y algun compromiso de resultado o fee ligado a reuniones avanzadas.",
+  "Concrete before/after proof from founders like me, AI or supply chain selling to enterprise, with demo-to-second-meeting conversion numbers, plus a smaller paid audit first so I'm not betting €9,500 blind.",
+  "Casos concretos con numeros (demo-to-deal antes/despues) y algo de riesgo compartido, tipo parte del fee ligada a resultado o devolucion si no mejora la conversion.",
+  "Que el precio fuera en parte variable o ligado a cerrar un deal enterprise concreto, de forma que el riesgo no sea todo mio.",
+  "Casos concretos de founders de IA/logistica en seed o Serie A cuya conversion en demo subio de forma medible tras el sprint, con nombres y numeros que pueda verificar.",
+  "Datos reales de antes/despues de fundadores comparables en IA/logistica (tasa de demo-a-deal) y algun tipo de garantia atada a resultados, no solo a entregables.",
+  "Que me lo cobrara a exito, ligado a demos ganadas, o una prueba gratis del friction audit con casos reales de founders como yo que cerraron enterprise despues.",
+  "Casos reales de founders como yo en IA/supply chain que pasaron de pilots congelados a deals cerrados tras el sprint, o un modelo con parte del pago ligada a resultados.",
+  "Casos concretos con metricas (p. ej. X founders que pasaron de demo a segunda reunion), y un precio por hitos o garantia de resultado.",
+  "Casos concretos con antes/despues (tasa de paso a segunda reunion) de fundadores como yo, y que ate parte del precio al resultado en vez de fee fijo por adelantado.",
+  "Que fuera ligado a resultados (pago pequeno por adelantado y el resto solo si cierro un deal enterprise tras el sprint) o una version mucho mas barata.",
+  "Dos o tres casos verificables de founders en logistica/supply chain que tras el sprint cerraron demos enterprise que antes perdian, con contactos a los que pueda llamar.",
+  "Dos o tres casos reales con numeros antes/despues (conversion demo-a-siguiente-paso) o cobro ligado a resultado.",
+  "Casos concretos de founders como yo que cerraron enterprise tras el sprint, o un modelo con parte ligada a resultados o pago fraccionado.",
+  "Casos concretos y verificables de founders como yo cuya conversion post-demo subio, idealmente con una garantia o pago ligado a resultado.",
+  "Que me ensene casos concretos de founders tecnicos como yo en IA o supply chain donde su narrativa de 7 minutos destrabo deals enterprise reales, con cifras de conversion antes y despues.",
+  "Casos concretos con antes/despues de conversion en demo de founders como yo, y alguna garantia o pago ligado a resultados.",
+  "Concrete case studies from comparable AI/logistics founders showing demo-to-second-meeting rates before and after, ideally with a partial outcome-based fee.",
+  "Que me enseñara, con casos reales de founders como yo, un salto medible en conversion demo-a-deal, y que el fee fuera parcialmente ligado a resultado.",
+  "Casos concretos con numeros (demos antes/despues, tasa de cierre que subio) y algun esquema ligado a resultados en vez de fee fijo por adelantado.",
+  "Casos concretos con numeros (conversion demo-a-deal antes y despues en startups como la mia) y algun tipo de pago ligado a resultado o garantia.",
+  "Que un founder de mi circulo o mi VC me lo presente y me cuente que cerro deals de enterprise gracias a este sprint.",
+  "Casos reales y verificables de founders como yo en IA/logistica/supply chain cuya conversion en la demo mejoro con el, con numeros y referencias que pueda llamar."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 100
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El dolor es real, odiamos vender y la demo se atasca, pero ya me quemé con consultores y coaches que prometen y no mueven la aguja. Un solo operador, sin pruebas ni casos, me suena a otro experto en storytelling que no puedo verificar.",
+  "objection": "Si cierro más después del sprint, ¿cómo sé que fue el pitch y no el producto, el mercado o el momento? No puedo atribuirle €9.500 a algo que no se puede medir.",
+  "would_change_my_mind": "Casos concretos de founders como yo (AI/logística/supply chain) con antes-y-después de la tasa demo→cierre, o un fee ligado a resultados en vez de €9.500 fijos por adelantado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4500,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}

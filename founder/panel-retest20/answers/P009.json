@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "El dolor es real, la demo se me atasca justo ahi, pero sin apenas caja no suelto 4.900 ni 2.900 EUR por un operador solo. Antes me peleo yo con la narrativa o pido a otro founder que me pase su playbook gratis.",
+  "objection": "El precio para una startup sin runway: aunque sea cohort fundador, 4.900 EUR es mucho dinero que ahora mismo no tengo, y la garantia cubre el advance-rate, no mi caja.",
+  "would_change_my_mind": "Un primer paso gratis o un modelo de pago solo por resultados (pagar cuando suba de verdad el advance-rate), no un fijo de miles de euros por adelantado.",
+  "price_too_cheap": 400,
+  "price_cheap": 1200,
+  "price_expensive": 2900,
+  "price_too_expensive": 4900
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Me llega en frio y de un operador que no conozco; yo solo compro lo que me recomienda otro founder o mi VC. Y aunque garanticen la tasa de avance, sigo sin poder atribuirle los cierres a esto y no al producto o al mercado.",
+  "objection": "Como se que el sprint causo mas avances y no fue mi mercado, mi timing o el propio producto? La garantia cubre una metrica intermedia, no lo que de verdad me importa.",
+  "would_change_my_mind": "Que un founder de mi circulo o un VC que respeto me lo recomiende con un antes/despues real y verificable de alguien parecido a mi.",
+  "price_too_cheap": 1200,
+  "price_cheap": 2900,
+  "price_expensive": 6000,
+  "price_too_expensive": 9500
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Esto me llega en frio y yo no compro asi: compro lo que me recomienda otro founder o mi VC. Sin una referencia que confie, no meto 4.900 euros en un operador que no conozco.",
+  "objection": "La garantia solo cubre el advance-rate, no el cierre, y sigue sin haber garantia de resultado real; ademas no se quien es ni quien lo ha usado.",
+  "would_change_my_mind": "Que un founder de mi circulo o mi VC me dijera que lo hizo y le subio de verdad la tasa de segunda reunion.",
+  "price_too_cheap": 900,
+  "price_cheap": 2500,
+  "price_expensive": 5000,
+  "price_too_expensive": 9500
+}

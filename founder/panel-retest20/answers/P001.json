@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy de las que primero lee, mira y lo intenta por su cuenta antes de pagar a nadie, y ahora mismo con la caja justa de la seed me cuesta soltar 4.900 EUR a un unico operador que no conozco. El problema es real, pero mi primer paso seria rehacer la demo yo misma.",
+  "objection": "Es una sola persona con un background que suena bien pero sin numeros ni casos concretos que demuestren que mueve la aguja; 4.900 EUR es mucho para apostar a ciegas con mi caja.",
+  "would_change_my_mind": "Un before/after documentado con cifras reales de fundadores parecidos a mi (AI/logistica, seed/Serie A) que subieron su tasa de avance a segunda reunion; eso me empujaria al menos al audit de 2.900.",
+  "price_too_cheap": 500,
+  "price_cheap": 1500,
+  "price_expensive": 3000,
+  "price_too_expensive": 5000
+}

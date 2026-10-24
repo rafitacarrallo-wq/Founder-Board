@@ -1,0 +1,13 @@
+{
+  "id": "P043",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy de leerme el libro y probarlo yo primero, y si voy a soltar 9.500 euros prefiero un fractional sales leader que me cubra todo el embudo, no solo arreglar la demo tres semanas. El dolor es real, pero este alcance es demasiado estrecho para lo que me cuesta.",
+  "objection": "Por 9.500 euros me arreglas un pitch de 7 minutos, pero quien me sostiene el ciclo enterprise entero despues? Siento que estoy pagando mucho por una pieza que podria montar yo con un par de buenos libros y llamadas.",
+  "would_change_my_mind": "Que el precio estuviera ligado a resultados, o pruebas claras (casos concretos de founders como yo que cerraron deals enterprise tras el sprint).",
+  "price_too_cheap": 2000,
+  "price_cheap": 4500,
+  "price_expensive": 9500,
+  "price_too_expensive": 14000
+}

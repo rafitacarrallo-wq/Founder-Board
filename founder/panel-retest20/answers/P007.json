@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El problema es real y justo ahora mi VC me aprieta con la traccion enterprise, pero yo no compro a frio: necesito que otro founder o mi inversor me diga que esto funciona. Un operador solo que no conozco, por mucho que encaje con mi caso, no me da la confianza para soltar casi 5.000 EUR con la caja que tengo.",
+  "objection": "Es una sola persona que no me ha recomendado nadie; no se si de verdad entiende mi categoria o si es solo buen marketing, y la garantia cubre la 'advance rate', no que yo cierre deals.",
+  "would_change_my_mind": "Que otro founder de mi red o mi VC me lo recomiende con un antes/despues concreto de una startup parecida a la mia.",
+  "price_too_cheap": 1000,
+  "price_cheap": 2900,
+  "price_expensive": 4900,
+  "price_too_expensive": 9500
+}

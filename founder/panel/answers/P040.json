@@ -1,0 +1,13 @@
+{
+  "id": "P040",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No compro a frio, y esto me llega como un anuncio mas. 9.500 EUR es mucho para una startup sin apenas caja, y no tengo ninguna referencia de que este operador haya movido deals como los mios.",
+  "objection": "Un solo operador, sin pruebas ni un founder que me lo recomiende. No se si de verdad sabe vender mi producto a enterprise o solo tiene buena labia.",
+  "would_change_my_mind": "Que otro founder de mi red o mi VC me dijera que con el cerraron un deal enterprise que tenian atascado en la demo.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 8000,
+  "price_too_expensive": 12000
+}

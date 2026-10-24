@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It hits my exact pain and the guarantee being on a metric they control is smart, but I've been burned by coaches and agencies before and I default to thinking I can fix the pitch myself. I still can't separate 'the sprint worked' from 'we got lucky with the product or the buyer'.",
+  "objection": "How do I know a better advance rate came from this sprint and not from a better month, a warmer pipeline, or our product maturing? Small sample, no control, easy to fool yourself.",
+  "would_change_my_mind": "Documented before/after from 2-3 founders in AI/logistics/supply chain I can actually call, showing the advance-rate lift held across enough demos that it isn't noise.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2900,
+  "price_expensive": 4900,
+  "price_too_expensive": 8000
+}

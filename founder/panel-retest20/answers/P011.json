@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya probe coaches de pitch y no movieron nada, asi que oigo 'demo-to-deal' y mi primer instinto es cerrarlo. Soy de hacerlo yo: leo, miro y lo reconstruyo por mi cuenta antes de soltar casi 5.000 euros a un operador que no conozco.",
+  "objection": "La garantia es sobre el advance-rate, una metrica que ellos mismos controlan y es facil de maquillar; no me asegura nada real y el baseline lo pongo yo sin que haya forma limpia de medirlo.",
+  "would_change_my_mind": "Hablar con uno o dos founders de IA/logistica de mi etapa que lo hayan hecho y me ensenen numeros concretos de antes/despues de su advance-rate.",
+  "price_too_cheap": 800,
+  "price_cheap": 1900,
+  "price_expensive": 4500,
+  "price_too_expensive": 7000
+}

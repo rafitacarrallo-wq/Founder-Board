@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Tengo cero runway y regateo todo; soltar 2.900-4.900 euros a un consultor externo que no conoce mi producto ni mi mercado me da pánico. La garantía es 're-hacer gratis', no me devuelve la caja, asi que el riesgo real sigue siendo mio.",
+  "objection": "Un operador externo, por mucho background industrial que tenga, no conoce mi producto ni a mis compradores concretos; el guion que me monte puede sonar genérico en la demo real.",
+  "would_change_my_mind": "Que primero me haga el teardown de friction gratis y me enseñe un antes/después real de una startup como la mia en mi mismo espacio; si eso me convence, pago el audit de 1 semana.",
+  "price_too_cheap": 500,
+  "price_cheap": 1500,
+  "price_expensive": 2900,
+  "price_too_expensive": 4900
+}

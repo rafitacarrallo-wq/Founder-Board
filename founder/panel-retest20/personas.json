@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Elena",
+  "age": 32,
+  "segment": "Fundador/CEO (Serie A)",
+  "income": 174000,
+  "behaviour": "Hazlo-tu-mismo",
+  "behaviour_how": "Lee el libro, mira el blog y prueba por su cuenta antes de pagar a nadie.",
+  "objection": "9.500 EUR es mucho para una startup sin apenas caja.",
+  "habit": "acabas de levantar una ronda seed y tu VC te pregunta por la traccion enterprise"
+ },
+ {
+  "id": "P002",
+  "name": "Owen",
+  "age": 36,
+  "segment": "Fundador/CEO (Serie A)",
+  "income": 125000,
+  "behaviour": "Busca referencias",
+  "behaviour_how": "Compra lo que le recomienda otro founder o su VC; no responde a frio.",
+  "objection": "Ya he probado coaches de pitch y no sirvio de nada.",
+  "habit": "tu cofundador tecnico odia vender y tu tampoco lo disfrutas"
+ },
+ {
+  "id": "P003",
+  "name": "Callum",
+  "age": 51,
+  "segment": "Head of Sales / GTM lead (Serie A)",
+  "income": 217000,
+  "behaviour": "Esceptico de consultores",
+  "behaviour_how": "Ha tenido malas experiencias con agencias y coaches; cree que puede hacerlo el mismo.",
+  "objection": "Ya he probado coaches de pitch y no sirvio de nada.",
+  "habit": "ves como un competidor peor tecnicamente cierra mas deals que tu"
+ },
+ {
+  "id": "P004",
+  "name": "Nico",
+  "age": 31,
+  "segment": "Head of Sales / GTM lead (Serie A)",
+  "income": 136000,
+  "behaviour": "Esceptico de consultores",
+  "behaviour_how": "Ha tenido malas experiencias con agencias y coaches; cree que puede hacerlo el mismo.",
+  "objection": "No hay garantia de resultado.",
+  "habit": "tienes varias demos enterprise esta semana y ninguna avanza a segunda reunion"
+ },
+ {
+  "id": "P005",
+  "name": "Hana",
+  "age": 28,
+  "segment": "Cofundador no-tecnico / COO",
+  "income": 156000,
+  "behaviour": "Presionado por el board",
+  "behaviour_how": "Su inversor le empuja a mejorar la conversion enterprise ya; busca una solucion rapida.",
+  "objection": "9.500 EUR es mucho para una startup sin apenas caja.",
+  "habit": "pasas de LinkedIn mientras otro founder recomienda a un consultor de ventas"
+ },
+ {
+  "id": "P006",
+  "name": "Sam",
+  "age": 47,
+  "segment": "Cofundador no-tecnico / COO",
+  "income": 177000,
+  "behaviour": "Esceptico de consultores",
+  "behaviour_how": "Ha tenido malas experiencias con agencias y coaches; cree que puede hacerlo el mismo.",
+  "objection": "Como se que esto causo mas cierres y no fue el producto o el mercado?",
+  "habit": "tienes varias demos enterprise esta semana y ninguna avanza a segunda reunion"
+ },
+ {
+  "id": "P007",
+  "name": "Yusuf",
+  "age": 36,
+  "segment": "Cofundador no-tecnico / COO",
+  "income": 124000,
+  "behaviour": "Busca referencias",
+  "behaviour_how": "Compra lo que le recomienda otro founder o su VC; no responde a frio.",
+  "objection": "9.500 EUR es mucho para una startup sin apenas caja.",
+  "habit": "acabas de levantar una ronda seed y tu VC te pregunta por la traccion enterprise"
+ },
+ {
+  "id": "P008",
+  "name": "Poppy",
+  "age": 29,
+  "segment": "Fundador/CEO (Serie A)",
+  "income": 137000,
+  "behaviour": "Frugal / sin caja",
+  "behaviour_how": "Startup sin apenas runway; regatea todo y busca la opcion gratis o barata.",
+  "objection": "Un consultor externo no conoce mi producto ni mi mercado.",
+  "habit": "pasas de LinkedIn mientras otro founder recomienda a un consultor de ventas"
+ },
+ {
+  "id": "P009",
+  "name": "Diego",
+  "age": 40,
+  "segment": "Head of Sales / GTM lead (Serie A)",
+  "income": 192000,
+  "behaviour": "Frugal / sin caja",
+  "behaviour_how": "Startup sin apenas runway; regatea todo y busca la opcion gratis o barata.",
+  "objection": "9.500 EUR es mucho para una startup sin apenas caja.",
+  "habit": "pasas de LinkedIn mientras otro founder recomienda a un consultor de ventas"
+ },
+ {
+  "id": "P010",
+  "name": "Marco",
+  "age": 39,
+  "segment": "Fundador tecnico CEO (seed)",
+  "income": 107000,
+  "behaviour": "Pragmatico de ROI",
+  "behaviour_how": "Solo compra si ve retorno claro y medible; pide casos y numeros antes de pagar.",
+  "objection": "No hay garantia de resultado.",
+  "habit": "acabas de levantar una ronda seed y tu VC te pregunta por la traccion enterprise"
+ },
+ {
+  "id": "P011",
+  "name": "Beatriz",
+  "age": 48,
+  "segment": "Fundador/CEO (Serie A)",
+  "income": 131000,
+  "behaviour": "Hazlo-tu-mismo",
+  "behaviour_how": "Lee el libro, mira el blog y prueba por su cuenta antes de pagar a nadie.",
+  "objection": "Ya he probado coaches de pitch y no sirvio de nada.",
+  "habit": "pasas de LinkedIn mientras otro founder recomienda a un consultor de ventas"
+ },
+ {
+  "id": "P012",
+  "name": "Yara",
+  "age": 40,
+  "segment": "Fundador tecnico CEO (seed)",
+  "income": 84000,
+  "behaviour": "Busca referencias",
+  "behaviour_how": "Compra lo que le recomienda otro founder o su VC; no responde a frio.",
+  "objection": "Como se que esto causo mas cierres y no fue el producto o el mercado?",
+  "habit": "ves como un competidor peor tecnicamente cierra mas deals que tu"
+ },
+ {
+  "id": "P013",
+  "name": "Darius",
+  "age": 30,
+  "segment": "Head of Sales / GTM lead (Serie A)",
+  "income": 182000,
+  "behaviour": "Pragmatico de ROI",
+  "behaviour_how": "Solo compra si ve retorno claro y medible; pide casos y numeros antes de pagar.",
+  "objection": "No hay garantia de resultado.",
+  "habit": "tu cofundador tecnico odia vender y tu tampoco lo disfrutas"
+ },
+ {
+  "id": "P014",
+  "name": "Raj",
+  "age": 35,
+  "segment": "Fundador tecnico CEO (seed)",
+  "income": 106000,
+  "behaviour": "Pragmatico de ROI",
+  "behaviour_how": "Solo compra si ve retorno claro y medible; pide casos y numeros antes de pagar.",
+  "objection": "Por que no contrato un fractional sales leader que me cubre todo?",
+  "habit": "ves como un competidor peor tecnicamente cierra mas deals que tu"
+ },
+ {
+  "id": "P015",
+  "name": "Tess",
+  "age": 38,
+  "segment": "Fundador tecnico CEO (seed)",
+  "income": 83000,
+  "behaviour": "Esceptico de consultores",
+  "behaviour_how": "Ha tenido malas experiencias con agencias y coaches; cree que puede hacerlo el mismo.",
+  "objection": "Como se que esto causo mas cierres y no fue el producto o el mercado?",
+  "habit": "tu cofundador tecnico odia vender y tu tampoco lo disfrutas"
+ },
+ {
+  "id": "P016",
+  "name": "Kira",
+  "age": 32,
+  "segment": "Fundador tecnico CEO (seed)",
+  "income": 119000,
+  "behaviour": "Presionado por el board",
+  "behaviour_how": "Su inversor le empuja a mejorar la conversion enterprise ya; busca una solucion rapida.",
+  "objection": "3 semanas no cambian mi pipeline, el deal enterprise tarda meses.",
+  "habit": "acabas de levantar una ronda seed y tu VC te pregunta por la traccion enterprise"
+ },
+ {
+  "id": "P017",
+  "name": "Omar",
+  "age": 52,
+  "segment": "Fundador/CEO (Serie A)",
+  "income": 129000,
+  "behaviour": "Pragmatico de ROI",
+  "behaviour_how": "Solo compra si ve retorno claro y medible; pide casos y numeros antes de pagar.",
+  "objection": "Un consultor externo no conoce mi producto ni mi mercado.",
+  "habit": "pasas de LinkedIn mientras otro founder recomienda a un consultor de ventas"
+ },
+ {
+  "id": "P018",
+  "name": "Sana",
+  "age": 32,
+  "segment": "Fundador tecnico CEO (seed)",
+  "income": 78000,
+  "behaviour": "Hazlo-tu-mismo",
+  "behaviour_how": "Lee el libro, mira el blog y prueba por su cuenta antes de pagar a nadie.",
+  "objection": "Como se que esto causo mas cierres y no fue el producto o el mercado?",
+  "habit": "tienes varias demos enterprise esta semana y ninguna avanza a segunda reunion"
+ },
+ {
+  "id": "P019",
+  "name": "Daniel",
+  "age": 49,
+  "segment": "Fundador/CEO (Serie A)",
+  "income": 149000,
+  "behaviour": "Delega en el equipo",
+  "behaviour_how": "Prefiere contratar a alguien interno o pasarselo a su comercial antes que a un externo.",
+  "objection": "Soy tecnico, puedo arreglar mi propia demo, ya lo hago yo.",
+  "habit": "acabas de levantar una ronda seed y tu VC te pregunta por la traccion enterprise"
+ },
+ {
+  "id": "P020",
+  "name": "Harper",
+  "age": 35,
+  "segment": "Fundador tecnico CEO (seed)",
+  "income": 86000,
+  "behaviour": "Busca referencias",
+  "behaviour_how": "Compra lo que le recomienda otro founder o su VC; no responde a frio.",
+  "objection": "No hay garantia de resultado.",
+  "habit": "tienes varias demos enterprise esta semana y ninguna avanza a segunda reunion"
+ }
+]

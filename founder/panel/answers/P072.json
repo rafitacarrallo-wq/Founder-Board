@@ -1,0 +1,13 @@
+{
+  "id": "P072",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya me quemé con agencias y coaches, y creo que puedo reescribir mi propio pitch. Nadie me demuestra que el sprint, y no el producto o el mercado, sea lo que mueve los cierres.",
+  "objection": "¿Cómo sé que esto causó más cierres y no fue el producto o el mercado? No hay forma de atribuirlo, y 9.500€ es mucho por un guion que yo mismo podría armar.",
+  "would_change_my_mind": "Casos reales de founders como yo con antes/después medibles en conversión de demo, idealmente con alguna garantía ligada a resultado y no solo al entregable.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 8000,
+  "price_too_expensive": 12000
+}

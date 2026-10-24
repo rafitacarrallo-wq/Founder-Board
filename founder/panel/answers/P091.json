@@ -1,0 +1,13 @@
+{
+  "id": "P091",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "El problema es real y me aprieta el board, pero 9.500 EUR es mucho para una startup sin apenas caja, y es un operador solo sin casos que me demuestren que esto convierte de verdad.",
+  "objection": "Soltar casi 10k en efectivo que no me sobra por un sprint de 3 semanas de alguien que no me ha ensenado resultados previos.",
+  "would_change_my_mind": "Casos concretos de founders como yo que cerraron enterprise tras el sprint, o un modelo con parte ligada a resultados o pago fraccionado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4500,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}

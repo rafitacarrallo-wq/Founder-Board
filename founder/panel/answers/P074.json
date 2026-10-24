@@ -1,0 +1,13 @@
+{
+  "id": "P074",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El problema es exactamente el mio y el precio no me asusta, pero no veo un solo caso ni un numero de conversion antes/despues. Un operador solo, sin prueba medible, no me da el ROI claro que necesito para firmar.",
+  "objection": "Es una sola persona vendiendome una promesa sin casos ni metricas; por 9.500 euros prefiero un fractional sales leader que me cubra todo el ciclo, no solo los 7 minutos de la demo.",
+  "would_change_my_mind": "Dos o tres casos reales de founders como yo con numeros de conversion demo-a-segunda-reunion antes y despues, idealmente con una garantia atada al resultado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 18000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El dolor es exactamente el mio, se me atasca en la demo, pero no hay ni un caso, ni un numero, ni una garantia de resultado. Pagar 9.500 euros a un solo operador a ciegas no es ROI, es fe.",
+  "objection": "No hay garantia de resultado ni prueba de que esto haya movido la conversion de alguien parecido a mi.",
+  "would_change_my_mind": "Dos o tres casos reales de founders de seed/Serie A con el antes y despues de conversion, y algo de pago ligado a resultado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}

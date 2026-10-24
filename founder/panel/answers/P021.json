@@ -1,0 +1,13 @@
+{
+  "id": "P021",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Selling is literally my job and I just raised, so I'd rather rebuild the demo narrative myself than pay €9,500 to an outsider who doesn't know my product or my enterprise buyers. An 'industrial ops background' doesn't convince me he's closed AI/logistics enterprise deals in my market.",
+  "objection": "A consultant who parachutes in for 3 weeks can't understand my product, my buyers or my sales motion well enough to out-pitch me on my own deals.",
+  "would_change_my_mind": "Hard proof he's done this for founders like me: named case studies with before/after demo-to-close conversion numbers, ideally with some of the fee tied to an outcome.",
+  "price_too_cheap": 2500,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

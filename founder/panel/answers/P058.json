@@ -1,0 +1,13 @@
+{
+  "id": "P058",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy de hacermelo yo misma: primero leo, miro un blog y pruebo a rehacer mi propia demo antes de soltar casi 10k a un operador. Con tres pilots congelados y 66k al ano, ese cheque fijo es demasiado para algo que puedo intentar sola.",
+  "objection": "Como se que un pitch nuevo causo mas cierres y no fue el producto o el mercado? Mis pilots se congelaron por razones que no se arreglan con un guion de 7 minutos.",
+  "would_change_my_mind": "Pruebas concretas (casos de founders como yo, con numeros de conversion antes/despues) de que fue el pitch y no el mercado lo que movio los cierres, y un precio o formato de riesgo compartido.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 6500,
+  "price_too_expensive": 9500
+}

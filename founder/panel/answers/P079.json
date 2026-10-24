@@ -1,0 +1,13 @@
+{
+  "id": "P079",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Me pega justo donde duele, pierdo a los enterprise en la demo, pero no veo ni un caso ni un numero: no hay garantia de que esos 9.500 euros se conviertan en pipeline. Con tres pilots recien congelados no suelto ese dinero contra una promesa.",
+  "objection": "No hay garantia de resultado ni pruebas de que a otro founder como yo esto le haya movido conversiones.",
+  "would_change_my_mind": "Casos concretos con numeros (demo-to-deal antes/despues) y algo de riesgo compartido, tipo parte del fee ligada a resultado o devolucion si no mejora la conversion.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}

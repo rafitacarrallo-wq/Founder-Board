@@ -1,0 +1,13 @@
+{
+  "id": "P055",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Mi board me aprieta por la conversion enterprise ya, y mi problema es exactamente ese: la demo se cae porque hablo de producto y algoritmo, no de ahorro y riesgo. Esto no es otro coach de pitch generico, es un operador con background de ops que habla el idioma del comprador, y una sola operacion enterprise que cierre me paga los 9.500 varias veces.",
+  "objection": "Ya me quemaron los coaches de pitch antes y no sirvio de nada; necesito creer que este de verdad entiende al comprador de operaciones y no es mas teatro.",
+  "would_change_my_mind": "Ver un caso real de un fundador seed/Serie A como yo que paso de demo atascada a deal cerrado tras el sprint, o una garantia de resultado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 13000,
+  "price_too_expensive": 20000
+}

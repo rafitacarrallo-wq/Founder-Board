@@ -1,0 +1,13 @@
+{
+  "id": "P057",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It hits my exact pain, I'll give you that, but it's one operator selling me a 3-week fix and I've been burned by consultants before. For 9.500 EUR I'd rather rebuild my own demo than hand it to someone I can't vouch for.",
+  "objection": "A single person, no named clients or numbers, asking 9.500 EUR up front with nothing tying their fee to whether my close rate actually moves.",
+  "would_change_my_mind": "Concrete proof - two or three seed/Series A enterprise founders in logistics or supply chain who closed deals after this, ideally with some of the fee tied to results.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 8000,
+  "price_too_expensive": 12000
+}

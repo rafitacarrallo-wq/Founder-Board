@@ -1,0 +1,13 @@
+{
+  "id": "P035",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Me llega en frio y yo no compro asi: compro lo que me recomienda otro founder o mi VC. No tengo forma de saber si esto de verdad cierra mas deals o si fue el producto y el mercado.",
+  "objection": "Como separo el efecto del pitch de todo lo demas? Un operador solo, sin casos ni referencias que yo reconozca, me pide 9.500 euros por un sprint de 3 semanas.",
+  "would_change_my_mind": "Que un founder que respeto o mi VC me lo recomiende con numeros concretos de antes y despues de su conversion en demo.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}

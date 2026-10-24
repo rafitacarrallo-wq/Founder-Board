@@ -1,0 +1,13 @@
+{
+  "id": "P049",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy de leerme el libro y arreglar la pitch yo misma antes de pagar 9.500 a nadie; mi instinto es que tres semanas no mueven un pipeline enterprise que tarda meses en cerrar.",
+  "objection": "No veo cómo un sprint de 3 semanas cambia una conversión que depende de ciclos enterprise largos; me da miedo pagar y no poder atribuirle ningún deal cerrado.",
+  "would_change_my_mind": "Casos reales de fundadores como yo en IA/logística que cerraron enterprise después del sprint, o parte del fee ligado a resultado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}

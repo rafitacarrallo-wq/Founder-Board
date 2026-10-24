@@ -1,0 +1,13 @@
+{
+  "id": "P056",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Tengo tres pilots congelados y al board encima pidiendo conversion enterprise ya; esto ataca exactamente mi problema, la demo que se va al algoritmo en vez del impacto de negocio, y en 3 semanas con precio cerrado. No me puedo permitir seguir perdiendo deals en la demo.",
+  "objection": "Es un solo operador sin casos ni resultados demostrados, y 9.500 EUR al contado es mucho con la caja que tengo; necesito creer que de verdad mueve la aguja antes de soltar ese dinero.",
+  "would_change_my_mind": "Casos concretos de founders como yo donde el pitch rehecho destrabo deals enterprise, o algun tipo de garantia / pago ligado a resultado.",
+  "price_too_cheap": 2500,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 18000
+}

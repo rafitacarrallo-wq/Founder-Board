@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "Mi board me aprieta por traccion enterprise ya y aqui me atasco justo en la demo, que es lo que esto ataca. Empezaria por el Demo Audit de 2.900 EUR, bajo riesgo y acreditable, para ver si mueve algo antes de soltar los 4.900.",
+  "objection": "3 semanas no me arreglan un ciclo enterprise que tarda meses; dudo que un pitch de 7 minutos cambie de verdad mi pipeline y no solo mi discurso.",
+  "would_change_my_mind": "Un caso concreto de un fundador parecido al mio donde la tasa de avance a segunda reunion subio de forma medible tras el sprint.",
+  "price_too_cheap": 1200,
+  "price_cheap": 3000,
+  "price_expensive": 7000,
+  "price_too_expensive": 12000
+}

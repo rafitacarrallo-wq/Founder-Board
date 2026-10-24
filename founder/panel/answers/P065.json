@@ -1,0 +1,13 @@
+{
+  "id": "P065",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Un operador externo no conoce mi producto ni mi mercado enterprise, y 9.500 euros es muchisimo dinero para un sprint de 3 semanas cuando casi no tengo runway. Prefiero apretar yo el pitch con mi equipo o tirar de contactos antes de pagar eso.",
+  "objection": "Que un consultor de fuera, por muy industrial que sea su background, me reescriba la narrativa de un producto que no entiende de verdad, y que me quede sin nada replicable cuando se vaya.",
+  "would_change_my_mind": "Que me lo deje a exito: una parte pequena fija y el resto solo si sube la conversion de demo a siguiente fase, con un caso real de un founder como yo que haya cerrado enterprise despues.",
+  "price_too_cheap": 500,
+  "price_cheap": 1500,
+  "price_expensive": 4000,
+  "price_too_expensive": 8000
+}

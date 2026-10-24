@@ -1,0 +1,13 @@
+{
+  "id": "P070",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El dolor es real, mi demo se atasca y ni mi cofundador ni yo disfrutamos vender, pero no compro a frio: un operador que aparece de la nada no conoce mi producto ni mi mercado. Si esto valiera la pena, me llegaria por recomendacion de otro founder o de mi VC, no por un mensaje.",
+  "objection": "Un consultor externo no conoce mi producto ni mi mercado; reempaquetar mi demo en 3 semanas sin entender la tecnica suena a plantilla generica.",
+  "would_change_my_mind": "Que otro founder de mi red o mi VC me lo recomiende con un caso concreto de un deal enterprise que cerraron despues del sprint.",
+  "price_too_cheap": 2500,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 18000
+}

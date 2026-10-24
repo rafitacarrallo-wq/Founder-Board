@@ -1,0 +1,13 @@
+{
+  "id": "P061",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "9.500 EUR es demasiado para una startup sin apenas caja, y encima acabo de ver tres pilots congelarse. Esto lo trabajo con mi comercial o contrato a alguien interno antes que soltar ese dinero a un externo.",
+  "objection": "Pagar casi diez mil euros por tres semanas a un operador solo, cuando el forecast ya se me ha caido y la caja esta tensa.",
+  "would_change_my_mind": "Que el pago fuera por resultados o ligado a cerrar uno de los pilots congelados, no un fee fijo por adelantado.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 6000,
+  "price_too_expensive": 9500
+}

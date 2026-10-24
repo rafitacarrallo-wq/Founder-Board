@@ -1,0 +1,13 @@
+{
+  "id": "P069",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El dolor es real, mi demo se atasca por ser demasiado tecnica, pero no me ensenan ni un caso ni un numero. Soy de ROI medible y aqui pago 9.500 euros a ciegas sin saber si de verdad mueve cierres.",
+  "objection": "Como se que esto causo mas cierres y no fue el producto o el mercado? No hay atribucion, ni casos, ni metricas de antes y despues.",
+  "would_change_my_mind": "Casos concretos con tasa de cierre antes/despues de clientes parecidos a mi, o un fee ligado a resultados en vez de pago fijo por adelantado.",
+  "price_too_cheap": 2500,
+  "price_cheap": 5000,
+  "price_expensive": 9500,
+  "price_too_expensive": 14000
+}

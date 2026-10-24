@@ -1,0 +1,13 @@
+{
+  "id": "P028",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya me he quemado con agencias y coaches que prometen mucho y entregan humo, y soy tecnico: mi demo la arreglo yo. No voy a soltar 9.500 euros a un operador que no conoce mi producto para que me reescriba un pitch.",
+  "objection": "Que esto sea otra consultoria generica de un solo tio que me vende 'narrativa de valor' sin entender de verdad mi tecnologia ni mi caso, y que yo acabe haciendo el trabajo igual.",
+  "would_change_my_mind": "Casos reales y verificables de founders tecnicos como yo en IA/logistica que pasaron de atascarse en la demo a cerrar enterprise tras el sprint, con nombres y numeros que pueda contrastar.",
+  "price_too_cheap": 800,
+  "price_cheap": 2500,
+  "price_expensive": 4500,
+  "price_too_expensive": 7000
+}

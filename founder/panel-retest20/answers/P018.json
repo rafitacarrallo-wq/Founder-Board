@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy de los que leen, miran el blog y arreglan la demo por su cuenta antes de pagar a nadie; con €4,900 de un sueldo de 78k, mi primer instinto es iterar yo mismo esta semana, no contratar a un operador.",
+  "objection": "Aunque mejore mi tasa de avance a segunda reunion, no se como separar que fue el sprint y no el producto o el mercado; la garantia cubre la metrica, pero sigo sin saber si vale el dinero.",
+  "would_change_my_mind": "Un before/after documentado y con numeros de un fundador seed como yo en mi sector, mas empezar por el Demo Audit a €2,900 creditable, para probar con poco riesgo.",
+  "price_too_cheap": 900,
+  "price_cheap": 2500,
+  "price_expensive": 4900,
+  "price_too_expensive": 7500
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Suena bien pero no veo ni un caso ni un numero: un operador que me reescribe la demo en 3 semanas no me demuestra que mueva una conversion enterprise que tarda meses. Sin pruebas medibles, no puedo justificar 9.500 ante mi VC.",
+  "objection": "No hay evidencia de que el pitch nuevo realmente cierre deals; el ciclo enterprise es largo y no podria atribuir una venta a este sprint aunque pagara.",
+  "would_change_my_mind": "Casos concretos de startups parecidas con cifras de mejora en conversion post-demo, idealmente con parte del fee ligado a resultados.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}

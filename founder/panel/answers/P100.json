@@ -1,0 +1,13 @@
+{
+  "id": "P100",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Soy de los que leen el libro, miran el blog y lo prueban por su cuenta antes de pagar a nadie, y 9.500 euros por reescribir mi demo es mucho para algo que puedo intentar yo primero. Un operador externo no conoce mi producto ni mi mercado de verdad.",
+  "objection": "Que un consultor de fuera no entiende mi producto ni a mis compradores enterprise, asi que su narrativa de valor va a sonar generica y a plantilla.",
+  "would_change_my_mind": "Casos reales y verificables de founders como yo en IA/logistica/supply chain cuya conversion en la demo mejoro con el, con numeros y referencias que pueda llamar.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 8000,
+  "price_too_expensive": 12000
+}

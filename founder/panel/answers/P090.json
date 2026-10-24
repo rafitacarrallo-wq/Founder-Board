@@ -1,0 +1,13 @@
+{
+  "id": "P090",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Suena directo a mi dolor, pero no hay un solo caso ni numero: no me ensenan cuanto subio la conversion de nadie. Pago por retorno medible, no por una promesa de narrativa.",
+  "objection": "Tres semanas no me arreglan un ciclo enterprise de meses, y nada prueba que el pitch nuevo cierre mas deals en vez de solo sonar mejor.",
+  "would_change_my_mind": "Dos o tres casos reales con numeros antes/despues (conversion demo-a-siguiente-paso) o cobro ligado a resultado.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}

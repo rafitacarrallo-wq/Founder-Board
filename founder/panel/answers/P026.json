@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "€9.500 de golpe con mis pilots congelados y casi sin runway es impensable; ademas ya pague por coaches de pitch antes y no movio la aguja, asi que no me creo que esto sea distinto.",
+  "objection": "No tengo ninguna prueba de que un operator con background industrial me suba la conversion en la demo; suena a otro coach caro mas vendiendo humo.",
+  "would_change_my_mind": "Que cobre a exito o un piloto barato ligado a resultados (por ejemplo, un primer deal cerrado o una demo auditada gratis), con casos reales de founders como yo que cerraron enterprise tras el sprint.",
+  "price_too_cheap": 500,
+  "price_cheap": 1500,
+  "price_expensive": 4000,
+  "price_too_expensive": 8000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P050",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El problema es real, mi demo se hunde en producto y algoritmo, pero 9.500 por tres semanas sin garantia de resultado es mucho para mi, y ya me he quemado con agencias y coaches. Creo que puedo reescribir el pitch yo mismo antes de pagar eso.",
+  "objection": "No hay garantia de resultado: pago fijo alto y si el pitch sigue sin cerrar demos, me quedo igual pero con 9.500 menos.",
+  "would_change_my_mind": "Que cobrara mayormente a exito o ligado a resultados de demo, o casos concretos verificables de founders como yo que cerraron enterprise tras el sprint.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 6500,
+  "price_too_expensive": 9500
+}

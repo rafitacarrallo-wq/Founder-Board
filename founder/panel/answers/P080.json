@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Esto es justo mi problema, la demo se nos atasca, pero mi instinto es que lo resuelva alguien de dentro o mi comercial, no un externo de proyecto. Y acabamos de levantar seed: 9.500 EUR de golpe por tres semanas es mucho con la caja que tenemos.",
+  "objection": "Pagar casi diez mil a un externo por algo que, en teoria, deberia saber hacer mi propio equipo de ventas.",
+  "would_change_my_mind": "Que el precio fuera en parte variable o ligado a cerrar un deal enterprise concreto, de forma que el riesgo no sea todo mio.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4000,
+  "price_expensive": 7000,
+  "price_too_expensive": 12000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P054",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya pague por coaches de pitch y no movio la aguja; suena bien sobre el papel pero no veo por que este operador cambiaria el resultado, y creo que puedo reconstruir la narrativa yo misma con mi equipo.",
+  "objection": "No tengo pruebas de que esto funcione de verdad: es otro consultor prometiendo arreglar la demo, y ya me quemaron antes con ese mismo discurso.",
+  "would_change_my_mind": "Casos concretos y verificables de founders enterprise en IA/logistica cuya conversion en demo subio tras el sprint, con nombres con los que pueda hablar.",
+  "price_too_cheap": 1500,
+  "price_cheap": 5000,
+  "price_expensive": 11000,
+  "price_too_expensive": 18000
+}

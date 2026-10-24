@@ -1,0 +1,13 @@
+{
+  "id": "P094",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "El problema es real y justo el mio, la demo se me atasca, pero 9.500 EUR de golpe es demasiado para mi caja en seed y no me ensenan ni un caso ni un numero de ROI. Compro retorno medible, no promesas.",
+  "objection": "Pago 9.500 EUR y no se si de verdad sube mi conversion; no hay casos ni metricas que lo respalden.",
+  "would_change_my_mind": "Casos concretos con antes/despues de conversion en demo de founders como yo, y alguna garantia o pago ligado a resultados.",
+  "price_too_cheap": 800,
+  "price_cheap": 2500,
+  "price_expensive": 6000,
+  "price_too_expensive": 9500
+}

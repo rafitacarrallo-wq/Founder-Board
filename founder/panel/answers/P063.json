@@ -1,0 +1,13 @@
+{
+  "id": "P063",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El dolor es exactamente el mio y el timing con mi VC aprieta, pero no me ensenan ni un caso ni un numero de antes/despues. No suelto 9.500 euros a ciegas por un sprint sin ninguna prueba de que mueve la conversion.",
+  "objection": "No hay garantia de resultado ni casos reales: pago fijo por una narrativa que quiza no cierra un solo deal enterprise.",
+  "would_change_my_mind": "Casos concretos con founders nombrables y metricas de conversion demo-a-deal antes/despues, o una parte del fee ligada a resultado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

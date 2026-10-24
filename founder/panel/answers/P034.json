@@ -1,0 +1,13 @@
+{
+  "id": "P034",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Esto me llega en frio y yo no compro asi: compro lo que me recomienda otro founder o mi VC, no un operador que no conozco. Y encima soy tecnico, la demo me la retoco yo mismo, ya lo hago.",
+  "objection": "No tengo ninguna referencia de esta persona ni prueba de que haya cerrado deals enterprise de verdad; 9.500 euros a un desconocido por reescribir mi pitch es confiar demasiado a ciegas.",
+  "would_change_my_mind": "Que un founder que respeto o uno de mis inversores me lo recomendara directamente diciendo que le subio la conversion en enterprise.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}

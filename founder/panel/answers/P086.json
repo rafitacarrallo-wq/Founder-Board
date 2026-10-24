@@ -1,0 +1,13 @@
+{
+  "id": "P086",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No veo ni un caso ni un numero: me prometen un pitch de 7 minutos pero nadie me demuestra cuanto sube la conversion de demo a segunda reunion. Pago 9.500 euros solo si me ensenan retorno medible, y aqui es puro relato.",
+  "objection": "Un operador me reescribe la narrativa en 3 semanas, pero mi deal enterprise tarda meses: no sabre si funciono hasta mucho despues de haber pagado, y el riesgo lo asumo yo entero.",
+  "would_change_my_mind": "Casos concretos con antes/despues (tasa de paso a segunda reunion) de fundadores como yo, y que ate parte del precio al resultado en vez de fee fijo por adelantado.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 9500,
+  "price_too_expensive": 14000
+}

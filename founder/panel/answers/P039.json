@@ -1,0 +1,13 @@
+{
+  "id": "P039",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "No compro cosas asi en frio; solo meto dinero en lo que me recomienda otro founder o mi VC, y a esto no lo conoce nadie de mi circulo. Ademas soy tecnica y la demo me la reconstruyo yo.",
+  "objection": "Es un operador unico que no me ha recomendado nadie, sin pruebas de que haya movido deals de verdad; y mi primer instinto es que esto lo arreglo yo misma.",
+  "would_change_my_mind": "Que un founder de mi red o mi VC me dijera que contrato esto y que tras el sprint cerro un enterprise que tenia atascado en la demo.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4500,
+  "price_expensive": 9500,
+  "price_too_expensive": 15000
+}
