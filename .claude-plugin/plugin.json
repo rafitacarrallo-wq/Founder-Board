@@ -1,0 +1,13 @@
+{
+  "name": "founder",
+  "displayName": "Founder Board",
+  "version": "1.0.0",
+  "description": "Pack de 11 skills para testear una idea de negocio antes de lanzarla: consejo de administracion, competidores, panel de 100 compradores simulados, precios, oferta, CFO, marketing, marca, operaciones, lanzamiento y plan de negocio final con veredicto calculado desde los numeros.",
+  "author": {
+    "name": "rafitacarrallo-wq"
+  },
+  "homepage": "https://github.com/rafitacarrallo-wq/Founder-Board",
+  "repository": "https://github.com/rafitacarrallo-wq/Founder-Board",
+  "license": "MIT",
+  "keywords": ["business", "startup", "validation", "founder", "idea", "negocio"]
+}

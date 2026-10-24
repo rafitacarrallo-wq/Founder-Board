@@ -1,0 +1,16 @@
+{
+  "name": "founder-board",
+  "owner": {
+    "name": "rafitacarrallo-wq"
+  },
+  "description": "Marketplace del pack founder: skills para validar una idea de negocio en Claude Code, desde el consejo de administracion hasta el plan de negocio final.",
+  "plugins": [
+    {
+      "name": "founder",
+      "source": ".",
+      "description": "Las 11 skills founder (consejo, competidores, panel de compradores, precios, oferta, CFO, marketing, marca, operaciones, lanzamiento y plan). Cada skill se usa como /founder:founder-board, /founder:founder-cfo, etc.",
+      "category": "business",
+      "tags": ["business", "startup", "validation", "negocio"]
+    }
+  ]
+}
