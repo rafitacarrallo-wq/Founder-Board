@@ -1,0 +1,106 @@
+[
+  {
+    "company": "Orbio",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "ROI/valor",
+    "fit": "Media",
+    "why_demo": "Su producto es intrínsecamente técnico (agentes de IA que entrevistan y onboardean por WhatsApp/SMS/voz), pero su comunicación pública ya está muy orientada a ROI: cita -80% de coste administrativo, -19% de churn y 85% menos time-to-hire. Recién levantó una Serie A de $21M (jun 2026) y vende a enterprise (Yum!, Adecco, Burger King) sin demo pública visible. Beneficio moderado: ya domina el relato de valor, aunque una demo en vivo puede sobre-indexar en la mecánica de los agentes. No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://pulse2.com/orbio-ai-raises-21-million-to-expand-ai-powered-frontline-workforce-platform/"
+  },
+  {
+    "company": "SylloTips",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Técnico/features",
+    "fit": "Alta",
+    "why_demo": "Su mensaje gira en torno a lo técnico: agentes nativos de Microsoft Teams, human-in-the-loop, memoria compartida e integraciones M365, con solo una métrica de valor (-75% de tickets de primer nivel). Es seed temprano (€4,2M) con venta enterprise consultiva (telco, seguros, finanzas) y sin demo pública: solo listado en Microsoft AppSource y contacto comercial. Encaje alto: una demo probablemente muestra la mecánica del agente en Teams más que el ROI. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://appsource.microsoft.com/en-nz/product/saas/syllotipssrl1691355296759.syllotips-ai-agent"
+  },
+  {
+    "company": "nexos.ai",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Combina relato técnico (gateway, enrutado a 200+ modelos) con valor de gobernanza/coste/compliance, así que el mensaje es mixto. Ofrece prueba gratis de 7 días y 'demo técnica de 30 min' / 'talk to sales', con elementos self-serve y precio público (€25/usuario). Encaje medio: ya articula valor de gobernanza y tiene componente PLG, lo que reduce la necesidad de reconvertir la demo. No pude cargar la web a fondo y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://nexos.ai/pricing/"
+  },
+  {
+    "company": "Relay",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "ROI/valor",
+    "fit": "Baja",
+    "why_demo": "Su comunicación ya es muy de valor/coste: 'convertir un centro de coste en ventaja competitiva', -95% de distancia recorrida, ahorro en fraude y -60% de emisiones. Es una red de entrega de última milla (operaciones) recién financiada ($35M Serie A) que vende a grandes retailers (JD Sports, THG). Encaje bajo: su narrativa ya está polarizada hacia ROI, no hacia features técnicas. No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.relaytech.co/homepage/home-b"
+  },
+  {
+    "company": "Tennders",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Su relato es operativo/producto: ecosistema digital con FMS privado (TenndersFMS), lonja pública de cargas (TenndersFEX) y agentes de IA, con alguna métrica de eficiencia (hasta 40% del spot digitalizado). Venta B2B a transitarios/cargadores/operadores con financiación modesta. No encontré señal de demo pública en los resultados, así que marco demo como desconocida; encaje medio. No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://startupshub.catalonia.com/startup/barcelona/tennders/5449"
+  },
+  {
+    "company": "NEOintralogistics",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "ROI/valor",
+    "fit": "Baja",
+    "why_demo": "Su mensaje ya es de valor/coste puro: pay-per-pick sin capex, hasta -70% de coste laboral y 2,5x de capacidad de almacenaje, desplazando la automatización de capex a un modelo opex. Robótica RaaS recién financiada (€3M seed, ene 2026) con venta consultiva. Encaje bajo: su propuesta ya está construida alrededor del ROI/coste, no de specs técnicas. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2026/01/20/neointralogistics-secures-eur3m-to-democratize-warehouse-automation-through-raas/"
+  },
+  {
+    "company": "Imperia",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "SaaS de planificación de cadena de suministro rico en features (forecast, S&OP, aprovisionamiento, producción) más un nuevo módulo gen-AI (SCP Studio) para construir el sistema en lenguaje natural; mensaje mixto entre capacidades técnicas y mejora de decisiones. Series A (Burda) y venta tanto a pymes (cuota asequible) como a grandes cuentas. Encaje medio: producto técnico pero con ángulo de valor y precio accesible. No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.eu-startups.com/2024/03/valencia-based-imperia-raises-e3-million-to-become-the-go-to-saas-for-supply-chain-management-in-europe"
+  },
+  {
+    "company": "Soource",
+    "demo_access": "unknown",
+    "messaging": "Técnico/features",
+    "fit": "Alta",
+    "why_demo": "Comunicación técnica/producto: motor de búsqueda de proveedores por texto libre y varios agentes de IA especializados por etapa (descubrimiento, cualificación, comparación, outreach, enriquecimiento). Startup muy temprana (pre-seed €1,5M + seed €3M) en procurement intelligence con venta B2B. Encaje alto: una demo probablemente sobre-indexa en cómo funcionan los agentes y la búsqueda, no en el ROI para el comprador. No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.startupbusiness.it/en/e3-million-funding-round-for-soources-ai-procurement-platform/177125/"
+  },
+  {
+    "company": "Magentic",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Mixto",
+    "fit": "Alta",
+    "why_demo": "Producto profundamente técnico (sistemas multi-agente 'Mages' que operan en Teams/email dentro de los sistemas del cliente), aunque ya cita ahorros (2-5%, +60% calidad de datos, decenas de miles de horas); mensaje mixto. Recién financiada ($18M Serie A, sep 2026) con venta enterprise a manufactureras Global 500 vía 'book a demo'. Encaje alto: traducir la mecánica de los agentes a un pitch de 7 min de valor es justo su reto. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://thenextweb.com/news/magentic-18m-series-a-ai-agents-procurement"
+  },
+  {
+    "company": "Innporting",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Baja",
+    "why_demo": "Marketplace de freight-forwarding con enfoque self-serve: precios instantáneos, contratar carga 'en pocos clics', tracking y facturación; el mensaje es de conveniencia/features. Modelo tipo PLG por comisión por envío, no venta enterprise liderada por comercial. Encaje bajo: al ser autoservicio no depende de una demo de ventas en vivo que haya que reconvertir. No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://app.dealroom.co/companies/innporting"
+  },
+  {
+    "company": "Galam Robotics",
+    "demo_access": "unknown",
+    "messaging": "Técnico/features",
+    "fit": "Alta",
+    "why_demo": "Su relato es técnico/hardware: robot modular TAK-ONE con diseño 'sliding puzzle', ~1.000 paquetes/hora en ~200 m², para almacenes pequeños/medianos. Recién financiada (€10M Serie A, mar 2025) con venta consultiva de hardware. Encaje alto: las specs de throughput y la mecánica tienden a eclipsar la traducción a ROI del almacén; no encontré demo pública (marco desconocida). No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://siliconcanals.com/paris-galam-robotics-raises-10m/"
+  },
+  {
+    "company": "Digicust",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Su web ya expone métricas de valor (95% precisión, 80% tiempo ahorrado, 70-90% de automatización) combinadas con relato técnico de IA/ML para despacho aduanero; mensaje mixto. Venta B2B a transitarios/agentes de aduanas con 'book a demo'. Encaje medio: ya muestra ROI, aunque la demo puede recaer en la mecánica de clasificación arancelaria e integraciones (SAP, DAKOSY, AEB). No pude cargar su web a fondo y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.digicust.com/en/about/"
+  },
+  {
+    "company": "Nexcade",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Técnico/features",
+    "fit": "Alta",
+    "why_demo": "Mensaje técnico/producto: IA agéntica que lee peticiones por email, procura tarifas y prepara cotizaciones, con 'agentes' de quoting y booking que automatizan workflows. Startup muy temprana (pre-seed $2,5M, seed $6M) con roles de 'founding sales' y venta enterprise a transitarios. Encaje alto: el producto es mecánica de agentes y probablemente la demo sobre-indexa en el 'cómo' técnico más que en el valor. No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2025/10/07/nexcade-exits-stealth-with-25m-to-automate-global-freight-forwarding/"
+  }
+]

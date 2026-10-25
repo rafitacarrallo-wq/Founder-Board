@@ -1,0 +1,98 @@
+[
+  {
+    "company": "Genesy",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Solo encontré un enlace 'Request a demo' (bit.ly/GenesyAIDemo), sin vídeo público ni tour interactivo, y el producto se describe por su 'AI SalesAgent' que engancha, cualifica y agenda reuniones, mezclando features con resultados. Al ser un agente de IA de ventas recién financiado (€5M seed, 2025) con equipo comercial propio, su demo probablemente enseña la mecánica del agente más que el ROI en euros. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://finder.techleap.nl/news/feed/genesy-raises-5-1m-for-ai-sales-agents"
+  },
+  {
+    "company": "Mendo",
+    "demo_access": "unknown",
+    "messaging": "ROI/valor",
+    "fit": "Baja",
+    "why_demo": "Su discurso público ya está orientado a valor/adopción ('la adopción, no la tecnología, es el cuello de botella') y exhibe logos enterprise (PwC, Novo Nordisk, Crédit Agricole) tras una Serie A de €12M, señal de posicionamiento ya pulido. Por eso su necesidad de reenfocar la demo hacia ROI es menor. No pude cargar su web (bloqueo de red) ni confirmar formato de demo, y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.intelligentcio.com/eu/2026/06/11/mendo-raises-e12-million-series-a-to-accelerate-enterprise-ai-adoption-across-europe/"
+  },
+  {
+    "company": "Agaton",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Es un producto técnico de IA de voz (analiza llamadas y detecta señales/sentimiento que las transcripciones pierden), pero su prensa ya cita métricas de valor (duplicar cierres, -80% en tiempo de QA). No encontré vídeo ni tour público; la página hallada en hf.space parece contenido placeholder no fiable. Recién financiada (~$9.9M seed, 2026) y con clientes enterprise (Telenor/Telia), su demo puede sobre-indexar en la capacidad técnica de la voz-IA. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2026/02/19/agaton-raises-9-million-to-expand-its-ai-platform-for-sales-teams/"
+  },
+  {
+    "company": "Loadar",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Técnico/features",
+    "fit": "Alta",
+    "why_demo": "El producto se describe por funcionalidades (procurement, gestión de transportistas, automatización, tracking en tiempo real e integración con sistemas enterprise) y su perfil en Dealroom solo ofrece 'Book a demo', sin vídeo ni tour público. Startup de freight-SaaS recién financiada (£3.1M seed, 2024) que vende a grandes cargadores enterprise: encaje alto para convertir una demo de features en un pitch de ahorro/riesgo. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.eu-startups.com/2024/12/belfast-startup-loadar-loads-up-e3-8-million-to-deliver-smarter-freight-solutions"
+  },
+  {
+    "company": "Necture",
+    "demo_access": "unknown",
+    "messaging": "Técnico/features",
+    "fit": "Media",
+    "why_demo": "Comunica por capacidades técnicas/operativas (rebalanceo automatizado, carga predictiva, charging-as-a-service, sugerencias basadas en datos) para gestores de flotas enterprise; Serie A de €7M (2024). No encontré vídeo, tour ni enlace de demo (no pude cargar su web). Su demo probablemente enfatiza la mecánica de optimización más que el coste/ROI de la electrificación. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2024/03/13/necture-secures-eur7m-series-a-to-boost-funding-for-innovative-ev-fleet-management/"
+  },
+  {
+    "company": "Smart Robotics",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Técnico/features",
+    "fit": "Alta",
+    "why_demo": "Su mensaje es muy técnico/de specs (99,5% uptime, hasta 1.000 picks/hora, 1.000M de picks, 120+ despliegues) y el perfil en Dealroom solo muestra 'Book a demo', sin vídeo ni tour verificado. Deep-tech de robótica con Serie A de €10M (2026) y venta industrial enterprise: su demo tiende a sobre-indexar en hardware/IA en lugar de coste/riesgo. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2026/04/21/smart-robotics-secures-eur10m-series-a-to-expand-ai-robotic-picking-in-europe/"
+  },
+  {
+    "company": "Procuros",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Mixto",
+    "fit": "Alta",
+    "why_demo": "Mensaje cargado de tecnología (EDI/API, EDIFACT, X12, AS2/OFTP, 'conecta tu ERP en minutos') aunque con toques de valor ('sin proyecto IT largo'); su perfil muestra login y 'Book a demo', sin vídeo ni tour público. B2B enterprise que reemplaza EDI/integraciones con venta guiada: alto riesgo de que la demo sea técnica en vez de coste/riesgo. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://dealroom.co/companies/procuros/"
+  },
+  {
+    "company": "Find My Factory",
+    "demo_access": "unknown",
+    "messaging": "Técnico/features",
+    "fit": "Alta",
+    "why_demo": "Producto de IA/ML para descubrir y cualificar proveedores (automatiza la búsqueda y la conexión con fabricantes verificados), en fase temprana (seed ~€1.2M, 2025). No encontré vídeo ni tour público (no pude acceder a su web). Startup técnica de sourcing con venta enterprise: su demo probablemente muestra la capacidad del algoritmo más que el ahorro en compras. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://finder.techleap.nl/news/feed/find-my-factory-raises-1-18m-funding"
+  },
+  {
+    "company": "Fentech",
+    "demo_access": "unknown",
+    "messaging": "Técnico/features",
+    "fit": "Alta",
+    "why_demo": "Se describe por módulos técnicos (Clairvoyant: previsión de demanda, supply/allocations, pricing/promos, lanzamientos) para retailers/distribuidores; seed pequeña (€1.2M, 2023). Solo hallé su ficha en Microsoft Marketplace, sin vídeo, tour ni enlace de demo claro. Un producto de forecasting tiende a venderse por la precisión del modelo más que por la reducción de stock/coste. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://marketplace.microsoft.com/en-us/product/fentech.fentech"
+  },
+  {
+    "company": "Logístiko",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Baja",
+    "why_demo": "SaaS de última milla con señales de autoservicio/SMB: directorios listan precio público desde ~€199/mes y funcionalidades estándar (planificación de rutas, tracking, integración ERP/eCommerce). Ese modelo transparente/self-serve reduce la necesidad de un pitch enterprise de valor a 7 minutos. No hallé vídeo ni tour y no pude cargar su web; no vi su demo de ventas en vivo.",
+    "evidence_url": "https://serchen.com/company/logistiko"
+  },
+  {
+    "company": "Manex AI",
+    "demo_access": "unknown",
+    "messaging": "Técnico/features",
+    "fit": "Alta",
+    "why_demo": "IA profunda para QA en planta que integra ERP/MES/QMS/PLCs (Qualitatio), seed de €8M (2025) liderada por Lightspeed, con clientes de automoción (BMW, Audi, Stellantis). No encontré página de demo (un perfil indica que 'no enviaron demo' a un analyst briefing). Deep-tech industrial enterprise: su demo casi seguro sobre-indexa en integraciones y modelo, ideal para reconvertir en ahorro/riesgo. No vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.munich-startup.de/en/news/manex-ai-secures-8-million-euros-in-seed-funding"
+  },
+  {
+    "company": "Lastmily",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Baja",
+    "why_demo": "Su web ofrece 'Try us for free' + 'Contact sales' y muestra 4,9/5 con 153 reseñas, señal de modelo self-serve/PLG y ya orientado a resultados (afirma hasta -40% de coste). Ese enfoque transaccional/autoservicio baja el encaje para un pitch enterprise de valor a medida. No confirmé vídeo ni tour público y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://lastmily.com/en/features/"
+  }
+]

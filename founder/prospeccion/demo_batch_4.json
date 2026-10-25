@@ -1,0 +1,98 @@
+[
+  {
+    "company": "Gradient Labs",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Su comunicacion publica ya mezcla metricas de valor (afirman resolver ~90% de consultas, 98% de QA y reducir ~75% los costes operativos) con un relato de producto centrado en el agente 'Otto' y sus guardarrailes de cumplimiento (fuente: reviews de eesel y pagina de 'customer stories'). Al vender a banca/fintech regulada, un pitch de 7 minutos que ordene ROI y sobre todo riesgo/compliance les ayudaria, aunque ya estan algo orientados a valor. No pude cargar gradient-labs.ai (no resolvia DNS) ni confirmar una ruta de demo publica; me baso en senales publicas y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.eesel.ai/blog/gradient-labs"
+  },
+  {
+    "company": "Sereact",
+    "demo_access": "unknown",
+    "messaging": "Tecnico/features",
+    "fit": "Alta",
+    "why_demo": "Toda su comunicacion publica gira en torno a la tecnologia: el modelo vision-language-action 'Cortex', un 'world model', +200 sistemas en produccion y +1.000M de picks (fuente: tech.eu y notas de prensa). Siendo una Serie A de ~25M EUR que vende a industria/logistica enterprise, su demo probablemente sobre-indexa en capacidades del modelo y hardware mas que en coste/riesgo, asi que un pitch de valor encajaria. Solo observe demos fisicas en ferias y una pagina de empresa; no pude cargar su web y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2025/09/29/meet-cortex-sereact-s-foundation-model-that-lets-robots-think-on-their-feet/"
+  },
+  {
+    "company": "2501.ai",
+    "demo_access": "Video/tour publico",
+    "messaging": "Tecnico/features",
+    "fit": "Alta",
+    "why_demo": "Su listado en AWS Marketplace incluye un 'Play video' publico y prueba gratuita, y describe agentes para SRE/CloudOps/IT con instalacion por 'one-liner', CLI/API y cumplimiento SecNumCloud (fuente: AWS Marketplace): lenguaje netamente tecnico para perfiles DevOps. Como startup recien financiada que apunta a sectores regulados, su demo seguramente enfatiza arquitectura y automatizacion de tickets mas que ROI/coste, por lo que un pitch de valor de 7 min ayudaria. No pude abrir el video ni su web directamente y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://aws.amazon.com/marketplace/pp/prodview-g4folque3irua"
+  },
+  {
+    "company": "Opereit",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Su mensaje publico ya combina valor muy tangible (identificaron +200.000 USD recuperables en una primera auditoria, hablan de 'claims leakage' y un 'blind spot' de ~1B) con un relato de agentes de IA que auditan facturas y gestionan reclamaciones (fuente: Dealroom/Seedcamp). Al ser pre-seed muy temprano y vender a logistica/retail, su demo probablemente muestra la mecanica del agente, donde un pitch que fije el ROI en euros recuperados reforzaria el caso. No encontre ruta de demo publica en opereit.ai, no pude cargar su web y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://dealroom.co/news/131056-opereit-raises-2-5m-seed-to-fix-logistics-1b-claims-blind-spot/"
+  },
+  {
+    "company": "Northbound",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no publica)",
+    "messaging": "ROI/valor",
+    "fit": "Baja",
+    "why_demo": "Su posicionamiento publico ya es de ROI puro: 'protege de penalizaciones millonarias', 'hasta 90% de los costes de demurrage/detention evitables' y disputa de ~20% de facturas incorrectas (fuente: Logistics Business / DB Schenker blog). El perfil (FundedIQ indica 'for a demo... visit our website or get in touch') apunta a demo en vivo, no publica. Como ya lidera con valor/ahorro, su necesidad de reconvertir una demo tecnica en pitch de valor es baja; dicho esto, NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://logisticsbusiness.com/it-in-logistics/telematics-tms/pre-seed-funding-for-berlin-supply-chain-saas-firm/"
+  },
+  {
+    "company": "Nabu",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Comunican una mezcla de valor-eficiencia ('declaraciones hasta 90% mas rapidas', menos errores) y proceso tecnico (convierten emails/documentos y datos de TMS en declaraciones pre-rellenadas dentro del software aduanero del cliente) (fuente: tech.eu). Vendiendo a transitarios y agentes de aduanas con una ronda reciente de 3M EUR, su demo puede sobre-indexar en el flujo documental/integraciones; un pitch de 7 min sobre tiempo y riesgo de cumplimiento aduanero ordenaria el valor. No pude cargar nabu.io ni confirmar su ruta de demo y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2026/05/04/nabu-raises-eur3m-to-scale-digital-customs-in-europe/"
+  },
+  {
+    "company": "Mercanis",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no publica)",
+    "messaging": "Mixto",
+    "fit": "Alta",
+    "why_demo": "Se definen como 'Agentic-AI Procurement Suite' con '55 agentes de IA especializados' y modulos de sourcing/SRM/contratos (lenguaje muy tecnico-funcional), aunque ya citan '+40% de ahorro de costes' (fuente: G2/ProcurementMag). Con precios no publicados ('contactar proveedor') y CTA de 'Book a demo', la demo es en vivo y sales-led; siendo Serie A de +20M USD, encaja con una necesidad de convertir el relato de agentes en pitch de valor de 7 min. No pude cargar mercanis.com y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://procurementmag.com/news/mercanis-revolutionising-procurement-agentic-ai"
+  },
+  {
+    "company": "Tacto",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no publica)",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Mezclan relato de valor (ahorros via 'Tacto Intelligence') con mensaje de producto/tecnologia (SRM, 'Co-Pilot', 'cinco modulos de inteligencia', construido en la TU Munich) (fuente: GetApp/CB Insights). CB Insights indica 'demo not available' y el precio es usage-based sales-led, por lo que la demo es en vivo. Al ser Serie B mas madura y pulida (100+ personas, 300+ fabricantes, 5,0 en Capterra con 7 reseñas), su necesidad es media. No pude cargar su web y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.capterra.in/software/1070491/Tacto"
+  },
+  {
+    "company": "Optiak",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no publica)",
+    "messaging": "Tecnico/features",
+    "fit": "Alta",
+    "why_demo": "Es puro lenguaje de infraestructura tecnica: una 'capa operativa' para integrar/gobernar/observar IA empresarial, con controles de seguridad, governance, memoria, observabilidad y despliegue sobre cualquier modelo/agente (fuente: Pulse2). El acceso es via un 'Design Partner Program' gated (demo en vivo, no publica). Como pre-seed de 4M EUR que vende a grandes empresas sobre un tema abstracto (shadow AI), su demo seguramente sobre-indexa en arquitectura; un pitch de valor/riesgo de 7 min ayudaria mucho. No pude cargar su web y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://pulse2.com/optiak-raises-e4-million-pre-seed-to-build-operating-layer-for-enterprise-ai/"
+  },
+  {
+    "company": "Tenoro",
+    "demo_access": "unknown",
+    "messaging": "Tecnico/features",
+    "fit": "Alta",
+    "why_demo": "Se presenta con lenguaje muy tecnico-abstracto: un 'sistema operativo agentico' y 'capa de orquestacion' sobre ERP/WMS/TMS con 11 modulos y un agente 'Teno' que supervisa, detecta anomalias y ejecuta (fuente: EcosistemaStartup). Al ser seed muy temprano (~1M EUR ARR) vendiendo a operaciones fisicas de retail/distribucion/manufactura, su demo probablemente sobre-indexa en la plataforma y agentes mas que en coste/eficiencia operativa concreta. No encontre su web ni ruta de demo publica y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://ecosistemastartup.com/?p=112497"
+  },
+  {
+    "company": "Hakio",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no publica)",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Mezclan el valor (reducir desperdicio por sobrestock/roturas en un sector que gasta ~800M EUR/año en planificacion) con mensaje tecnico (ML sobre hasta 150 variables, plataforma de forecasting end-to-end) (fuente: SiliconCanals/Shyft). Directorios como Shyft y SoftwareFinder solo ofrecen 'Request a demo'/agendar demo (en vivo, no publica) y el precio no esta publicado. Su demo puede sobre-indexar en precision del modelo; un pitch de valor en inventario encajaria. No pude cargar hakio.co y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.shyft.ai/tools/hakio"
+  },
+  {
+    "company": "Eaship",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Su mensaje publico ya apunta a valor (reducir hasta 50% el tiempo de gestion logistica y ~5% el coste de transporte) sobre un producto de planificacion de carga/transporte con IA que automatiza peticiones a transportistas (fuente: silbcn). Siendo seed muy pequeña (~8 personas) con modelo por suscripcion, su demo puede mostrar la mecanica del planificador; un pitch de 7 min que fije el ROI reforzaria el caso, aunque ya comunican ahorro. No encontre ruta de demo publica en eaship.io, no pude cargar su web y NO vi su demo de ventas en vivo.",
+    "evidence_url": "https://silbcn.com/en/blog/inn-eaship_the_transport_management_software_for_manufacturers-142.html"
+  }
+]

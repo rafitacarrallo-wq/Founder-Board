@@ -1,0 +1,106 @@
+[
+  {
+    "company": "Maisa AI",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Alta",
+    "why_demo": "Su comunicación pública gira en torno a conceptos técnicos propios (Chain-of-Work, KPU, Virtual Context Window) y a la categoría 'Agentic Process Automation', más que a cifras de ROI, lo que sugiere que la demo tiende a mostrar cómo funciona el motor de agentes. Con un seed de 25M$ y foco en sectores regulados (finanzas, compliance), una demo así corre riesgo de sobre-indexar en la tecnología frente al coste/riesgo que importa al comprador enterprise. No pude cargar su web (bloqueo de red en esta sesión) y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate"
+  },
+  {
+    "company": "Orq.ai",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Técnico/features",
+    "fit": "Media",
+    "why_demo": "Su página de 'book a demo' describe una demo en vivo guiada por un experto y adaptada al caso de uso, y el mensaje de marketing es de plataforma técnica (gateway a 300+ modelos, runtime, Agent Studio) dirigido a perfiles técnicos. Al vender principalmente a compradores técnicos, una demo orientada a features encaja relativamente bien, por lo que la necesidad de reempaquetarla en un pitch de valor es moderada. No vi su demo de ventas en vivo (solo la descripción pública de su página de reserva).",
+    "evidence_url": "https://orq.ai/book-demo"
+  },
+  {
+    "company": "Cerrion",
+    "demo_access": "unknown",
+    "messaging": "ROI/valor",
+    "fit": "Media",
+    "why_demo": "A diferencia de muchos, su comunicación ya es bastante de valor: habla de resolver incidencias 'hasta un 50% más rápido' y de reducir a la mitad paradas y scrap. Aun así, al ser visión por IA sobre cámaras, su demo probablemente muestra detección de defectos en vídeo (muy visual y técnica), con margen para reforzar el ángulo de coste/riesgo. No pude cargar su web (bloqueo de red); me baso en cobertura pública y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://siliconangle.com/2025/11/25/cerrion-raises-18m-support-industrial-automation-intelligent-vision-agents/"
+  },
+  {
+    "company": "Geordie AI",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Alta",
+    "why_demo": "Es un producto de seguridad/gobernanza de agentes IA (descubrir agentes, monitorizar comportamiento, runtime 'Beam'), un dominio donde las demos suelen sobre-indexar en dashboards de detección y arquitectura técnica. Bien financiada (Serie A de ~30M$) y con venta enterprise liderada por ventas, encaja con necesitar traducir eso a riesgo/coste para el comprador de seguridad. No pude cargar su web; una oferta de empleo menciona 'product walkthroughs' (sugiere demos en vivo) pero no vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/"
+  },
+  {
+    "company": "Stowlog",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Su posicionamiento mezcla valor de compliance (código ISPS, operativa 'paperless') con una lista de módulos muy de features (control de acceso, gestión de visitas, mapa 3D, permisos de trabajo). Esa estructura modular sugiere una demo que recorre funcionalidades; con clientes grandes (Maersk, APM Terminals) podría beneficiarse de un pitch de valor más tajante, aunque el valor de seguridad/compliance ya es relativamente tangible. No pude cargar su web; me baso en cobertura pública y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.producthunt.com/products/stowlog/launches/stowlog"
+  },
+  {
+    "company": "5U AI",
+    "demo_access": "Solo 'Book a demo' (demo en vivo, no pública)",
+    "messaging": "Mixto",
+    "fit": "Alta",
+    "why_demo": "Vende 'AI Workers' para transitarios que automatizan quoting, booking, tracking y conciliación de facturas, con un 'Decision Layer' como diferenciador técnico; el foco en ese mecanismo sugiere una demo centrada en cómo trabajan los agentes. Pre-seed reciente (3,2M$) y venta enterprise encajan con necesitar un pitch de valor (ahorro de horas/coste) de 7 minutos. Su perfil en Dealroom lista 'Book a Demo'; no vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2026/07/28/5u-ai-lands-32m-pre-seed-for-ai-freight-workforce-platform/"
+  },
+  {
+    "company": "k2-mobility",
+    "demo_access": "unknown",
+    "messaging": "Técnico/features",
+    "fit": "Media",
+    "why_demo": "Su mensaje es muy de features operativas (datos en tiempo real, operación remota del cargador, planificación dinámica de carga, supervisión del estado de carga). El valor (coste por kWh gestionado, disponibilidad de la flota) es relativamente tangible para el comprador de flotas, por lo que la necesidad de reempaquetar es media. No pude cargar su web; me baso en perfiles públicos y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.cvshow.com/exhibitors/k2-mobility-gmbh"
+  },
+  {
+    "company": "Procure AI",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Alta",
+    "why_demo": "Su titular público es '50+ agentes IA en tres categorías', un encuadre muy de arquitectura/producto, pese a citar también ahorros (3,7-5,2% y reducciones de tiempo del 35-46%). Con un seed de 13M$ y venta enterprise (integra SAP/Ariba/Coupa), la demo corre riesgo de lucir los agentes en lugar del ahorro que busca el CPO. No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2025/11/26/procure-ai-nets-13m-to-scale-autonomous-ai-for-procurement/"
+  },
+  {
+    "company": "Metycle",
+    "demo_access": "Sin señal de demo",
+    "messaging": "ROI/valor",
+    "fit": "Baja",
+    "why_demo": "Es un marketplace gestionado de metales reciclados (se encarga de QA, logística y pagos) con narrativa de valor/sostenibilidad (ahorro de CO2, 'el Amazon del reciclaje de metales'); los prospectos no 'ven una demo de producto' sino que operan en el marketplace. Por ese modelo transaccional de brokerage, el servicio de convertir una demo técnica en un pitch de valor encaja poco. No vi ninguna demo de ventas en vivo.",
+    "evidence_url": "https://recyclingtoday.com/news/metycle-europe-metal-recycling-platform-funding-ai-sorting-trading"
+  },
+  {
+    "company": "Kanguro",
+    "demo_access": "unknown",
+    "messaging": "ROI/valor",
+    "fit": "Baja",
+    "why_demo": "Combina una red física de puntos PUDO con SaaS de uso, y su comunicación ya es de valor/métricas (-35% de coste operativo, ~45% de entregas fuera de casa frente a ~3% del sector). Al ser más una red/servicio logístico que un software demo-driven y estar ya orientado a resultados, la necesidad es baja. No pude cargar su web; me baso en cobertura pública y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://startupshub.catalonia.com/startup/barcelona/kanguro/5716"
+  },
+  {
+    "company": "TramoIA",
+    "demo_access": "unknown",
+    "messaging": "Técnico/features",
+    "fit": "Media",
+    "why_demo": "Spin-off de Tecnalia con robots colaborativos (navegación autónoma, percepción avanzada); el mensaje es técnico/investigador y, al ser robótica, la demo es inherentemente físico-técnica. Vende en modelo Robot-as-a-Service, donde el comprador querrá ROI (ahorro de mano de obra, throughput), pero está en fase pre-comercial (ventas previstas desde 2026), así que la necesidad inmediata es media. No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://www.tecnalia.com/en/press-room/we-have-created-the-tramoia-start-up-a-technological-solution-to-automate-logistics-processes"
+  },
+  {
+    "company": "Daedalus",
+    "demo_access": "unknown",
+    "messaging": "Técnico/features",
+    "fit": "Media",
+    "why_demo": "Su comunicación sobre-indexa en visión y tecnología (pedigrí OpenAI del fundador, 'Manufacturing AI Platform', '10x eficiencia', 'fiabilidad sobrehumana', fábricas autónomas). En la práctica el cliente compra piezas de precisión (precio/plazo/calidad), por lo que podría beneficiarse de traducir esa visión a valor; matizado porque su venta es de fabricación, no de software demo-driven. No pude cargar su web y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2024/02/08/former-openai-lead-s-startup-daedalus-secures-21m-in-ngp-capital-led-round/"
+  },
+  {
+    "company": "Cato",
+    "demo_access": "unknown",
+    "messaging": "Mixto",
+    "fit": "Media",
+    "why_demo": "Plataforma vertical para licitaciones públicas con mensaje mixto: funcionalidades densas (monitoriza 27.000 fuentes, extrae requisitos, pre-rellena ofertas) y un valor bastante intuitivo (ganar más licitaciones, ahorrar tiempo). Con ~200 usuarios activos y un producto rico en features, una demo podría recorrer funciones en lugar del resultado, de ahí una necesidad media. No pude cargar su web; me baso en cobertura pública y no vi su demo de ventas en vivo.",
+    "evidence_url": "https://tech.eu/2026/09/07/cato-raises-eur6m-to-expand-its-ai-platform-for-public-sector-sales/"
+  }
+]
